@@ -1,0 +1,9 @@
+---
+layout: kontener
+---
+{% include "foto-i-tekst.njk" %}
+{% if opinie %}
+  <hr>
+  <h2 class="tytul">Co mówią uczestnicy i uczestniczki rytuałów i warsztatów, które prowadziłam? <span id="opinie-gora">Przeczytajcie:</span></h2>
+  {% include "opinie.njk" %}    
+{% endif %}

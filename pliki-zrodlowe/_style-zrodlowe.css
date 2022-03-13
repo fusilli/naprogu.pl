@@ -1,0 +1,72 @@
+@tailwind base;
+
+@font-face { font-family: 'now'; font-style: normal; font-weight: 400; src: local(''), url('/fonty/now-regular.woff2') format('woff2'), url('/fonty/now-regular.woff') format('woff'); }
+@font-face { font-family: 'now'; font-style: normal; font-weight: 700; src: local(''), url('/fonty/now-bold.woff2') format('woff2'), url('/fonty/now-bold.woff') format('woff'); }
+
+a, button { @apply text-czerwony; }
+::selection { @apply bg-czerwony text-white }
+.tekst {
+  @apply max-w-[50ch];
+}
+.tekst > *:not(:first-child),
+.tekst blockquote > *:not(:first-child) { 
+  @apply mt-6; 
+}
+cite { @apply block; }
+hr {
+  @apply h-3 bg-repeat-x border-0 mt-16 mb-14;
+  background-image: url("/obrazki/wezyk.svg");
+}
+
+.glowna-przyciski {
+  a {
+    @apply border-2 border-dashed hover:border-solid focus:border-solid border-czerwony no-underline px-4 pt-2 pb-3 md:hover:bg-czerwony md:focus:bg-czerwony place-items-center;
+  }
+  h2, p {
+    @apply row-start-1 row-span-1 col-start-1 col-span-1 text-center;
+  }
+  p {
+    @apply text-white text-lg xs:text-xl invisible hidden md:block;
+  }
+}
+@keyframes imageAnimation { 
+  0% { opacity: 0; animation-timing-function: ease-in; }
+  8% { opacity: 1; }
+  25% { opacity: 1; animation-timing-function: ease-out; }
+  33% { opacity: 0; }
+  100% { opacity: 0; }
+}
+.motto {
+  ul { @apply grid grid-cols-1 grid-rows-1;
+    li { @apply row-start-1 row-span-1 col-start-1 col-span-1;
+      opacity: 0;
+      animation: imageAnimation 20s linear infinite 0s; 
+    }
+    li:nth-child(1) { opacity: 1; }
+    li:nth-child(2) { animation-delay: 5s; }
+    li:nth-child(3) { animation-delay: 10s; }
+    li:nth-child(4) { animation-delay: 15s; }
+  }
+}
+.menu-lista {
+  @apply pt-5 pb-10;
+  background-image: url("/obrazki/wezyk.svg"), url("/obrazki/wezyk.svg");
+  background-position: top left, bottom left;
+  background-repeat: repeat-x, repeat-x;
+}
+@tailwind components;
+.tytul {
+  @apply text-2xl text-czerwony mb-6;
+}
+
+.przycisk {
+  @apply h-full flex flex-col justify-center items-center text-center px-5 py-4 border-2 border-dashed hover:border-solid focus:border-solid border-czerwony no-underline;
+  svg { @apply h-12 w-auto mb-3; }
+}
+@tailwind utilities;
+.kontener {
+  @apply max-w-screen-lg px-3 mx-auto;
+}
+.text-shadow {
+  text-shadow: 0 0 6px rgba(0,0,0,.85);
+}

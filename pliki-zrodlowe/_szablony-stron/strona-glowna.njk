@@ -1,0 +1,42 @@
+---
+layout: bazowy
+---
+<section class="md:grid grid-cols-3 gap-10 justify-center items-center text-2xl xs:text-3xl max-w-[660px] mx-auto">
+  <h1 class="row-start-1 row-span-1 col-start-1 col-span-3 text-center text-czerwony">Na progu</h1>
+  <div class="row-start-2 row-span-1 col-start-2 col-span-1 my-8 md:my-0">
+    <div class="w-36 xs:w-44 mx-auto">{% include "ikony/logo.svg" %}</div>
+  </div>
+  <p class="row-start-2 row-span-1 col-start-1 col-span-1 text-center xs:mb-2 md:mb-0">Rytuały przejścia</p>
+  <p class="row-start-2 row-span-1 col-start-3 col-span-1 text-center xs:mb-2 md:mb-0">Ceremonie świeckie</p>
+  <p class="row-start-3 row-span-1 col-start-1 col-span-3 text-center">Warsztaty przemiany</p>
+</section>
+<section class="mt-16 border-t border-black">
+  <div class="lg:max-w-screen-lg lg:px-3 mx-auto lg:mt-20">
+    <a href="/czym-sa-rytualy-przejscia/" class="motto block relative sm:text-white">
+      <ul>
+        <li><img src="/obrazki/motto-01.jpg" alt=""></li>
+        <li><img src="/obrazki/motto-02.jpg" alt=""></li>
+        <li><img src="/obrazki/motto-03.jpg" alt=""></li>
+        <li><img src="/obrazki/motto-04.jpg" alt=""></li>
+      </ul>
+      <p class="absolute top-0 left-0 w-full h-full flex justify-center items-center text-2xl xs:text-3xl sm:text-4xl lg:text-5xl text-white text-center px-3 text-shadow">„Rytuał jest poezją w&nbsp;świecie czynów”</p>
+      <p class="hidden md:block absolute bottom-4 right-6 lg:bottom-6 lg:right-8 text-xl lg:text-2xl text-shadow">Dowiedz się, czym są i&nbsp;czemu służą obrzędy przejścia</p>
+    </a>
+  </div>
+  <div class="kontener mt-16">
+    <div class="glowna-przyciski grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-12 mt-6 md:mt-12">
+      <a href="/czym-sa-rytualy-przejscia/" class="group grid grid-cols-1 grid-rows-1 md:hidden">
+        <h2 class="text-xl xs:text-2xl">Czym są i&nbsp;czemu służą obrzędy przejścia</h2>
+      </a>
+      <a href="/rytual-dla-ciebie/" class="group grid grid-cols-1 grid-rows-1">
+        <h2 class="text-2xl xs:text-3xl">Rytuał dla Ciebie</h2>
+        <p class="group-hover:visible group-focus:visible">Dowiedz się więcej o rytuałach, jakie prowadzę i&nbsp;wybierz ten, którego potrzebujesz</p>
+      </a>
+      <a href="/warsztaty-przemiany/" class="group grid grid-cols-1 grid-rows-1">
+        <h2 class="text-2xl xs:text-3xl">Warsztaty przemiany</h2>
+        <p class="group-hover:visible group-focus:visible">Weź udział w&nbsp;warsztatach, wspomagających przemianę Twoich relacji ze&nbsp;sobą, innymi osobami, Naturą.</p>
+      </a>
+    </div>
+  </div>
+</section>
+{{ content | safe }}

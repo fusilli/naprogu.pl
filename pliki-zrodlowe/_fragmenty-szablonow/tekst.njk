@@ -1,0 +1,4 @@
+<h1 class="tytul{% if layout == "sam-tekst" %} text-center{% endif %}">{{ title }}</h1>
+<div class="tekst{% if layout == "sam-tekst" %} mx-auto{% endif %}">
+{{ content | safe }}
+</div>

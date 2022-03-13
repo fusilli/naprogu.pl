@@ -1,0 +1,16 @@
+<script>
+  const otworzMenu = document.querySelector('#otworzMenu');
+  const menu = document.querySelector('#menu');
+  const zamknijMenu = document.querySelector('#zamknijMenu');
+  otworzMenu.addEventListener('click', function() {
+    let expanded = this.getAttribute('aria-expanded') === 'true';
+    this.setAttribute('aria-expanded', !expanded);
+    menu.classList.toggle('hidden');
+    menu.classList.toggle('block');
+  });
+  zamknijMenu.addEventListener('click', function() {
+    otworzMenu.setAttribute('aria-expanded', false);
+    menu.classList.toggle('block');
+    menu.classList.toggle('hidden');
+  });
+</script>

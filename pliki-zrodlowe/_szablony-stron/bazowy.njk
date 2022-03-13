@@ -1,0 +1,7 @@
+{% include "head.njk" %}
+  <body class="text-lg sm:text-xl leading-relaxed text-black">
+    {% include "header.njk" %}
+    <main class="my-16">
+    {{ content | safe }}
+    </main>
+{% include "footer.njk" %}
