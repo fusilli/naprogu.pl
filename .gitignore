@@ -1,3 +1,5 @@
 node_modules
 wygenerowana-strona
 pliki-zrodlowe/style.css
+# Local Netlify folder
+.netlify
