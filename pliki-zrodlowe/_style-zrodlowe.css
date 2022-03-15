@@ -12,6 +12,14 @@ a, button { @apply text-czerwony; }
 .tekst blockquote > *:not(:first-child) { 
   @apply mt-6; 
 }
+.tekst {
+  ul { @apply pl-4;
+    li {
+      @apply list-disc;
+      &::marker { @apply text-czerwony; }
+    }
+  }
+}
 cite { @apply block; }
 hr {
   @apply h-3 bg-repeat-x border-0 mt-16 mb-14;

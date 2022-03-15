@@ -1,9 +1,9 @@
 ---
 layout: rytualy
 title: Rytuał dla Ciebie
-seo: 
+seo: Wybierz i zaplanuj rytuał przejścia, który odpowiada Twojemu etapowi w życiu, potrzebom i wartościom.
 foto: rytual-dla-ciebie.jpg
-opis_foto: 
+opis_foto: Na ciemnej tafli wody unosi się kwiat o zielonej łodydze i kontrastowych żółtych płatkach.
 info_o_foto: unsplash.com/@larm
 eleventyNavigation:
   key: Rytuał dla Ciebie

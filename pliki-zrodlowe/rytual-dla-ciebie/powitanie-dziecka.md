@@ -1,10 +1,11 @@
 ---
 layout: rytualy
 title: Powitanie dziecka
-seo: 
+seo: Powitanie dziecka to rytuał, który pozwala rodzicom pełniej odnaleźć się w nowej roli oraz symbolicznie włączyć małego człowieka do społeczności.
 foto: powitanie-dziecka.jpg
-opis_foto: 
+opis_foto: Z rozświetlonej słońcem trawy wyrasta krokus o gotowych do rozwinięcia płatkach.
 info_o_foto: unsplash.com/@mascapone31
+date: 2022-03-01
 ---
 Pojawienie się dziecka to ogromna zmiana w życiu całej rodziny. Nasz domowy mikrokosmos powiększa się o kolejną osobę. Zmieniają się przyzwyczajenia, nawyki, codzienne rytmy. Zmieniamy się my – nasza wrażliwość, postrzeganie świata i własnego w nim funkcjonowania. W naszym życiu pojawia się nagle odrębna jednostka – z własnymi potrzebami, emocjami, z kształtującą się powoli osobowością.
 

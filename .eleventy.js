@@ -2,7 +2,7 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const md = require('markdown-it')();
 
 module.exports = function(eleventyConfig) {
-
+  eleventyConfig.setUseGitIgnore(false);
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
   eleventyConfig.addWatchTarget("./pliki-zrodlowe/style.css");
   eleventyConfig.addPassthroughCopy("./pliki-zrodlowe/style.css");

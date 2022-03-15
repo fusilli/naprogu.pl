@@ -1,9 +1,9 @@
 ---
 layout: warsztaty
 title: Hafty-opowieści
-seo: 
+seo: Warsztaty haftów-opowieści to spotkanie z igłą i nicią, tradycyjną symboliką oraz historiami i marzeniami, które w nas mieszkają.
 foto: hafty-opowiesci.jpg
-opis_foto: 
+opis_foto: Na zdjęciu znajduje się fragment białego płótna z geometrycznymi motywami w kolorach czarnym i czerwonym, wyhaftowanymi haftem krzyżykowym.
 ---
 Hafty-opowieści były dla mieszkanek wschodniej słowiańszczyzny sposobem przekazywania historii, zaznaczania ważnych momentów w życiu, zaklinania dobrych życzeń. Były narzędziem wyrazu dla tych, którzy na co dzień pozostawali dla swojego systemu społecznego niewidzialni: chłopów, kobiet,  osób niepiśmiennych. Czerwone krzyżyki na białym płótnie tworzyły proste geometryczne formy odnoszące się do zjawisk przyrody, uczuć, etapów rozwoju, dobrych wróżb.
 

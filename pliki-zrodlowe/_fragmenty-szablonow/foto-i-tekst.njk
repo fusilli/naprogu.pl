@@ -1,6 +1,6 @@
 <div class="md:grid grid-cols-3 gap-8">
   <div class="col-start-1 col-span-1 mb-8 md:mb-0">
-    <div class="{% if bg == "top" %}bg-top{% else %}bg-center{% endif%} bg-no-repeat bg-cover aspect-[1.5/1] md:aspect-[1/1.5]" style="background-image: url(/obrazki/{{ foto }})"{% if opis_foto %}aria-label=" {{ opis_foto }}"{% endif %}>
+    <div class="{% if bg == "top" %}bg-top{% else %}bg-center{% endif%} bg-no-repeat bg-cover aspect-[1.5/1] md:aspect-[1/1.5]" style="background-image: url(/obrazki/{{ foto }})"{% if opis_foto %}aria-label="Zdjęcie: {{ opis_foto }}"{% endif %}>
     </div>
     {% if info_o_foto %}
       <p class="text-xs tracking-wider text-gray-400 mt-2 -mb-2">Fot. {{ info_o_foto }}</p>

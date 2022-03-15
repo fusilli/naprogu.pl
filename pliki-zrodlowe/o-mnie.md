@@ -1,9 +1,9 @@
 ---
 layout: o-mnie
 title: O mnie
-seo: 
+seo: Przeczytaj kim jestem, dlaczego zajmuję się obrzędami przejścia oraz co mówią o mnie osoby, których rytuały prowadziłam.
 foto: o-mnie.jpg
-opis_foto: Portret fotograficzny Moniki Stasiak
+opis_foto: Portretowe zdjęcie dziewczny w czerwonej chustce i płaszczu w kolorze khaki, stojącej na tle rozmytej rzeki.
 info_o_foto: Grzegorz Wełnicki / RATS Agency
 eleventyNavigation:
   key: O mnie

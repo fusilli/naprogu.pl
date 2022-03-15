@@ -1,10 +1,11 @@
 ---
 layout: rytualy
 title: Twój rytuał
-seo: 
+seo: Pomagam zaplanować i przeprowadzić indywidualny rytuał, służący zaznaczeniu i oswojeniu ważnych momentów w Twoim życiu.
 foto: twoj-rytual.jpg
-opis_foto: 
+opis_foto: Rozświetlone słonecznym blaskiem dłonie splatają bukiet lub wieniec z traw o długich miękkich pióropuszach i z rozmarynu.
 info_o_foto: evgeniy-kletsov
+date: 2022-03-05
 ---
 Rytuały przejścia towarzyszą ważnym momentom życia. Dla każdego jednak te momenty mogą być czymś nieco innym. Dla jednych kluczowa zmiana będzie dotyczyła narodzin dziecka czy zawarcia małżeństwa, a dla innych trwałej zmiany miejsca zamieszkania, pożegnaniu pewnego etapu życia albo odnowienia dotychczasowych więzi i zobowiązań.
 

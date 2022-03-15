@@ -1,9 +1,9 @@
 ---
 layout: warsztaty
 title: Warsztaty dla Ziemi
-seo: 
+seo: Warsztaty dla Ziemi pomagają poczuć się częścią szerokiego kręgu istot żywych oraz odnaleźć w sobie głęboką motywację do działań na rzecz natury.
 foto: warsztaty-dla-ziemi.jpg
-opis_foto: 
+opis_foto: Na zdjęciu rozświetlony, pełen zieleni las, pośrodku którego rośnie potężne drzewo o rozłożystych poskręcanych gałęziach.
 info_o_foto: unsplash.com/@veeterzy
 ---
 Żyjemy w czasach głębokiego kryzysu dotykającego Ziemię i zamieszkujące ją istoty. Jednym ze źródeł tego kryzysu jest poczucie oddzielenia człowieka od natury. Objawia się ono przeświadczeniem o własnej wyjątkowości względem innych organizmów i poczuciem, że możemy kształtować Ziemię tak, jakby była maszyną w naszych rękach. Efekty takiego myślenia spotykamy na każdym kroku – w apokaliptycznych krajobrazach kopalni odkrywkowych, w olbrzymich progach wodnych blokujących migrację ryb, w chowie przemysłowym zwierząt.

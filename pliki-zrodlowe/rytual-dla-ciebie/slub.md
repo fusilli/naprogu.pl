@@ -1,10 +1,11 @@
 ---
 layout: rytualy
 title: Ślub
-seo: 
+seo: Ceremonie ślubne są symbolicznym połączeniem dwóch osób oraz ich światów wartości, bliskich i przyjaciół we wspólną całość.
 foto: slub.jpg
-opis_foto: 
+opis_foto: W tle rozmyta droga i fragment nieba. Na pierwszym planie widać ręce dwóch osób, trzymające się za dłonie.
 info_o_foto: unsplash.com/@sdfrahbar
+date: 2022-03-03
 ---
 Welon, witanie państwa młodych chlebem i solą, przenoszenie panny młodej przez próg, a nawet weselne „bramki” – wszystkie one są echem dawnych rozbudowanych rytuałów przejścia towarzyszących ślubowi i weselu. Część z nich nam się podoba, część bawi, a z wielu bez żalu rezygnujemy. Nie zmienia się jednak cel, któremu służyły – symboliczne połączenie dwóch osób oraz ich światów we wspólną całość.
 

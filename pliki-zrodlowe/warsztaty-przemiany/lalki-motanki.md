@@ -1,9 +1,9 @@
 ---
 layout: warsztaty
 title: Lalki-motanki
-seo: 
+seo: Motanki to słowiańskie lalki mocy i dobrych życzeń. Warsztaty ich tworzenia to okazja do spotkania w kobiecym kręgu, wsłuchania się w siebie i swoje potrzeby.
 foto: lalki-motanki.jpg
-opis_foto: 
+opis_foto: Na zdjęciu widać dwie siedzące obok siebie lalki zrobione z kolorowych materiałów.
 bg: top
 ---
 Motanki to słowiańskie lalki mocy, przemiany, wewnętrznych poszukiwań. Tworzone przez kobiety i dla kobiet pozwalały na spotkanie z samą sobą, swoimi potrzebami i marzeniami. Mogły spełniać życzenia, zapewniać obfitość, chronić przed złymi mocami, wzmacniać więź między matką a dzieckiem. Nie mając rysów indywidualnych (brak zaznaczonej twarzy), stawały się nośnikiem towarzyszących kobietom intencji i celów.
