@@ -16,7 +16,7 @@ collections:
         fields:
           - { label: "Layout", name: "layout", widget: "hidden", default: "strona-glowna" }
           - { label: "Tytuł", name: "title", widget: "string" }
-          - { label: "SEO", name: "seo", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "text" }
           - { label: "Permalink", name: "permalink", widget: "hidden", default: "/" }
           - { label: "Treść", name: "body", widget: "markdown" }
       - label: "Czym są rytuały przejścia?"
@@ -25,9 +25,9 @@ collections:
         fields:
           - { label: "Layout", name: "layout", widget: "hidden", default: "foto-i-tekst" }
           - { label: "Tytuł", name: "title", widget: "string" }
-          - { label: "SEO", name: "seo", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "text" }
           - { label: "Foto", name: "foto", widget: "string" }
-          - { label: "Opis foto", name: "opis_foto", widget: "string" }
+          - { label: "Opis foto", name: "opis_foto", widget: "text" }
           - { label: "Info o foto", name: "info_o_foto", widget: "string" }
           - label: "Pozycja w menu…"
             name: "eleventyNavigation"
@@ -43,9 +43,9 @@ collections:
         fields:
           - { label: "Layout", name: "layout", widget: "hidden", default: "rytualy" }
           - { label: "Tytuł", name: "title", widget: "string" }
-          - { label: "SEO", name: "seo", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "text" }
           - { label: "Foto", name: "foto", widget: "string" }
-          - { label: "Opis foto", name: "opis_foto", widget: "string" }
+          - { label: "Opis foto", name: "opis_foto", widget: "text" }
           - { label: "Info o foto", name: "info_o_foto", widget: "string" }
           - label: "Pozycja w menu…"
             name: "eleventyNavigation"
@@ -61,9 +61,9 @@ collections:
         fields:
           - { label: "Layout", name: "layout", widget: "hidden", default: "warsztaty" }
           - { label: "Tytuł", name: "title", widget: "string" }
-          - { label: "SEO", name: "seo", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "text" }
           - { label: "Foto", name: "foto", widget: "string" }
-          - { label: "Opis foto", name: "opis_foto", widget: "string" }
+          - { label: "Opis foto", name: "opis_foto", widget: "text" }
           - { label: "Info o foto", name: "info_o_foto", widget: "string" }
           - label: "Pozycja w menu…"
             name: "eleventyNavigation"
@@ -79,9 +79,9 @@ collections:
         fields:
           - { label: "Layout", name: "layout", widget: "hidden", default: "o-mnie" }
           - { label: "Tytuł", name: "title", widget: "string" }
-          - { label: "SEO", name: "seo", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "text" }
           - { label: "Foto", name: "foto", widget: "string" }
-          - { label: "Opis foto", name: "opis_foto", widget: "string" }
+          - { label: "Opis foto", name: "opis_foto", widget: "text" }
           - { label: "Info o foto", name: "info_o_foto", widget: "string" }
           - label: "Pozycja w menu…"
             name: "eleventyNavigation"
@@ -103,7 +103,7 @@ collections:
         fields:
           - { label: "Layout", name: "layout", widget: "hidden", default: "sam-tekst" }
           - { label: "Tytuł", name: "title", widget: "string" }
-          - { label: "SEO", name: "seo", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "text" }
           - label: "Pozycja w menu…"
             name: "eleventyNavigation"
             widget: "object"
@@ -119,9 +119,9 @@ collections:
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "rytualy" }
       - { label: "Tytuł", name: "title", widget: "string" }
-      - { label: "SEO", name: "seo", widget: "string" }
+      - { label: "SEO", name: "seo", widget: "text" }
       - { label: "Foto", name: "foto", widget: "string" }
-      - { label: "Opis foto", name: "opis_foto", widget: "string" }
+      - { label: "Opis foto", name: "opis_foto", widget: "text" }
       - { label: "Info o foto", name: "info_o_foto", widget: "string" }
       - { label: "Data (odpowiada tylko za kolejność kafelków)", name: "date", widget: "datetime", date_format: "YYYY-MM-DD" }
       - { label: "Treść", name: "body", widget: "markdown" }
@@ -132,6 +132,7 @@ collections:
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "rytualy" }
       - { label: "Tytuł", name: "title", widget: "string" }
-      - { label: "SEO", name: "seo", widget: "string" }
+      - { label: "SEO", name: "seo", widget: "text" }
       - { label: "Foto", name: "foto", widget: "string" }
-      - { label: "Opis foto", name: "opis_foto", widget: "string" }
+      - { label: "Opis foto", name: "opis_foto", widget: "text" }
+      - { label: "Treść", name: "body", widget: "markdown" }
