@@ -1,0 +1,137 @@
+backend:
+  name: git-gateway
+  branch: main
+media_folder: "pliki-zrodlowe/obrazki"
+public_folder: "/obrazki"
+slug:
+  encoding: "ascii"
+  clean_accents: true
+collections:
+  - label: "Strony"
+    name: "strony"
+    files:
+      - label: "Strona główna"
+        name: "strona-glowna"
+        file: "pliki-zrodlowe/strona-glowna.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "strona-glowna" }
+          - { label: "Tytuł", name: "title", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "string" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "/" }
+          - { label: "Treść", name: "body", widget: "markdown" }
+      - label: "Czym są rytuały przejścia?"
+        name: "czym-sa-rytualy-przejscia"
+        file: "pliki-zrodlowe/czym-sa-rytualy-przejscia.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "foto-i-tekst" }
+          - { label: "Tytuł", name: "title", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "string" }
+          - { label: "Foto", name: "foto", widget: "string" }
+          - { label: "Opis foto", name: "opis_foto", widget: "string" }
+          - { label: "Info o foto", name: "info_o_foto", widget: "string" }
+          - label: "Pozycja w menu…"
+            name: "eleventyNavigation"
+            widget: "object"
+            collapsed: true
+            fields: 
+              - { label: "Tytuł", name: "key", widget: "string" }
+              - { label: "Kolejność", name: "order", widget: "number" }
+          - { label: "Treść", name: "body", widget: "markdown" }
+      - label: "Rytuał dla Ciebie"
+        name: "rytual-dla-ciebie"
+        file: "pliki-zrodlowe/rytual-dla-ciebie.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "rytualy" }
+          - { label: "Tytuł", name: "title", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "string" }
+          - { label: "Foto", name: "foto", widget: "string" }
+          - { label: "Opis foto", name: "opis_foto", widget: "string" }
+          - { label: "Info o foto", name: "info_o_foto", widget: "string" }
+          - label: "Pozycja w menu…"
+            name: "eleventyNavigation"
+            widget: "object"
+            collapsed: true
+            fields: 
+              - { label: "Tytuł", name: "key", widget: "string" }
+              - { label: "Kolejność", name: "order", widget: "number" }
+          - { label: "Treść", name: "body", widget: "markdown" }
+      - label: "Warsztaty przemiany"
+        name: "warsztaty-przemiany"
+        file: "pliki-zrodlowe/warsztaty-przemiany.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "warsztaty" }
+          - { label: "Tytuł", name: "title", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "string" }
+          - { label: "Foto", name: "foto", widget: "string" }
+          - { label: "Opis foto", name: "opis_foto", widget: "string" }
+          - { label: "Info o foto", name: "info_o_foto", widget: "string" }
+          - label: "Pozycja w menu…"
+            name: "eleventyNavigation"
+            widget: "object"
+            collapsed: true
+            fields: 
+              - { label: "Tytuł", name: "key", widget: "string" }
+              - { label: "Kolejność", name: "order", widget: "number" }
+          - { label: "Treść", name: "body", widget: "markdown" }
+      - label: "O mnie"
+        name: "o-mnie"
+        file: "pliki-zrodlowe/o-mnie.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "o-mnie" }
+          - { label: "Tytuł", name: "title", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "string" }
+          - { label: "Foto", name: "foto", widget: "string" }
+          - { label: "Opis foto", name: "opis_foto", widget: "string" }
+          - { label: "Info o foto", name: "info_o_foto", widget: "string" }
+          - label: "Pozycja w menu…"
+            name: "eleventyNavigation"
+            widget: "object"
+            collapsed: true
+            fields: 
+              - { label: "Tytuł", name: "key", widget: "string" }
+              - { label: "Kolejność", name: "order", widget: "number" }
+          - label: "Opinie"
+            name: "opinie"
+            widget: "list"
+            fields:
+              - { label: "Tekst", name: "tekst", widget: "markdown" }
+              - { label: "Podpis", name: "podpis", widget: "string" }
+          - { label: "Treść", name: "body", widget: "markdown" }
+      - label: "Kontakt"
+        name: "kontakt"
+        file: "pliki-zrodlowe/kontakt.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "sam-tekst" }
+          - { label: "Tytuł", name: "title", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "string" }
+          - label: "Pozycja w menu…"
+            name: "eleventyNavigation"
+            widget: "object"
+            collapsed: true
+            fields: 
+              - { label: "Tytuł", name: "key", widget: "string" }
+              - { label: "Kolejność", name: "order", widget: "number" }
+          - { label: "Treść", name: "body", widget: "markdown" }
+  - label: "Rytuały"
+    name: "rytualy"
+    folder: "pliki-zrodlowe/rytual-dla-ciebie"
+    create: false
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "rytualy" }
+      - { label: "Tytuł", name: "title", widget: "string" }
+      - { label: "SEO", name: "seo", widget: "string" }
+      - { label: "Foto", name: "foto", widget: "string" }
+      - { label: "Opis foto", name: "opis_foto", widget: "string" }
+      - { label: "Info o foto", name: "info_o_foto", widget: "string" }
+      - { label: "Data (odpowiada tylko za kolejność kafelków)", name: "date", widget: "datetime", date_format: "YYYY-MM-DD" }
+      - { label: "Treść", name: "body", widget: "markdown" }
+  - label: "Warsztaty"
+    name: "warsztaty"
+    folder: "pliki-zrodlowe/warsztaty-przemiany"
+    create: false
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "rytualy" }
+      - { label: "Tytuł", name: "title", widget: "string" }
+      - { label: "SEO", name: "seo", widget: "string" }
+      - { label: "Foto", name: "foto", widget: "string" }
+      - { label: "Opis foto", name: "opis_foto", widget: "string" }
