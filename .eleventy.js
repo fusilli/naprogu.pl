@@ -14,6 +14,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./pliki-zrodlowe/icon.svg");
   eleventyConfig.addPassthroughCopy("./pliki-zrodlowe/apple-touch-icon.png");
   eleventyConfig.addPassthroughCopy("./pliki-zrodlowe/manifest.webmanifest");
+  eleventyConfig.addPassthroughCopy("./pliki-zrodlowe/admin/config.yml");
   eleventyConfig.addNunjucksGlobal("teraz", require("./funkcje/teraz.js") );
   eleventyConfig.addFilter("md", string => md.render(string));
   eleventyConfig.addTransform("sierotki", require("./funkcje/sierotki.js") );
