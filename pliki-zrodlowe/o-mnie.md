@@ -40,6 +40,27 @@ opinie:
 
       Dzięki otwartości Moniki udało się przeprowadzić tę uroczystość w sposób łączący swobodę i radość z czymś głębszym, poważniejszym. Był piknik na łące, były życzenia spisane na wielkim arkuszu papieru, które dziś wiszą nad łóżkiem Tymona przypominając nam o tym wydarzeniu. Było też sadzenie drzew, dzięki czemu podczas spacerów mamy okazję obserwować jak rosną one razem z naszym synem.
     podpis: Maciek
+  - tekst: >-
+      Decyzję dotyczącą rytuału świeckiego podjęłam w oparciu o wolę zmarłej
+      mamy. Pani Monika stworzyła niepowtarzalną ceremonię - najpierw wewnątrz
+      kaplicy, potem przy grobie naszej mamy. Wygłoszony przez nią tekst był
+      świetny, pełen intymnych akcentów, opowieści o osobie, którą żegnamy,
+      pełen wdzięku i ciepła. Żegnaliśmy osobę, którą dzięki jej słowom mogliśmy
+      wszyscy lepiej poznać, która stała się nam wszystkim bliższa i dlatego tym
+      bardziej pozostająca w pamięci.
+
+
+      Nawiązania do motywów sił natury, obiegu energii w przyrodzie były pełne wyobraźni i nadziei. Jeżeli kiedyś będę odchodzić - tak właśnie chciałabym być zapamiętana i oddana siłom natury.
+
+
+      Jesteśmy wdzięczni za ten dar jakim były dzięki pani Monice ostatnie chwile z mamą - zwieńczone muzyką i słowami tak dodającymi światła w sercu. 
+
+
+      Jesteśmy ludźmi wierzącymi, a decyzja o tej formie pożegnania wynikała z motywów zupełnie innych niż chęć odwrócenia się od Boga. Bóg-Uniwersum był obecny podczas ceremonii i we wspomnieniach i we wspaniałym nawiązaniu do tego, że wszystko jest energią i wraca do swojego źródła. Bardzo dziękujemy za to, co pani Monika wyczarowała: z naszej pamięci, z letniego popołudnia ze śpiewu ptaków i pełnych ciepła słów, które pozostaną z nami.
+
+
+      Serdecznie pozdrawiamy w nadziei że to nie koniec nasze rodzinnej historii.
+    podpis: Dorota Tomaszewska-Niesyto
 ---
 Na początku były studia etnologiczne – czas spotkania z pracami Arnolda van Gennepa czy Victora Turnera, którzy pomogli mi zrozumieć, czym są obrzędy przejścia i jakie mają znaczenie dla jednostki i całej wspólnoty.
 
