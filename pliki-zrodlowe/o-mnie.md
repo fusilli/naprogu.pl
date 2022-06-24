@@ -1,24 +1,45 @@
 ---
 layout: o-mnie
 title: O mnie
-seo: Przeczytaj kim jestem, dlaczego zajmuję się obrzędami przejścia oraz co mówią o mnie osoby, których rytuały prowadziłam.
+seo: Przeczytaj kim jestem, dlaczego zajmuję się obrzędami przejścia oraz co
+  mówią o mnie osoby, których rytuały prowadziłam.
 foto: o-mnie.jpg
-opis_foto: Portretowe zdjęcie dziewczny w czerwonej chustce i płaszczu w kolorze khaki, stojącej na tle rozmytej rzeki.
+opis_foto: Portretowe zdjęcie dziewczny w czerwonej chustce i płaszczu w kolorze
+  khaki, stojącej na tle rozmytej rzeki.
 info_o_foto: Grzegorz Wełnicki / RATS Agency
 eleventyNavigation:
   key: O mnie
   order: 5
 opinie:
-  - tekst: |
-      Kiedy na świat przychodzi dziecko, potrzebne są otwarte drzwi. Te w sercach rodziców, ale też te w sercach całej wspólnoty. Monika stworzyła dla naszej córki piękną ceremonię wejścia w świat kultury i symbolicznych gestów, które ten świat tworzą.    
+  - tekst: >
+      Kiedy na świat przychodzi dziecko, potrzebne są otwarte drzwi. Te w
+      sercach rodziców, ale też te w sercach całej wspólnoty. Monika stworzyła
+      dla naszej córki piękną ceremonię wejścia w świat kultury i symbolicznych
+      gestów, które ten świat tworzą.    
+
 
       Spotkaliśmy się z rodziną i przyjaciółmi dla czteromiesięcznej Matyldy, by razem sądzić ziarno nowego życia. Każdy z gości miał możliwość zrobić dla M. motankę. Życzenia gości mogły zmaterializować się w symbolicznych skarbach, w które zostały wyposażone motanki. Mamy je wszystkie, czekają na jej 18 urodziny.
-    
+
+
       Często wspominamy ten dzień. Było to piękne doświadczenie, bardzo nam potrzebne. Dało nam przestrzeń do wspólnego radowania się. Matylda, dziś ośmioletnia, lubi nasze opowieści o tym wydarzeniu, ogląda zdjęcia no i oczywiście szuka po domu motanek.
     podpis: Klaudyna i Michał
-  - tekst: |
-      Braliśmy udział w prowadzonym przez Monikę powitaniu syna przyjaciół wśród żywych istot. Bardzo pozytywne doświadczenie, skupione na tym co ważne dla rodziny, przeprowadzone nienachalnie a jednocześnie angażujące uczestników.
+  - tekst: >
+      Braliśmy udział w prowadzonym przez Monikę powitaniu syna przyjaciół wśród
+      żywych istot. Bardzo pozytywne doświadczenie, skupione na tym co ważne dla
+      rodziny, przeprowadzone nienachalnie a jednocześnie angażujące
+      uczestników.
     podpis: Gosia i Wojtek
+  - tekst: >-
+      Pierwsze urodziny Tymona były bardzo dobrą okazją do symbolicznego
+      powitania go w społeczności naszych bliskich i przyjaciół, ale też
+      otaczającej nas natury. Przed tym wydarzeniem była jednak we mnie spora
+      obawa czy cała ceremonia nie będzie czymś sztucznym i wydumanym. Czy nie
+      będzie „na siłę” i czy wszyscy uczestnicy i uczestniczki będą się na niej
+      czuli komfortowo.
+
+
+      Dzięki otwartości Moniki udało się przeprowadzić tę uroczystość w sposób łączący swobodę i radość z czymś głębszym, poważniejszym. Był piknik na łące, były życzenia spisane na wielkim arkuszu papieru, które dziś wiszą nad łóżkiem Tymona przypominając nam o tym wydarzeniu. Było też sadzenie drzew, dzięki czemu podczas spacerów mamy okazję obserwować jak rosną one razem z naszym synem.
+    podpis: Maciek
 ---
 Na początku były studia etnologiczne – czas spotkania z pracami Arnolda van Gennepa czy Victora Turnera, którzy pomogli mi zrozumieć, czym są obrzędy przejścia i jakie mają znaczenie dla jednostki i całej wspólnoty.
 
