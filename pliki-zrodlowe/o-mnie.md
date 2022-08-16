@@ -61,6 +61,16 @@ opinie:
 
       Serdecznie pozdrawiamy w nadziei że to nie koniec nasze rodzinnej historii.
     podpis: Dorota Tomaszewska-Niesyto
+  - tekst: >-
+      Jesteśmy niezmiernie wdzięczni Monice za przygotowanie z nami naszej
+      ślubnej humanistycznej ceremonii przejścia.
+
+      Podeszła do nas bardzo personalnie, subtelnie dopytując i wsłuchując się w historię naszej miłości, nasze korzenie i wartości.
+
+      Monika (skądinąd badaczka-etnolożka) bardzo merytorycznie i metodycznie przeprowadzała nas przez proces twórczo-przygotowawczy, dając nam jednocześnie sporo przestrzeni i zrozumienia w burzliwym dla nas okresie organizacyjnym.
+
+      Ceremonia była dla nas bardzo głębokim przeżyciem, gdyż pozwoliła nam ubrać w gesty i rytuały nasze wartości, uczucia i intencje, znajdując adekwatną formę i odpowiedź na nasze duchowe potrzeby w tym ważnym momencie naszego życia.
+    podpis: Asia i Mikołaj
 ---
 Na początku były studia etnologiczne – czas spotkania z pracami Arnolda van Gennepa czy Victora Turnera, którzy pomogli mi zrozumieć, czym są obrzędy przejścia i jakie mają znaczenie dla jednostki i całej wspólnoty.
 
