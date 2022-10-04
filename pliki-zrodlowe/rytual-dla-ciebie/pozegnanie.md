@@ -11,15 +11,25 @@ opis_foto: Przez zamglony krajobraz wiedzie polna droga, która również rozmyw
 info_o_foto: unsplash.com/@brandaohh
 date: 2022-03-04
 ---
-*Mogę przyjść
-w pierzynie mgły na morzu
-lub w cienkiej smudze
-blasku księżyca.*\
+*Mogę przyjść*
 
-*Jedni zapalają świece,
-gdy widzą, że nadchodzę.
-Inni zasłaniają okna
-z nadzieją, że ich minę* \[E. Larsen, „Jestem Śmierć”]
+*w pierzynie mgły na morzu*
+
+*lub w cienkiej smudze*
+
+*blasku księżyca.*
+
+
+
+*Jedni zapalają świece,*
+
+*gdy widzą, że nadchodzę.*
+
+*Inni zasłaniają okna*
+
+*z nadzieją, że ich minę.*
+
+\[E. Larsen, „Jestem Śmierć”]
 
 
 Na tle pozostałych momentów granicznych w życiu śmierć jest wydarzeniem szczególnym, bo nieodwracalnym. Tracimy osobę, która dotąd była częścią naszego życia; z którą łączą nas wspomnienia, uczucia, więzy krwi lub przyjaźni. Stracie tej może towarzyszyć smutek, ból, rozgoryczenie, poczucie niesprawiedliwości i osamotnienia, ale też fala miłości, nostalgii albo ulga po długim i trudnym czasie odchodzenia. Sposobów odczucia straty i żałoby jest tyle, ile osób ich doświadczających.
