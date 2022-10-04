@@ -6,7 +6,7 @@ seo: Przeczytaj kim jestem, dlaczego zajmuję się obrzędami przejścia oraz co
 foto: pliki-zrodlowe/obrazki/img_6960.jpg
 opis_foto: Portretowe zdjęcie dziewczny w czerwonej chustce i płaszczu w kolorze
   khaki, stojącej na tle rozmytej rzeki.
-info_o_foto: fot. Maciej Kronenberg
+info_o_foto: Maciej Kronenberg
 eleventyNavigation:
   key: O mnie
   order: 5
