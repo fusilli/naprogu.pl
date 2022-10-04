@@ -6,7 +6,7 @@ seo: Przeczytaj kim jestem, dlaczego zajmuję się obrzędami przejścia oraz co
 foto: o-mnie.jpg
 opis_foto: Portretowe zdjęcie dziewczny w czerwonej chustce i płaszczu w kolorze
   khaki, stojącej na tle rozmytej rzeki.
-info_o_foto: Grzegorz Wełnicki / RATS Agency
+info_o_foto: fot. Maciej Kronenberg
 eleventyNavigation:
   key: O mnie
   order: 5
