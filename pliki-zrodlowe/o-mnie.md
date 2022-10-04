@@ -3,7 +3,7 @@ layout: o-mnie
 title: O mnie
 seo: Przeczytaj kim jestem, dlaczego zajmuję się obrzędami przejścia oraz co
   mówią o mnie osoby, których rytuały prowadziłam.
-foto: o-mnie.jpg
+foto: pliki-zrodlowe/obrazki/img_6960.jpg
 opis_foto: Portretowe zdjęcie dziewczny w czerwonej chustce i płaszczu w kolorze
   khaki, stojącej na tle rozmytej rzeki.
 info_o_foto: fot. Maciej Kronenberg
