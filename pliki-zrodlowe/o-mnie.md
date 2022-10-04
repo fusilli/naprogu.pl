@@ -71,6 +71,31 @@ opinie:
 
       Ceremonia była dla nas bardzo głębokim przeżyciem, gdyż pozwoliła nam ubrać w gesty i rytuały nasze wartości, uczucia i intencje, znajdując adekwatną formę i odpowiedź na nasze duchowe potrzeby w tym ważnym momencie naszego życia.
     podpis: Asia i Mikołaj
+  - tekst: >-
+      Miałam pewne obawy, bo planowaliśmy coś niespotykanego, a w uroczystości
+      miały wziąć udział bardzo różne osoby, nie wiedziałam jak to przebiegnie i
+      na ile goście będą otwarci na nowe doświadczenie. Uczestnicy bardzo się
+      zaangażowali. Mówili nam, że nigdy w podobnym pożegnaniu nie brali
+      udziału, a pomimo tego wystąpili podczas pogrzebu ze swoimi spontanicznymi
+      wspomnieniami o Mamie.
+
+
+      Chciałam pożegnać moją Mamę w zgodzie z tym jaka była, co było dla Niej ważne, bardzo chciałam, żeby uroczystość była przeprowadzona przez osobę, która się w nią zaangażuje, zależało mi na tym, żeby to było prawdziwe pożegnanie a nie kilka formułek.
+
+
+      Pani Monika przeprowadziła ceremonię, która była bardzo głęboka i poruszająca, uwolniła emocje i pani Monika nas przez nie prowadziła.
+
+      Podczas pożegnania popłynęło wiele łez ale to pomogło nam wracać do siebie z uczuciem, że energia Mamy jest z nami, teraz w inny sposób.
+
+
+      Ważne było dla mnie, żeby ceremonię dla mojej Mamy poprowadziła kobieta, tak podpowiedziała mi intuicja i rzeczywiście było coś niesamowitego w tym jak pani Monika w swojej delikatności, w ciemnej, stonowanej sukni i długim warkoczu prowadzi tę ceremonię spokojna i charyzmatyczna.
+
+
+      Na czas rytuału deszczowy dzień się rozpogodził a my zasialiśmy polne kwiaty, które teraz rosną na grobie Mamy.
+
+
+      Pani Monika ułożyła moje wspomnienia i to co się pojawiło w naszej rozmowie przed uroczystością w piękną opowieść, niesamowicie wzruszającą i dającą otuchę. Minęło sporo czasu, a ta opowieść nadal do mnie wraca."
+    podpis: Alicja
 ---
 Na początku były studia etnologiczne – czas spotkania z pracami Arnolda van Gennepa czy Victora Turnera, którzy pomogli mi zrozumieć, czym są obrzędy przejścia i jakie mają znaczenie dla jednostki i całej wspólnoty.
 
