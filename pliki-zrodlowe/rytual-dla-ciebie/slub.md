@@ -5,7 +5,7 @@ seo: Ceremonie ślubne są symbolicznym połączeniem dwóch osób oraz ich świ
   wartości, bliskich i przyjaciół we wspólną całość.
 foto: dscf7839.jpg
 opis_foto: Para młoda całuje się po zawarciu małżeństwa w otoczeniu przyrody.
-info_o_foto: fot. Karina Krystosiak
+info_o_foto: Karina Krystosiak
 date: 2022-03-03
 ---
 Ceremonia ślubna jest symbolicznym pożegnaniem stanu wolnego, by zrobić miejsce na to, co wspólne. Jest wyrazem gotowości na połączenie światów dwóch osób, przy jednoczesnym zachowaniu odrębności każdego z nich. Pozwala na wypowiedzenie nadziei, marzeń i deklaracji, które wiążemy z życiem we dwoje. Stwarza przestrzeń, w której miłość budująca naszą relację, staje się udziałem bliskich nam osób.
