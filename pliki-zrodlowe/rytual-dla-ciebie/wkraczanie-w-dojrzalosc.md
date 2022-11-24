@@ -1,5 +1,5 @@
 ---
-foto: wkraczanie-w-dojrzalosc.jpg
+foto: inicjacja.png
 bg: top
 layout: rytualy
 title: Wkraczanie w dojrzałość
