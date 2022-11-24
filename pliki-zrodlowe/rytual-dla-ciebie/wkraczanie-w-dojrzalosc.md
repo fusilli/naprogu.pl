@@ -8,7 +8,7 @@ seo: Rytuały dojrzewania pomagają młodej osobie otworzyć się na własny roz
   ciała.
 opis_foto: Nad nocną lekko pofalowaną taflą morza lub jeziora świeci złoty
   księżyc, rzucając blask na wodę.
-info_o_foto: unsplash.com/@guzmanbarquin
+info_o_foto: Gever
 date: 2022-03-02
 ---
 Ceremonie związane z dojrzewaniem i dorastaniem, są z ludźmi niemal od zawsze. W kulturach tradycyjnych stanowiły podstawę rozwoju społecznego jednostki i przygotowania jej do przyjęcia na siebie nowych ról i obowiązków.
