@@ -33,4 +33,6 @@ Przygotowanie ceremonii rozpoczynam od pogłębionej rozmowy z najbliższymi, kt
 
 W trakcie rytuału pożegnania subtelnie towarzyszę Wam i czuwam nad przebiegiem ceremonii jako całości oraz nad najdrobniejszymi jej szczegółami. Przemawiam, ale także  oddaję głos najbliższym, muzyce albo działaniom symbolicznym, które pełnią równie ważną rolę jak słowa. Jestem po to, by trzymać przestrzeń dla Waszych wspomnień i uczuć.
 
+Koszt przygotowania i poprowadzenia przeze mnie ceremonii wynosi od 700 do 1000 złotych, w zależności od miejsca, w którym się ona odbywa.
+
 Jeśli macie Państwo pytania dotyczące ceremonii pożegnania, [zapraszam do kontaktu](https://www.naprogu.pl/kontakt/).
