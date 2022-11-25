@@ -23,9 +23,9 @@ date: 2022-03-04
 
 Na tle pozostałych momentów w naszym życiu, śmierć jest wydarzeniem szczególnym, bo nieodwracalnym. Tracimy osobę, która dotąd była częścią naszej codzienności; z którą łączą nas wspomnienia, uczucia, więzy krwi lub przyjaźni. Każdy z nas doświadcza śmierci i żałoby po stracie najbliższych we właściwy sobie sposób.
 
-Rolą świeckich ceremonii pogrzebowych jest indywidualne pożegnanie osoby zmarłej w zgodzie z jej systemem wartości oraz towarzyszenie bliskim w przeżyciu żałoby. Rytuały pożegnania nie sprawiają, że emocje związane ze stratą kochanej osoby znikną, ale pomagają je uporządkować i dać im wyraz za pomocą języka słów, gestów i symboli.
+Rolą świeckich ceremonii pogrzebowych jest indywidualne pożegnanie osoby zmarłej w zgodzie z jej systemem wartości oraz towarzyszenie bliskim w przeżyciu żałoby.
 
-Są znacznie więcej niż wygłoszeniem „mowy pogrzebowej”. Stanowią całościowe doświadczenie, które daje dotkniętym stratą bliskim poczucie wsparcia w trudnych dla nich chwilach. Pomagają nam także w nawiązaniu i pielęgnowaniu więzi z tymi, którzy odeszli. 
+Rytuały pożegnania nie sprawiają, że emocje związane ze stratą kochanej osoby znikną, ale pomagają je uporządkować i dać im wyraz za pomocą języka słów, gestów i symboli. Są czymś znacznie więcej niż wygłoszeniem „mowy pogrzebowej”. Stanowią całościowe doświadczenie, które daje dotkniętym stratą bliskim poczucie wsparcia w trudnych dla nich chwilach. Pomagają także w nawiązaniu i pielęgnowaniu więzi z tymi, którzy odeszli.
 
 Jestem certyfikowaną mistrzynią ceremonii pogrzebowej, towarzyszką w żałobie, członkinią Instytutu Dobrej Śmierci. Każde z prowadzonych przez siebie pożegnań traktuję indywidualnie. Zwracam uwagę nie tylko na słowa, które się w czasie ceremonii pojawiają, ale także na działania, przedmioty, fragmenty tekstów lub utworów muzycznych związanych z żegnaną osobą.
 
