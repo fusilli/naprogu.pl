@@ -3,7 +3,7 @@ layout: o-mnie
 title: O mnie
 seo: Przeczytaj kim jestem, dlaczego zajmuję się obrzędami przejścia oraz co
   mówią o mnie osoby, których rytuały prowadziłam.
-foto: img_6965.jpg
+foto: img_6960.jpg
 opis_foto: Portretowe zdjęcie, stojącej na tle zieleni kobiety, z rozpuszczonymi
   włosami, w ciemnej sukience i narzuconym na nią ozdobnym grafitowym szalu.
 info_o_foto: Maciej Kronenberg
