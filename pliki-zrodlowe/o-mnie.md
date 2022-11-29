@@ -4,8 +4,8 @@ title: O mnie
 seo: Przeczytaj kim jestem, dlaczego zajmuję się obrzędami przejścia oraz co
   mówią o mnie osoby, których rytuały prowadziłam.
 foto: img_6965.jpg
-opis_foto: Portretowe zdjęcie dziewczny w czerwonej chustce i płaszczu w kolorze
-  khaki, stojącej na tle rozmytej rzeki.
+opis_foto: Portretowe zdjęcie, stojącej na tle zieleni kobiety, z rozpuszczonymi
+  włosami, w ciemnej sukience i narzuconym na nią ozdobnym grafitowym szalu.
 info_o_foto: Maciej Kronenberg
 eleventyNavigation:
   key: O mnie
@@ -96,6 +96,24 @@ opinie:
 
       Pani Monika ułożyła moje wspomnienia i to co się pojawiło w naszej rozmowie przed uroczystością w piękną opowieść, niesamowicie wzruszającą i dającą otuchę. Minęło sporo czasu, a ta opowieść nadal do mnie wraca."
     podpis: Alicja
+  - tekst: >-
+      Gorąco polecamy ceremonie prowadzone przez Monikę.
+
+
+      Już od pierwszych, zapoznawczych spotkań czuliśmy się w 100% zaopiekowani i wiedzieliśmy, że jesteśmy w dobrych rękach.
+
+
+      Monika podczas spotkań i pomiędzy nimi zawsze słuchała naszych uwag, proponowała wiele rzeczy tak, żebyśmy mogli sami wybrać, co oddaje nasz charakter i co chcielibyśmy mieć na naszej ceremonii.
+
+
+      Dodatkowo, ciągle była z nami w kontakcie i – co było ważne zwłaszcza w przedślubnym wirze przygotowań, przypominała nam o wielu kwestiach związanych z ceremonią, które po prostu wylatywały nam z głowy.
+
+
+      Sama ceremonia była przepiękna, dokładnie taka jaką sobie wyobrażaliśmy! 
+
+
+      Wielu z naszych gości było pierwszy raz na ceremonii humanistycznej – niektórzy byli sceptyczni ze względu na brak ślubu kościelnego, a mimo to po ceremonii słyszeliśmy same miłe słowa – chwalili cały nastrój ceremonii, przemówienia i fakt, że była bardzo spersonalizowana.
+    podpis: Maja i Igor
 ---
 Na początku były studia etnologiczne – czas spotkania z pracami Arnolda van Gennepa czy Victora Turnera, którzy pomogli mi zrozumieć, czym są obrzędy przejścia i jakie mają znaczenie dla jednostki i całej wspólnoty.
 
