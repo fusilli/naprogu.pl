@@ -95,7 +95,7 @@ opinie:
 
 
       Pani Monika ułożyła moje wspomnienia i to co się pojawiło w naszej rozmowie przed uroczystością w piękną opowieść, niesamowicie wzruszającą i dającą otuchę. Minęło sporo czasu, a ta opowieść nadal do mnie wraca."
-    podpis: Alicja
+    podpis: Alicja Plachówna
   - tekst: >-
       Gorąco polecamy ceremonie prowadzone przez Monikę.
 
