@@ -114,6 +114,15 @@ opinie:
 
       Wielu z naszych gości było pierwszy raz na ceremonii humanistycznej – niektórzy byli sceptyczni ze względu na brak ślubu kościelnego, a mimo to po ceremonii słyszeliśmy same miłe słowa – chwalili cały nastrój ceremonii, przemówienia i fakt, że była bardzo spersonalizowana.
     podpis: Maja i Igor
+  - tekst: >-
+      Jesteśmy ogromnie wdzięczni, że dane nam było spotkać na naszym szlaku
+      życia Panią Monikę. Choć okoliczności, które Nas połączyły są
+      najokrutniejsze z możliwych - pożegnanie Naszej ukochanej, jedynej
+      córeczki....
+
+
+      Pani Moniko, dziękujemy za godne, pełne zrozumienia, ciepła i światła pożegnanie Naszej Iguni. Jest Pani cudowna, ludzka...
+    podpis: Ewa Piątek
 ---
 Na początku były studia etnologiczne – czas spotkania z pracami Arnolda van Gennepa czy Victora Turnera, którzy pomogli mi zrozumieć, czym są obrzędy przejścia i jakie mają znaczenie dla jednostki i całej wspólnoty.
 
