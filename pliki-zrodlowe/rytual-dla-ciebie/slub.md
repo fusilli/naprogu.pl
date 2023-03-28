@@ -21,7 +21,7 @@ Jak wygląda przygotowanie rytuału ślubnego krok po kroku?
 * W dniu ceremonii towarzyszę Wam w drodze przez poszczególne jej etapy. Subtelnie czuwam nad przestrzenią rytualną i zgromadzonymi w niej osobami. Dbam o to, co ogólne oraz drobne szczegóły, które dopełniają i wzbogacają przebieg rytuału przejścia.
 * Po wydarzeniu jeszcze raz spotykam się z Wami, żeby posłuchać Waszych odczuć, refleksji i uwag związanych z przygotowaniem i prowadzeniem rytuału. Rozmowa zamyka ten etap naszej wspólnej pracy tak samo, jak otworzyła go parę miesięcy wcześniej.
 
-Łączny koszt przygotowania i poprowadzenia ceremonii wynosi między 850 a 1000 zł, w zależności od miejsca, w jakim mieszkacie i w jakim odbywa  się wydarzenie.
+Łączny koszt przygotowania i poprowadzenia ceremonii wynosi między 1000 zł a 1500 zł, w zależności stopnia złożoności ceremonii i miejsca w jakim odbywa  się wydarzenie.
 
 Jeśli chcecie, bym poprowadziła dla Was rytuał ślubny, [zapraszam do kontaktu](https://www.naprogu.pl/kontakt/).
 
