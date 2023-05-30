@@ -4,7 +4,7 @@ title: Pożegnanie
 seo: Rytuały pożegnania służą ukojeniu bólu po utracie bliskich, wspomnieniu
   ważnych dla nas chwil z ich życia oraz udzieleniu bliskim wsparcia przez całą
   społeczność.
-foto: IMG_5967-2-.jpg
+foto: pozegnanie2.jpg
 opis_foto: Na tle zielonej cmentarnej alejki z niewysokimi drzewami i nagrobkami
   pokrytymi bluszczem stoi kobieta w długiej ciemnej sukience.
 info_o_foto: Maciej Kronenberg

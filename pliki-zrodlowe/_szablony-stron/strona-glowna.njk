@@ -37,6 +37,34 @@ layout: bazowy
         <p class="group-hover:visible group-focus:visible">Weź udział w&nbsp;warsztatach, wspomagających przemianę Twoich relacji ze&nbsp;sobą, innymi osobami, Naturą.</p>
       </a>
     </div>
+    {% set strona = collections.rytualy %}
+    {% include "podstrony.njk" %}
+    {% for podstrona in collections.all %}
+      {% if podstrona.url == '/o-mnie/' %}
+        {% if podstrona.data.opinie %}
+          <hr>
+          <h2 class="tytul">Co mówią uczestnicy i uczestniczki rytuałów i warsztatów, które prowadziłam? <span id="opinie-gora">Przeczytajcie:</span></h2>
+          <div class="md:grid grid-cols-3">
+            <div class="siema col-span-2">
+            {% for opinia in podstrona.data.opinie %}
+              <div>
+                <blockquote class="tekst">
+                {{ opinia.tekst | md | safe }}
+                <cite>{{ opinia.podpis | safe }}</cite>
+                </blockquote>
+                <div class="flex justify-end pr-2">
+                  <button class="nastepna flex items-center md:hidden mt-6">Następna <span class="w-6 ml-3">{% include "ikony/nastepna.svg" %}</span></button>
+                </div>
+              </div>
+            {% endfor %}
+            </div>
+            <div class="hidden md:block col-span-1 place-self-center">
+              <button class="nastepna w-16" aria-label="Następna">{% include "ikony/nastepna.svg" %}</button>
+            </div>
+          </div>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
   </div>
 </section>
 {{ content | safe }}

@@ -3,7 +3,7 @@ layout: rytualy
 title: Ślub
 seo: Ceremonie ślubne są symbolicznym połączeniem dwóch osób oraz ich światów
   wartości, bliskich i przyjaciół we wspólną całość.
-foto: dscf7839.jpg
+foto: slub2.jpg
 opis_foto: Para młoda całuje się po zawarciu małżeństwa w otoczeniu przyrody.
 info_o_foto: Karina Krystosiak
 date: 2022-03-03

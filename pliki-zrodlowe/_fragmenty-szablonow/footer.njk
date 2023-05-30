@@ -10,7 +10,7 @@
     </footer>
     {% endif %}
     {% include "skrypt-menu.njk" %}
-    {% if page.fileSlug == "o-mnie" %}
+    {% if page.fileSlug == "o-mnie" or page.fileSlug == "strona-glowna" %}
       {% include "skrypt-opinie.njk" %}
     {% endif %}
     {% if page.fileSlug == "strona-glowna" -%}
