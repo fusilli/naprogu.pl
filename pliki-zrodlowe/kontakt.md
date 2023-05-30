@@ -1,7 +1,9 @@
 ---
 layout: sam-tekst
 title: Kontakt
-seo: Jeśli chcesz, bym pomogła Ci zaplanować i przeprowadzić rytuał przejścia, napisz do mnie lub zadzwoń.
+seo: Nazywam się Monika Stasiak i prowadzę świeckie ceremonie przejścia. Jeśli
+  chcesz, bym pomogła Ci zaplanować i przeprowadzić Twoją ceremonię, napisz do
+  mnie lub zadzwoń.
 eleventyNavigation:
   key: Kontakt
   order: 5
