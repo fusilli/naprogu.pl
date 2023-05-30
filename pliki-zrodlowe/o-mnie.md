@@ -23,23 +23,6 @@ opinie:
 
       Często wspominamy ten dzień. Było to piękne doświadczenie, bardzo nam potrzebne. Dało nam przestrzeń do wspólnego radowania się. Matylda, dziś ośmioletnia, lubi nasze opowieści o tym wydarzeniu, ogląda zdjęcia no i oczywiście szuka po domu motanek.
     podpis: Klaudyna i Michał
-  - tekst: >
-      Braliśmy udział w prowadzonym przez Monikę powitaniu syna przyjaciół wśród
-      żywych istot. Bardzo pozytywne doświadczenie, skupione na tym co ważne dla
-      rodziny, przeprowadzone nienachalnie a jednocześnie angażujące
-      uczestników.
-    podpis: Gosia i Wojtek
-  - tekst: >-
-      Pierwsze urodziny Tymona były bardzo dobrą okazją do symbolicznego
-      powitania go w społeczności naszych bliskich i przyjaciół, ale też
-      otaczającej nas natury. Przed tym wydarzeniem była jednak we mnie spora
-      obawa czy cała ceremonia nie będzie czymś sztucznym i wydumanym. Czy nie
-      będzie „na siłę” i czy wszyscy uczestnicy i uczestniczki będą się na niej
-      czuli komfortowo.
-
-
-      Dzięki otwartości Moniki udało się przeprowadzić tę uroczystość w sposób łączący swobodę i radość z czymś głębszym, poważniejszym. Był piknik na łące, były życzenia spisane na wielkim arkuszu papieru, które dziś wiszą nad łóżkiem Tymona przypominając nam o tym wydarzeniu. Było też sadzenie drzew, dzięki czemu podczas spacerów mamy okazję obserwować jak rosną one razem z naszym synem.
-    podpis: Maciek
   - tekst: >-
       Decyzję dotyczącą rytuału świeckiego podjęłam w oparciu o wolę zmarłej
       mamy. Pani Monika stworzyła niepowtarzalną ceremonię - najpierw wewnątrz
@@ -61,16 +44,12 @@ opinie:
 
       Serdecznie pozdrawiamy w nadziei że to nie koniec nasze rodzinnej historii.
     podpis: Dorota Tomaszewska-Niesyto
-  - tekst: >-
-      Jesteśmy niezmiernie wdzięczni Monice za przygotowanie z nami naszej
-      ślubnej humanistycznej ceremonii przejścia.
-
-      Podeszła do nas bardzo personalnie, subtelnie dopytując i wsłuchując się w historię naszej miłości, nasze korzenie i wartości.
-
-      Monika (skądinąd badaczka-etnolożka) bardzo merytorycznie i metodycznie przeprowadzała nas przez proces twórczo-przygotowawczy, dając nam jednocześnie sporo przestrzeni i zrozumienia w burzliwym dla nas okresie organizacyjnym.
-
-      Ceremonia była dla nas bardzo głębokim przeżyciem, gdyż pozwoliła nam ubrać w gesty i rytuały nasze wartości, uczucia i intencje, znajdując adekwatną formę i odpowiedź na nasze duchowe potrzeby w tym ważnym momencie naszego życia.
-    podpis: Asia i Mikołaj
+  - tekst: >
+      Braliśmy udział w prowadzonym przez Monikę powitaniu syna przyjaciół wśród
+      żywych istot. Bardzo pozytywne doświadczenie, skupione na tym co ważne dla
+      rodziny, przeprowadzone nienachalnie a jednocześnie angażujące
+      uczestników.
+    podpis: Gosia i Wojtek
   - tekst: >-
       Miałam pewne obawy, bo planowaliśmy coś niespotykanego, a w uroczystości
       miały wziąć udział bardzo różne osoby, nie wiedziałam jak to przebiegnie i
@@ -97,6 +76,36 @@ opinie:
       Pani Monika ułożyła moje wspomnienia i to co się pojawiło w naszej rozmowie przed uroczystością w piękną opowieść, niesamowicie wzruszającą i dającą otuchę. Minęło sporo czasu, a ta opowieść nadal do mnie wraca."
     podpis: Alicja Plachówna
   - tekst: >-
+      Jesteśmy niezmiernie wdzięczni Monice za przygotowanie z nami naszej
+      ślubnej humanistycznej ceremonii przejścia.
+
+      Podeszła do nas bardzo personalnie, subtelnie dopytując i wsłuchując się w historię naszej miłości, nasze korzenie i wartości.
+
+      Monika (skądinąd badaczka-etnolożka) bardzo merytorycznie i metodycznie przeprowadzała nas przez proces twórczo-przygotowawczy, dając nam jednocześnie sporo przestrzeni i zrozumienia w burzliwym dla nas okresie organizacyjnym.
+
+      Ceremonia była dla nas bardzo głębokim przeżyciem, gdyż pozwoliła nam ubrać w gesty i rytuały nasze wartości, uczucia i intencje, znajdując adekwatną formę i odpowiedź na nasze duchowe potrzeby w tym ważnym momencie naszego życia.
+    podpis: Asia i Mikołaj
+  - tekst: >-
+      Pierwsze urodziny Tymona były bardzo dobrą okazją do symbolicznego
+      powitania go w społeczności naszych bliskich i przyjaciół, ale też
+      otaczającej nas natury. Przed tym wydarzeniem była jednak we mnie spora
+      obawa czy cała ceremonia nie będzie czymś sztucznym i wydumanym. Czy nie
+      będzie „na siłę” i czy wszyscy uczestnicy i uczestniczki będą się na niej
+      czuli komfortowo.
+
+
+      Dzięki otwartości Moniki udało się przeprowadzić tę uroczystość w sposób łączący swobodę i radość z czymś głębszym, poważniejszym. Był piknik na łące, były życzenia spisane na wielkim arkuszu papieru, które dziś wiszą nad łóżkiem Tymona przypominając nam o tym wydarzeniu. Było też sadzenie drzew, dzięki czemu podczas spacerów mamy okazję obserwować jak rosną one razem z naszym synem.
+    podpis: Maciek
+  - tekst: >-
+      Jesteśmy ogromnie wdzięczni, że dane nam było spotkać na naszym szlaku
+      życia Panią Monikę. Choć okoliczności, które Nas połączyły są
+      najokrutniejsze z możliwych - pożegnanie Naszej ukochanej, jedynej
+      córeczki....
+
+
+      Pani Moniko, dziękujemy za godne, pełne zrozumienia, ciepła i światła pożegnanie Naszej Iguni. Jest Pani cudowna, ludzka...
+    podpis: Ewa Piątek
+  - tekst: >-
       Gorąco polecamy ceremonie prowadzone przez Monikę.
 
 
@@ -115,14 +124,22 @@ opinie:
       Wielu z naszych gości było pierwszy raz na ceremonii humanistycznej – niektórzy byli sceptyczni ze względu na brak ślubu kościelnego, a mimo to po ceremonii słyszeliśmy same miłe słowa – chwalili cały nastrój ceremonii, przemówienia i fakt, że była bardzo spersonalizowana.
     podpis: Maja i Igor
   - tekst: >-
-      Jesteśmy ogromnie wdzięczni, że dane nam było spotkać na naszym szlaku
-      życia Panią Monikę. Choć okoliczności, które Nas połączyły są
-      najokrutniejsze z możliwych - pożegnanie Naszej ukochanej, jedynej
-      córeczki....
+      Nasza córka jest dla nas najważniejszą osobą na świecie i bardzo zależało
+      nam, żeby czas zmian, przez które niebawem będzie przechodziła jako
+      dorastająca dziewczynka był odpowiednio uczczony. Z racji tego, że
+      interesujemy się nieco kulturą słowiańską, postanowiliśmy, że to właśnie u
+      Moniki poszukamy pomysłu na uroczystość Laury.
 
 
-      Pani Moniko, dziękujemy za godne, pełne zrozumienia, ciepła i światła pożegnanie Naszej Iguni. Jest Pani cudowna, ludzka...
-    podpis: Ewa Piątek
+
+      Samo wydarzenie było przygotowane zgodnie z naszymi ustaleniami, dokładnie w takim klimacie, na jakim nam zależało, było w najwyższym stopniu dostosowane do potrzeb naszych i naszych gości.
+
+      Monika, oprócz spotkania online oraz korespondencji, zaproponowała spotkanie na żywo, w celu jeszcze lepszego poznania oczekiwań, pomysłów, a także obaw naszych i bohaterki wydarzenia na długo przed zaplecinami, co było fantastycznym pomysłem,  pomogło "wyczuć" nasze potrzeby.
+
+
+
+      Sama ceremonia była bardzo spójna, poszczególne elementy następowały w naturalnej, logicznej kolejności, stanowiły całość. Mimo dość swobodnej atmosfery, Monice udało zachować podniosłość całej sytuacji, jednak bez zbytecznego formalizmu. Jesteśmy bardzo wdzięczni za zaangażowanie i dbałość o szczegóły, ponieważ zapleciny Laury okazały się świetną rodzinną uroczystością, chwaloną przez naszą córkę, a także wszystkich (dość zróżnicowanych poglądowo) gości.
+    podpis: Kasia i Marcin, rodzice Laury
 ---
 Na początku były studia etnologiczne – czas spotkania z pracami Arnolda van Gennepa czy Victora Turnera, którzy pomogli mi zrozumieć, czym są obrzędy przejścia i jakie mają znaczenie dla jednostki i całej wspólnoty.
 
