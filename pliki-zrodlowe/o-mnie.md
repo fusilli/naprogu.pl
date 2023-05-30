@@ -141,17 +141,25 @@ opinie:
       Sama ceremonia była bardzo spójna, poszczególne elementy następowały w naturalnej, logicznej kolejności, stanowiły całość. Mimo dość swobodnej atmosfery, Monice udało zachować podniosłość całej sytuacji, jednak bez zbytecznego formalizmu. Jesteśmy bardzo wdzięczni za zaangażowanie i dbałość o szczegóły, ponieważ zapleciny Laury okazały się świetną rodzinną uroczystością, chwaloną przez naszą córkę, a także wszystkich (dość zróżnicowanych poglądowo) gości.
     podpis: Kasia i Marcin, rodzice Laury
 ---
-Na początku były studia etnologiczne – czas spotkania z pracami Arnolda van Gennepa czy Victora Turnera, którzy pomogli mi zrozumieć, czym są obrzędy przejścia i jakie mają znaczenie dla jednostki i całej wspólnoty.
+Nazywam się Monika Stasiak i z wykształcenia jestem antropolożką kultury, absolwentką Instytutu Etnologii i Antropologii Kulturowej na Uniwersytecie Łódzkim.
 
-Potem zaczęła się przygoda na Uniwersytecie Ludowym Rzemiosła Artystycznego w Woli Sękowej, gdzie odkryłam lalki-motanki oraz magiczne hafty-opowieści i zrozumiałam, że działania rękodzielnicze mogą być sposobem na spotkanie z samą sobą, swoimi głębokimi potrzebami i marzeniami.
 
-W międzyczasie, razem z Order of Bards Ovates and Druids uczyłam się, jak korzystać z tradycyjnych wierzeń i przekazów oraz dostosowywać je do osób żyjących tu i teraz.
+Już na studiach odkryłam, jak wielkie znaczenie ma dla osoby i grupy, do której ona należy, świadome celebrowanie zmian, jakie dokonują się w życiu wraz narodzinami dziecka, dorastaniem, zawieraniem małżeństwa oraz pożegnaniem. Antropologiczną teorię dotyczącą ceremonii przejścia – ich sensu, struktury oraz sposobów włączania w nie ludzi wykorzystuję dziś w swojej pracy. Studia dały mi także szeroką wiedzę o tym, jak wyglądają tego typu rytuały w różnych kulturach, czemu służą, jakie gesty i symbole wykorzystują.
 
-Kiedy na prośbę znajomych miałam przyjemność poprowadzić ceremonię powitania dziecka w świecie, a potem prowadziłam taką ceremonię dla mojego synka, poczułam, że chcę pomagać innym w doświadczeniu tego ogromu miłości oraz odrobiny magii, które towarzyszyły tamtym wydarzeniom.
 
-W międzyczasie były warsztaty motanek i prowadzone razem z Pracownią na rzecz Wszystkich Istot warsztaty Zgromadzenie Wszystkich Istot, w trakcie których „ja” ludzkie mogło spotkać się z „ja” rzeki, dębu, wilka czy polnej myszy.
+Ukończyłam także Uniwersytet Ludowy Rzemiosła Artystycznego w Woli Sękowej, z którego wyniosłam umiejętność tworzenia pięknych przedmiotów (m.in. haftów czy tkanin) oraz wiedzę o tym, jak mogę je wykorzystywać w działaniach obrzędowych.
 
-Liczba doświadczeń rosła, a ja ciągle mówiłam, że jeszcze za wcześnie, że za mało wiem i że mam tyle innych spraw, którymi muszę się zająć. 
-W końcu jednak stwierdziłam, że czas przestać szukać wymówek i zacząć działać z innymi i dla innych.
 
-Dlatego jestem dziś tutaj, żeby poprowadzić dla Was i z Wami rytuały przejścia albo warsztaty przemiany.
+W międzyczasie przyglądałam się różnym rodzajom ceremonii: zarówno tym świeckim jak religijnym i często brakowało mi w nich świadomego, uważnego pochylenia się nad potrzebami i wrażliwością konkretnych osób oraz uwzględnienia tych potrzeb w strukturze i przebiegu ceremonii. Chciałam tworzyć coś, co będąc rytuałem świeckim, jednocześnie nie będzie pozbawione głębi.
+
+
+W tych poszukiwaniach spotkałam się z Klaudyną i Michałem, którzy szukali kogoś, kto pomoże im przygotować i poprowadzić powitanie na świecie ich córki Matyldy. Zachwycił mnie wówczas ogrom miłości, jaki może towarzyszyć takim celebracjom. Zrozumiałam, że to moja ścieżka i zaczęłam powoli nią kroczyć.
+
+
+Dziś prowadzę ceremonie przejścia towarzyszące narodzinom dzieci, dorastaniu i dojrzewaniu, zaślubinom oraz pożegnaniom bliskich osób. Nie ograniczam się do tylko jednego rodzaju ceremonii, bo wierzę, że wszystkie one stanowią część koła życia, które jest udziałem każdej i każdego z nas.
+
+
+Cały czas zgłębiam nową wiedzę i dzielę się nią z innymi. Jestem absolwentką szkolenia "Creating a Personal Farewell" („Tworzenie osobistych pożegnań”), prowadzonego przez Anję Franczak z Instytutu Dobrej Śmierci oraz Jana Moellersa z humanistycznego domu pogrzebowego Memento Bestattungen. Należę Instytutu Dobrej Śmierci, w ramach którego prowadzę kręgi wsparcia w żałobie, spotkania i warsztaty poświęcone edukacji w obszarze śmierci, straty i żałoby.
+
+
+Prowadzę także warsztaty i wykłady w obszarze szeroko pojętej obrzędowości i kultury tradycyjnej. Szczególnie bliskie są mi dawne baśnie i opowieści, które korzystając z języka obrazów, symboli i metafor pozwalają nam dotrzeć do tego, co w głębi i czerpać z tego dla siebie.
