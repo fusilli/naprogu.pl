@@ -18,7 +18,10 @@ collections:
           - { label: "Tytuł", name: "title", widget: "string" }
           - { label: "SEO", name: "seo", widget: "text" }
           - { label: "Permalink", name: "permalink", widget: "hidden", default: "/" }
-          - { label: "Treść", name: "body", widget: "markdown" }
+          - { label: "O mnie", name: "body", widget: "markdown" }
+          - { label: "O mnie - Foto", name: "o_mnie_foto", widget: "string" }
+          - { label: "O mnie - Opis foto", name: "o_mnie_opis_foto", widget: "text" }
+          - { label: "O mnie - Info o foto", name: "o_mnie_info_o_foto", widget: "string" }
       - label: "Czym są rytuały przejścia?"
         name: "czym-sa-rytualy-przejscia"
         file: "pliki-zrodlowe/czym-sa-rytualy-przejscia.md"
