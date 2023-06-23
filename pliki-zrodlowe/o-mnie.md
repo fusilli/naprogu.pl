@@ -140,7 +140,7 @@ opinie:
 
       Sama ceremonia była bardzo spójna, poszczególne elementy następowały w naturalnej, logicznej kolejności, stanowiły całość. Mimo dość swobodnej atmosfery, Monice udało zachować podniosłość całej sytuacji, jednak bez zbytecznego formalizmu. Jesteśmy bardzo wdzięczni za zaangażowanie i dbałość o szczegóły, ponieważ zapleciny Laury okazały się świetną rodzinną uroczystością, chwaloną przez naszą córkę, a także wszystkich (dość zróżnicowanych poglądowo) gości.
     podpis: Kasia i Marcin, rodzice Laury
-  - podpis: K. i M.
+  - podpis: Rodzice T.
     tekst: >-
       Pierwsza myśl o rytuale przejścia pojawiła się rok temu. Przyszło mi do
       głowy jak T poradzi sobie z czasem komunijnym w szkole. Wiedziałam, że
