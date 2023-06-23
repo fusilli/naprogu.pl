@@ -140,6 +140,35 @@ opinie:
 
       Sama ceremonia była bardzo spójna, poszczególne elementy następowały w naturalnej, logicznej kolejności, stanowiły całość. Mimo dość swobodnej atmosfery, Monice udało zachować podniosłość całej sytuacji, jednak bez zbytecznego formalizmu. Jesteśmy bardzo wdzięczni za zaangażowanie i dbałość o szczegóły, ponieważ zapleciny Laury okazały się świetną rodzinną uroczystością, chwaloną przez naszą córkę, a także wszystkich (dość zróżnicowanych poglądowo) gości.
     podpis: Kasia i Marcin, rodzice Laury
+  - podpis: K. i M.
+    tekst: >-
+      Pierwsza myśl o rytuale przejścia pojawiła się rok temu. Przyszło mi do
+      głowy jak T poradzi sobie z czasem komunijnym w szkole. Wiedziałam, że
+      tylko kilka osób w klasie nie będzie w tym obrzędzie uczestniczyć.
+      Sukienka, prezenty, organizacja imprezy - pewnie będzie jej przykro, że
+      nie jest to jej udziałem - myślałam. Czułam też, że moje dziecko się
+      zmienia i że może potrzebuje czegoś więcej nic impreza "zamiast". Jesteśmy
+      rodziną ateistyczną, nie należymy do żadnego kościoła, zgromadzenia. T
+      tłumaczy sobie (czasami nam) świat na swój sposób. Mówi, że wierzy w
+      przodków, w drzewa. Są momenty, kiedy T nas zaprasza do tych swoich
+      wewnętrznych miejsc i wiemy jak jest tam pięknie. Chcieliśmy, by święto T
+      było o niej, o jej doświadczeniu, o miejscu, w  którym teraz jest. 
+
+
+      Zaproponowałam jej spotkanie z Moniką i tak otworzył się przed T świat rytuału i nadrzeczywistości. Świat, z którym przyszła do nas Monika wydawał mi się jak szyty na miarę dla poszukującej dziewięciolatki. Na pierwszym spotkaniu dziewczyny wypracowały wstępny scenariusz rytuału. Monika ma niezwykłą zdolność proponowania, przy jednoczesnym zostawianiu przestrzeniu dla indywidualnych potrzeb. T to raczej nieśmiała osoba, której z  trudem przychodzi mówienie o sobie. Mam poczucie, że przy Monice się otworzyła. Wybierała muzykę, zaznaczyła, że chce, by najważniejsza cześć odbyła sie przy Dębie (bardzo ważne dla niej drzewo).
+
+
+      Czas mijał, zimą wróciliśmy na chwilę do przygotowań, nadaliśmy kształt ceremonii. Monika to wszystko podsumowuje, zbiera pomysły, spisuje szczegółowy plan i konsultuje. Ujmuje jej zdolność indywidualnego podejścia, zaopiekowania.
+
+
+      Noc przed rytuałem przeżywamy w domu coś niezwykłego. T się denerwuje, nie może spać. Ale w trakcie rozumów okazuje się, że to nie tylko stres przed uroczystością. T mówi, że nie chce dorastać, że boi się że straci swoje dzieciństwo, swoją wyobraźnię. Rozmawiamy, szukamy różnych definicji dorastania, które są bezpieczne. Mówimy o stracie, ale też o sprawczości, o decyzji, co biorę ze sobą, co jest tak ważne, że tego nie zostawię. To bardzo trudna, intymna rozmowa, której nie byłoby gdyby nie rytuał. To wszystko, co przygotowała dla nas Monika to tylko fizyczny objaw tego, co dzieje sie w małym, młodym człowieku. Rytuał okazuje się odpowiadać na ważne potrzeby, jest trochę terapią, trochę zatrzymaniem, zaznaczeniem ważnego procesu. Procesu, którego nie da się zatrzymać. Można sobie jednak uświadomić czym jest, dać dziecku przestrzeń na niezgodę, przeżycie straty, na obserwowanie zmian z dystansu. 
+
+
+
+      W tym dniu idziemy do Dębu, T jest uśmiechnięta, otoczona ludźmi, którzy przyszli dziś do niej, by świętować, ale też by dać wsparcie na przyszłość. Trochę jakbyśmy jej mówili z nami możesz bezpiecznie iść na przód, z nami możesz bezpiecznie dorastać. Rytuał przejścia stworzony przez Monikę dla T miał charakter świecki, Monika w piękny sposób połączyła tradycję słowiańską z naszymi wyobrażeniami o świecie, przyrodzie, a przede wszystkim nawiązała niesamowity kontakt z naszym dzieckiem i stworzyła piękną uroczystość, wpisującą się w prawdy T.
+
+
+      Jeśli rodzice dziecka, wchodzącego w ten trudny okres myślą jak mu w tym pomóc, polecam rytuał przejścia z Moniką. Cudowna atmosfera, piękne doświadczenie, ale przede wszystkim dobry czas dla dziecka.
 ---
 Nazywam się Monika Stasiak i z wykształcenia jestem antropolożką kultury, absolwentką Instytutu Etnologii i Antropologii Kulturowej na Uniwersytecie Łódzkim.
 
