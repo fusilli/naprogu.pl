@@ -22,6 +22,13 @@ collections:
           - { label: "O mnie - Foto", name: "o_mnie_foto", widget: "string" }
           - { label: "O mnie - Opis foto", name: "o_mnie_opis_foto", widget: "text" }
           - { label: "O mnie - Info o foto", name: "o_mnie_info_o_foto", widget: "string" }
+          - label: "Partnerzy"
+            name: "partnerzy"
+            widget: "list"
+            fields:
+              - { label: "Logo", name: "logo", widget: "string" }
+              - { label: "Tekst alternatywny", name: "alt", widget: "string" }
+              - { label: "Link", name: "link", widget: "text" }
       - label: "Czym są rytuały przejścia?"
         name: "czym-sa-rytualy-przejscia"
         file: "pliki-zrodlowe/czym-sa-rytualy-przejscia.md"

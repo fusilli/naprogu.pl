@@ -65,5 +65,16 @@ layout: bazowy
         {% endif %}
       {% endif %}
     {% endfor %}
+    {% if partnerzy %}
+      <hr>
+      <h2 class="tytul mb-16">Partnerzy</h2>
+      <div class="flex flex-wrap justify-center items-center gap-x-16 gap-y-10">
+        {% for partner in partnerzy %}
+          {% if partner.logo %}
+            {% if partner.link %}<a href="{{ partner.link }}">{% endif %}<img src="/obrazki/{{ partner.logo }}" alt="{% if partner.alt %}{{ parnter.alt }}{% endif %}" class="h-16 w-auto">{% if partner.link %}</a>{% endif %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
   </div>
 </section>
