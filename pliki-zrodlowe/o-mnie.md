@@ -124,6 +124,22 @@ opinie:
       Wielu z naszych gości było pierwszy raz na ceremonii humanistycznej – niektórzy byli sceptyczni ze względu na brak ślubu kościelnego, a mimo to po ceremonii słyszeliśmy same miłe słowa – chwalili cały nastrój ceremonii, przemówienia i fakt, że była bardzo spersonalizowana.
     podpis: Maja i Igor
   - tekst: >-
+      Dzięki obecności Moniki przeszliśmy tę niełatwą, traumatyczną sytuację
+      spokojnie. Towarzyszyła nam od piątku zajmując nasze rozbiegane myśli
+      wspomnieniami o Radku - bardzo nas to wyciszyło. Swoją taktowną
+      obecnością, łagodnym głosem i kierowaną rozmową pomogła nam, odczuć
+      wdzięczność, za to, że Radzio pojawił się w naszym życiu. To bardzo
+      pomaga.
+
+
+
+      W sobotę, w dniu pogrzebu Monika cały czas wspierała nas, troszczyła się o nasze samopoczucie. Przygotowana przez Nią uroczystość pogrzebowa była piękna, z odpowiednią oprawą muzyczną uwzględniającą gust syna, ze wspomnieniami o naszych wspólnych chwilach, przeżyciach. Nasi znajomi, sąsiedzi, którzy byli na uroczystości, a Go nie znali, stwierdzili, że teraz Go znają. Ci, którzy znali Radka - dzięki Monice, odkryli nowe fakty z Jego życia.
+
+
+
+      Wszyscy uczestnicy pogrzebu (łącznie z pracownikami firmy pogrzebowej) byli pod ogromnym wrażeniem poprowadzonej przez Monikę uroczystości, tak bardzo spersonalizowanej, skupionej na osobie naszego syna. Mimo, że uroczystość miała charakter świecki, z uwagi na katolicką część rodziny Monika znalazła przestrzeń na modlitwę. Oboje z mężem jesteśmy Jej ogromnie wdzięczni za to wszystko, co dla nas zrobiła.
+    podpis: Mariola i Darek Chojnaccy, rodzice Radka
+  - tekst: >-
       Nasza córka jest dla nas najważniejszą osobą na świecie i bardzo zależało
       nam, żeby czas zmian, przez które niebawem będzie przechodziła jako
       dorastająca dziewczynka był odpowiednio uczczony. Z racji tego, że
@@ -171,22 +187,6 @@ opinie:
 
 
       Jeśli rodzice dziecka, wchodzącego w ten trudny okres myślą jak mu w tym pomóc, polecam rytuał przejścia z Moniką. Cudowna atmosfera, piękne doświadczenie, ale przede wszystkim dobry czas dla dziecka.
-  - tekst: >-
-      Dzięki obecności Moniki przeszliśmy tę niełatwą, traumatyczną sytuację
-      spokojnie. Towarzyszyła nam od piątku zajmując nasze rozbiegane myśli
-      wspomnieniami o Radku - bardzo nas to wyciszyło. Swoją taktowną
-      obecnością, łagodnym głosem i kierowaną rozmową pomogła nam, odczuć
-      wdzięczność, za to, że Radzio pojawił się w naszym życiu. To bardzo
-      pomaga.
-
-
-
-      W sobotę, w dniu pogrzebu Monika cały czas wspierała nas, troszczyła się o nasze samopoczucie. Przygotowana przez Nią uroczystość pogrzebowa była piękna, z odpowiednią oprawą muzyczną uwzględniającą gust syna, ze wspomnieniami o naszych wspólnych chwilach, przeżyciach. Nasi znajomi, sąsiedzi, którzy byli na uroczystości, a Go nie znali, stwierdzili, że teraz Go znają. Ci, którzy znali Radka - dzięki Monice, odkryli nowe fakty z Jego życia.
-
-
-
-      Wszyscy uczestnicy pogrzebu (łącznie z pracownikami firmy pogrzebowej) byli pod ogromnym wrażeniem poprowadzonej przez Monikę uroczystości, tak bardzo spersonalizowanej, skupionej na osobie naszego syna. Mimo, że uroczystość miała charakter świecki, z uwagi na katolicką część rodziny Monika znalazła przestrzeń na modlitwę. Oboje z mężem jesteśmy Jej ogromnie wdzięczni za to wszystko, co dla nas zrobiła.
-    podpis: Mariola i Darek Chojnaccy, rodzice Radka
 ---
 Nazywam się Monika Stasiak i z wykształcenia jestem antropolożką kultury, absolwentką Instytutu Etnologii i Antropologii Kulturowej na Uniwersytecie Łódzkim.
 
