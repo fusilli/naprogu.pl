@@ -186,7 +186,7 @@ opinie:
 
 
       Wszyscy uczestnicy pogrzebu (łącznie z pracownikami firmy pogrzebowej) byli pod ogromnym wrażeniem poprowadzonej przez Monikę uroczystości, tak bardzo spersonalizowanej, skupionej na osobie naszego syna. Mimo, że uroczystość miała charakter świecki, z uwagi na katolicką część rodziny Monika znalazła przestrzeń na modlitwę. Oboje z mężem jesteśmy Jej ogromnie wdzięczni za to wszystko, co dla nas zrobiła.
-    podpis: Mariola i Darek Chojnaccy
+    podpis: Mariola i Darek Chojnaccy, rodzice Radka
 ---
 Nazywam się Monika Stasiak i z wykształcenia jestem antropolożką kultury, absolwentką Instytutu Etnologii i Antropologii Kulturowej na Uniwersytecie Łódzkim.
 
