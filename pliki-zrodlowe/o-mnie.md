@@ -187,6 +187,17 @@ opinie:
 
 
       Jeśli rodzice dziecka, wchodzącego w ten trudny okres myślą jak mu w tym pomóc, polecam rytuał przejścia z Moniką. Cudowna atmosfera, piękne doświadczenie, ale przede wszystkim dobry czas dla dziecka.
+  - tekst: >-
+      Ciężko ubrać w słowa jak jesteśmy Ci wdzięczni za poprowadzenie
+      perfekcyjnie, z klasą, wyczuciem i humorem naszego ślubu :) Bardzo bardzo
+      bardzo Ci dziękujemy!
+
+
+      I nie tylko my byliśmy zachwyceni i rozczuleni - później każdy nas pytał o co chodzi z tymi ślubami humanistycznymi i rytuałami przejścia, i sypała się na nas masa ciepłych słów, które w sumie powinniśmy skierować w Twoją stronę.
+
+
+      Było SUPER! Jeszcze raz dziękujemy! :)
+    podpis: Inga i Michał
 ---
 Nazywam się Monika Stasiak i z wykształcenia jestem antropolożką kultury, absolwentką Instytutu Etnologii i Antropologii Kulturowej na Uniwersytecie Łódzkim.
 
