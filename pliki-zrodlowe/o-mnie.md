@@ -198,6 +198,22 @@ opinie:
 
       Było SUPER! Jeszcze raz dziękujemy! :)
     podpis: Inga i Michał
+  - tekst: >-
+      Od początku wiedzieliśmy, że nasz ślub miał się odbyć w otoczeniu przyrody
+      i najbliższych nam osób. Chcieliśmy też, żeby mimo świeckiego charakteru
+      miał też w sobie komponent duchowy, żeby ten ważny dla nas moment
+      podkreślony był też w sferze naszych wartości. Nie wiedzieliśmy, jak to
+      zrobić, do czasu, kiedy w naszym życiu pojawiła się Monika.
+
+
+      Już na pierwszym spotkaniu otrzymaliśmy od niej schemat rytuału przejścia, który otworzył nam oczy na to, co mniej więcej powinno się stać w dniu ceremonii. W kolejnych miesiącach spotykaliśmy się parę razy, by uzgodnić kolejne elementy rytuału przejścia. Monika była niezwykle otwarta na nasze propozycje, pomagała nam przełożyć nasze luźne myśli na konkretne działania, stale też była z nami w kontakcie mailowym.
+
+
+      Wreszcie w dniu ceremonii stworzyła niepowtarzalną, intymną atmosferę. Naprawdę byliśmy w stanie poczuć, że coś ważnego dzieje się w naszym życiu i zmiana, która zachodzi, dzieje się nie tylko w sensie prawnym, ale też duchowym. Po tych kilku miesiącach intensywnej współpracy czuliśmy, że ślubu udziela nam nie anonimowy urzędnik, ale osoba, która naprawdę nas zna.
+
+
+      To była wspaniała, niezapomniana przygoda i zazdrościmy wszystkim, na których podobna podróż dopiero czeka. Nie wahajcie się ani chwili, by zaprosić Monikę jako Waszą przewodniczkę.
+    podpis: Marta i Filip
 ---
 Nazywam się Monika Stasiak i z wykształcenia jestem antropolożką kultury, absolwentką Instytutu Etnologii i Antropologii Kulturowej na Uniwersytecie Łódzkim.
 
