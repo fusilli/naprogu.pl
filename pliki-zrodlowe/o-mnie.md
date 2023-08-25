@@ -214,6 +214,15 @@ opinie:
 
       To była wspaniała, niezapomniana przygoda i zazdrościmy wszystkim, na których podobna podróż dopiero czeka. Nie wahajcie się ani chwili, by zaprosić Monikę jako Waszą przewodniczkę.
     podpis: Marta i Filip
+  - tekst: >-
+      Monika jest niezwykle dobrą, słuchającą i empatyczną osobą. Dźwiga
+      momenty, które są niezwykle trudne i kruche i robi to wspaniale. Jej
+      obecność i świadomość, że czuwa nad organizacją ceremonii bardzo pomaga w
+      trudnym czasie żałoby.
+
+
+      Prowadząc ceremonię uczyniła pogrzeb momentem refleksji, czułego pożegnania i przede wszystkim podziękowania za piękne życie mamy. Pozbierane od nas wspomnienia i historie ubrała w niezwykłą opowieść o mamie, którą pewnie nie raz będziemy czytać. Bardzo jestem wdzięczna za ogromną pomoc i wsparcie w tych trudnych dla nas chwilach.
+    podpis: Karolina
 ---
 Nazywam się Monika Stasiak i z wykształcenia jestem antropolożką kultury, absolwentką Instytutu Etnologii i Antropologii Kulturowej na Uniwersytecie Łódzkim.
 
