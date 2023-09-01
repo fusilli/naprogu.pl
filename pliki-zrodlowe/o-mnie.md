@@ -223,6 +223,16 @@ opinie:
 
       Prowadząc ceremonię uczyniła pogrzeb momentem refleksji, czułego pożegnania i przede wszystkim podziękowania za piękne życie mamy. Pozbierane od nas wspomnienia i historie ubrała w niezwykłą opowieść o mamie, którą pewnie nie raz będziemy czytać. Bardzo jestem wdzięczna za ogromną pomoc i wsparcie w tych trudnych dla nas chwilach.
     podpis: Karolina
+  - tekst: >-
+      Myśląc o ślubie nie znajdowaliśmy się w powszechnie praktykowanych
+      formułach.
+
+
+      Monika wprowadziła nas w myślenie o tym wydarzeniu jako rytuale przejścia, który mogliśmy stworzyć tak bardzo nasz, dający nam przestrzeń na głębokie jego doświadczenie. Cierpliwie obejmowała nasze poszukiwania, wielość pomysłów, niepewności i zmienności w procesie. Wspólnie z nami przygotowała scenariusz, poprowadziła ceremonię wzmacniając jej podniosły charakter i angażując wszystkich obecnych.
+
+
+      Ślub humanistyczny w takim wydaniu ma niezwykłą moc.
+    podpis: Klaudia i Miron
 ---
 Nazywam się Monika Stasiak i z wykształcenia jestem antropolożką kultury, absolwentką Instytutu Etnologii i Antropologii Kulturowej na Uniwersytecie Łódzkim.
 
