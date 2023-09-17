@@ -233,6 +233,23 @@ opinie:
 
       Ślub humanistyczny w takim wydaniu ma niezwykłą moc.
     podpis: Klaudia i Miron
+  - tekst: >-
+      Moniko, pragniemy z całego serca wyrazić naszą ogromną wdzięczność za
+      Twoje nieocenione zaangażowanie w przeprowadzenie naszej ceremonii
+      zaślubin.
+
+
+      Twoje wnikliwe podejście do naszych indywidualnych potrzeb, osobowości i charakterów było absolutnie niezastąpione. Dzięki Tobie udało się stworzyć scenariusz, który nie tylko pięknie odzwierciedlał naszą naturę, ale również wzbogacał ten wyjątkowy moment w naszym życiu.
+
+
+      Twoja współpraca z nami była niesamowita. Dzięki Tobie udało się nam lepiej poznać samych siebie, a Twoje cenne wskazówki pomogły nam odkryć nasze prawdziwe usposobienie. Byłaś nie tylko celebrantką, ale także naszym przewodnikiem i wsparciem w tej wyjątkowej podróży.
+
+
+      Niezapomniane chwile, które dzięki Tobie przeżyliśmy, były również doskonałym odzwierciedleniem wartości ducha kultury oraz pielęgnacji tradycji polsko-ukraińskiej. Twoje głębokie zrozumienie tych kultur sprawiło, że nasza ceremonia była nie tylko piękna, ale również pełna znaczenia i głębokiego szacunku dla naszych korzeni.
+
+
+      Jeszcze raz ogromnie dziękujemy, Moniko, za Twój wkład w naszą ceremonię ślubną. Twoja obecność i talent w tworzeniu magicznych chwil uczyniły ten dzień niezapomnianym. Jesteśmy wdzięczni, że mieliśmy Ciebie przy nas, aby podzielić się tym wyjątkowym momentem w naszym życiu.
+    podpis: Tetaiana i Michał
 ---
 Nazywam się Monika Stasiak i z wykształcenia jestem antropolożką kultury, absolwentką Instytutu Etnologii i Antropologii Kulturowej na Uniwersytecie Łódzkim.
 
