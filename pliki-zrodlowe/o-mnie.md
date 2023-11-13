@@ -249,7 +249,7 @@ opinie:
 
 
       Jeszcze raz ogromnie dziękujemy, Moniko, za Twój wkład w naszą ceremonię ślubną. Twoja obecność i talent w tworzeniu magicznych chwil uczyniły ten dzień niezapomnianym. Jesteśmy wdzięczni, że mieliśmy Ciebie przy nas, aby podzielić się tym wyjątkowym momentem w naszym życiu.
-    podpis: Tetaiana i Michał
+    podpis: Tetiana i Michał
   - tekst: >-
       Razem z Moniką żegnałam mamę, Agatę. 
 
