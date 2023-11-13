@@ -250,6 +250,20 @@ opinie:
 
       Jeszcze raz ogromnie dziękujemy, Moniko, za Twój wkład w naszą ceremonię ślubną. Twoja obecność i talent w tworzeniu magicznych chwil uczyniły ten dzień niezapomnianym. Jesteśmy wdzięczni, że mieliśmy Ciebie przy nas, aby podzielić się tym wyjątkowym momentem w naszym życiu.
     podpis: Tetaiana i Michał
+  - tekst: >-
+      Razem z Moniką żegnałam mamę, Agatę. 
+
+      Dla innych – partnerkę, kuzynkę, koleżankę, sąsiadkę.
+
+
+      Pogrzeb zgromadził osoby o różnych poglądach, wierze, ale jego formuła okalała się czytelna i poruszająca dla wszystkich obecnych.
+
+
+      Monika stworzyła przestrzeń, w której mogło się wydarzyć autentyczne Spotkanie i piękne ostatnie Pożegnanie: intymne, szczere, artykułujące, to co najważniejsze, domykające to, co chce być domknięte i otwierające nas, zgromadzonych, na nowy etap tej relacji - dla mnie: życie bez rozpamiętywania, ale z pamięcią. Przemowa zachowała poruszający balans między tym, co uniwersalne i podniosłe, a tym co unikalne, indywidualne, charakterystyczne dla żegnanej. Symboliczne gesty pozwoliły wydarzyć się we mnie temu, co niewyrażalne w słowach. 
+
+
+      Wszyscy, którzy tam byliśmy, czuliśmy, że ten czas i ceremonia były naprawdę dla Agaty i dla nas, a nie odwrotnie: my i Agata dla skodyfikowanej ceremonii i próbujący się jakoś w nią wpasować.
+    podpis: Kasia
 ---
 Nazywam się Monika Stasiak i z wykształcenia jestem antropolożką kultury, absolwentką Instytutu Etnologii i Antropologii Kulturowej na Uniwersytecie Łódzkim.
 
