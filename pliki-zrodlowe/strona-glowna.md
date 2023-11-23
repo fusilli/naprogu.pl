@@ -14,7 +14,7 @@ partnerzy:
   - logo: odeszli.svg
     alt: Odeszli.pl
     link: https://odeszli.pl
-  - logo: kawaisztukalogo500.jpg
+  - logo: kawaisztukalogo582.jpg
     link: https://kawaisztuka.pl/
     alt: Kawaisztuka.pl
 ---
