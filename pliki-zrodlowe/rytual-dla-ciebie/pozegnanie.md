@@ -4,10 +4,10 @@ title: Pożegnanie
 seo: Rytuały pożegnania służą ukojeniu bólu po utracie bliskich, wspomnieniu
   ważnych dla nas chwil z ich życia oraz udzieleniu bliskim wsparcia przez całą
   społeczność.
-foto: pozegnanie2.jpg
+foto: img_2451_920p.jpg
 opis_foto: Na tle zielonej cmentarnej alejki z niewysokimi drzewami i nagrobkami
   pokrytymi bluszczem stoi kobieta w długiej ciemnej sukience.
-info_o_foto: Maciej Kronenberg
+info_o_foto: kawaisztuka.pl
 date: 2022-03-04
 ---
 Na tle pozostałych momentów granicznych w naszym życiu, śmierć jest wydarzeniem szczególnym, bo nieodwracalnym. Tracimy osobę, która dotąd była częścią naszej codzienności; z którą łączą nas wspomnienia, uczucia, więzy krwi lub przyjaźni. Każdy z nas doświadcza śmierci i żałoby po stracie najbliższych we właściwy sobie sposób.
