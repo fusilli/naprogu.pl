@@ -276,6 +276,8 @@ opinie:
       pogrzebie, ale też przy moich opowieściach. To było niezwykłe.
       Powiedziałam mojemu mężowi, że napiszę list, że ja chcę podobnie.
     podpis: Uczestniczka pożegnania
+  - podpis: Ania
+    tekst: P﻿okazałaś, że pożegnania mogą być pełne światła. Dziękuję.
 ---
 Nazywam się Monika Stasiak i z wykształcenia jestem antropolożką kultury, absolwentką Instytutu Etnologii i Antropologii Kulturowej na Uniwersytecie Łódzkim.
 
