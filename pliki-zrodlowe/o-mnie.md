@@ -264,6 +264,9 @@ opinie:
 
       Wszyscy, którzy tam byliśmy, czuliśmy, że ten czas i ceremonia były naprawdę dla Agaty i dla nas, a nie odwrotnie: my i Agata dla skodyfikowanej ceremonii i próbujący się jakoś w nią wpasować.
     podpis: Kasia
+  - tekst: D﻿ziękuję jeszcze raz. Ta ceremonia nie była rozpaczą, tylko pożegnaniem
+      pełnym wdzięczności i lekkością.
+    podpis: Magda
 ---
 Nazywam się Monika Stasiak i z wykształcenia jestem antropolożką kultury, absolwentką Instytutu Etnologii i Antropologii Kulturowej na Uniwersytecie Łódzkim.
 
