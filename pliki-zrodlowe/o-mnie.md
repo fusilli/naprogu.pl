@@ -267,6 +267,9 @@ opinie:
   - tekst: D﻿ziękuję jeszcze raz. Ta ceremonia nie była rozpaczą, tylko pożegnaniem
       pełnym wdzięczności i lekkością.
     podpis: Magda
+  - tekst: P﻿iękna uroczystość, piękne pożegnanie wspaniałego człowieka. Trudno
+      opisać... Tylu płaczących ludzi w życiu nie widziałem.
+    podpis: Uczestnik pożegnania
 ---
 Nazywam się Monika Stasiak i z wykształcenia jestem antropolożką kultury, absolwentką Instytutu Etnologii i Antropologii Kulturowej na Uniwersytecie Łódzkim.
 
