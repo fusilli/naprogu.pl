@@ -35,4 +35,6 @@ Koszt przygotowania i poprowadzenia przeze mnie ceremonii różni się w zależn
    Koszt przygotowania i poprowadzenia ceremonii wraz z dojazdem różni się w zależności od stopnia złożoności i od miejsca lub miejsc, w których się ona odbywa, ale zazwyczaj wynosi od 1500 do 3000 zł.
 3. **Konsultacje dla osób prowadzących ceremonię samodzielnie** – jeśli chcecie Państwo poprowadzić ceremonię pożegnania samodzielnie, bez udziału celebrantki lub celebranta, ale nie wiecie, jak ją przygotować i co może się na nią składać, możecie skorzystać z konsultacji online lub offline. Składa się na nie pogłębiona rozmowa o Waszych oczekiwań i o żegnanej osobie i relacji, jaka Was z nią łączyła; zaproponowanie konkretnych rozwiązań, jakie mogą pojawić się na ceremonii lub przygotowanie scenariusza wydarzenia do samodzielnej realizacji, ewentualnie dalsze uzgadnianie poszczególnych elementów wydarzenia. W zależności od potrzeb, łączny czas poświęcony na konsultacje wynosi zwykle 2-5 h. Koszt doradztwa wynosi 150 zł za godzinę.
 
+Jeśli chcą Państwo pożegnać bliską osobę w indywidualny sposób, ale nie jesteście w stanie pozwolić sobie na pokrycie kosztów ceremonii, możemy wspólnie ustalić **cenę preferencyjną.** 
+
 Jeśli macie Państwo pytania dotyczące szczegółów przygotowywanych i prowadzonych przeze mnie ceremonii, [zapraszam do kontaktu](https://www.naprogu.pl/kontakt/).
