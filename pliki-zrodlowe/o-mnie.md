@@ -270,6 +270,12 @@ opinie:
   - tekst: P﻿iękna uroczystość, piękne pożegnanie wspaniałego człowieka. Trudno
       opisać... Tylu płaczących ludzi w życiu nie widziałem.
     podpis: Uczestnik pożegnania
+  - tekst: T﻿o było dla mnie niezwykłe przeżycie. Nigdy nie uczestniczyłam w tak
+      "pięknym" pożegnaniu. Opowiadałam dziś o tym kilku osobom "z ciarami".
+      Opowiadałam dziś o tym kilku osobom. Mój mąż płakał kilka razy! Na
+      pogrzebie, ale też przy moich opowieściach. To było niezwykłe.
+      Powiedziałam mojemu mężowi, że napiszę list, że ja chcę podobnie.
+    podpis: Uczestniczka pożegnania
 ---
 Nazywam się Monika Stasiak i z wykształcenia jestem antropolożką kultury, absolwentką Instytutu Etnologii i Antropologii Kulturowej na Uniwersytecie Łódzkim.
 
