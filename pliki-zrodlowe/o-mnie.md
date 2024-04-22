@@ -278,6 +278,23 @@ opinie:
     podpis: Uczestniczka pożegnania
   - podpis: Ania
     tekst: P﻿okazałaś, że pożegnania mogą być pełne światła. Dziękuję.
+  - podpis: Mariola
+    tekst: >-
+      Chciałabym podziękować za przeprowadzenie pożegnania mojego Taty. To był
+      dla mnie bardzo trudny czas, trudno było mi nawet ubrać to wszystko w
+      słowa i kłaniam się Monice za to, co zrobiła. W przepiękny sposób złożyła
+      moje chaotyczne wspomnienia w piękne opowiadanie, które poruszyło i
+      skłoniło do refleksji każdego, kto uczestniczył w ceremonii.
+
+
+
+      Pożegnanie tak bliskiej osoby wydaje się być niemożliwe, a jednak udało się. Odprowadziliśmy Tatę dokładnie tak, jak wydaje mi się, że chciałby być odprowadzony. Skromnie, z symbolicznym światłem, z chwilą zadumy, momentami pełnymi uśmiechu na myśl o przeżytych wspólnie chwilach, z muzyką, która grała w Jego sercu.
+
+
+
+      Myślę, że właśnie tak powinniśmy żegnać się z bliskimi. Skupiając się na tym kim byli i co wnieśli do naszego życia. Dziękując im za to, że byli. Zatrzymując się na chwilę, by zakończyć pewny etap w życiu, ten, w którym byli z nami fizycznie obecni. 
+
+      Dziękuję, z Tobą było mi lżej.
 ---
 Nazywam się Monika Stasiak i z wykształcenia jestem antropolożką kultury, absolwentką Instytutu Etnologii i Antropologii Kulturowej na Uniwersytecie Łódzkim.
 
