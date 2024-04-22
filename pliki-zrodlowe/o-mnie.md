@@ -295,6 +295,23 @@ opinie:
       Myślę, że właśnie tak powinniśmy żegnać się z bliskimi. Skupiając się na tym kim byli i co wnieśli do naszego życia. Dziękując im za to, że byli. Zatrzymując się na chwilę, by zakończyć pewny etap w życiu, ten, w którym byli z nami fizycznie obecni. 
 
       Dziękuję, z Tobą było mi lżej.
+  - tekst: >-
+      „Jestem pod ogromnym(nie do opisania) wrażeniem tego, co wydarzyło się w
+      sobotę. Wszystko było spięte w tak niezwykłą opowieść utkaną z subtelnej,
+      ale o potężnej energii... nie królował tam żal, niezgoda i rozpacz, ale
+      bezwarunkowa miłość i zaufanie do Wszechświata, że skoro tak się stało to
+      tak miało być. 
+
+
+
+      Miałam wrażenie, że w sobotę poznałam T. Dla mnie w pewnym sensie znajomość z nim zaczęła się przedwczoraj. Że mam do czynienia z kimś niezwykłym i wyjątkowym wiedziałam od początku, ale teraz wysłuchałam opowieści o chłopcu, którego życie jest ogromnie ważne i wartościowe również dla mnie. T. i jego wielka siła zostaną ze mną na zawsze. Czuję że będę go przywoływać jak Anioła w trudnych chwilach zdrowotnych. Jest dla mnie wzorem i nadzieją. Długo mogłabym jeszcze pisać. Łzy przyszły, kiedy to piszę. 
+
+      \[…]
+
+
+
+      Dziękuję. To był ogromny zaszczyt i wyróżnienie móc Wam towarzyszyć.”
+    podpis: Uczestniczka pożegnania
 ---
 Nazywam się Monika Stasiak i z wykształcenia jestem antropolożką kultury, absolwentką Instytutu Etnologii i Antropologii Kulturowej na Uniwersytecie Łódzkim.
 
