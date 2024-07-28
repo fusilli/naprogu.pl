@@ -1,0 +1,22 @@
+---
+layout: kontener
+---
+<h1 class="sr-only">Blog</h1>
+<article class="zajawka">
+	<h2 class="tytul"><a href="/blog/zapraszam-cie-w-droge-czyli-od-kogo-i-po-co-ten-blog/">Zapraszam Cię w drogę, czyli od kogo i po co ten blog?</a></h2>
+</article>
+<hr>
+{% for wpis in collections.blog | reverse %}
+	<article class="zajawka">
+		<time class="text-sm">{{ wpis.date | polskadata }}</time>
+		<h2 class="tytul"><a href="{{ wpis.url }}">{{ wpis.data.title }}</a></h2>
+	</article>
+{% endfor %}
+<div class="tagi">
+	<h2>Kategorie:</h2>
+	<ul>
+		{% for kategoria in collections.kategorie %}
+			<li><a href="/kategoria/{{ kategoria | slugify }}">{{ kategoria }}</a></li>
+		{% endfor %}
+	</ul>
+</div>

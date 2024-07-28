@@ -146,3 +146,16 @@ collections:
       - { label: "Foto", name: "foto", widget: "string" }
       - { label: "Opis foto", name: "opis_foto", widget: "text" }
       - { label: "Treść", name: "body", widget: "markdown" }
+  - label: "Blog"
+    name: "blog"
+    folder: "pliki-zrodlowe/blog"
+    create: true
+    fields:
+      - { label: "Tytuł", name: "title", widget: "string" }
+      - { label: "Data", name: "date", widget: "datetime", date_format: "YYYY-MM-DD" }
+      - { label: "SEO", name: "seo", widget: "text" }
+      - { label: "Foto", name: "foto", widget: "string" }
+      - { label: "Opis foto", name: "opis_foto", widget: "text" }
+      - { label: "Info o foto", name: "info_o_foto", widget: "string" }
+      - { label: "Tagi", name: "tags", widget: "list" }
+      - { label: "Treść", name: "body", widget: "markdown" }

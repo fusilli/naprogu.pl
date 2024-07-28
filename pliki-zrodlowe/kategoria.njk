@@ -1,0 +1,19 @@
+---
+layout: kontener
+title: Archiwum kategorii
+pagination:
+  data: collections.kategorie
+  size: 1
+  alias: kategoria
+permalink: "/kategoria/{{ kategoria | slugify }}/index.html"
+---
+
+{% set wpisy = collections[kategoria] %}
+<h1 class="tytul text-center">Archiwum kategorii: #{{ kategoria }}</h1>
+
+{% for wpis in wpisy %}
+	<article class="zajawka">
+		<time class="text-sm">{{ wpis.date | polskadata }}</time>
+		<h2 class="tytul"><a href="{{ wpis.url }}">{{ wpis.data.title }}</a></h2>
+	</article>
+{% endfor %}

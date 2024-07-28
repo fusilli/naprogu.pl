@@ -1,0 +1,42 @@
+---json
+{
+  "permalink": "feed.xml",
+  "eleventyExcludeFromCollections": true,
+  "metadata": {
+    "title": "Blog NaProgu.pl",
+    "subtitle": "Teksty o przebiegu świeckich ceremonii, ich struktury, towarzyszących im symboli, działań i atrybutów, o szeroko pojętej obrzędowości, z naciskiem na krąg kultury słowiańskiej, przemyślenia i opowieści o przyrodzie.",
+    "language": "pl-PL",
+    "url": "https://naprogu.pl/",
+    "author": {
+      "name": "Monika Stasiak"
+    }
+  }
+}
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ metadata.url }}">
+  <title>{{ metadata.title }}</title>
+  <subtitle>{{ metadata.subtitle }}</subtitle>
+  <link href="{{ permalink | absoluteUrl(metadata.url) }}" rel="self"/>
+  <link href="{{ metadata.url }}"/>
+  <updated>{{ collections.blog | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+  <id>{{ metadata.url }}</id>
+  <author>
+    <name>{{ metadata.author.name }}</name>
+  </author>
+  {%- for post in collections.blog -%}
+    {%- if loop.index0 < 10 %}
+      {%- set absolutePostUrl = post.url | absoluteUrl(metadata.url) %}
+      <entry>
+        <title>{{ post.data.title }}</title>
+        <link href="{{ absolutePostUrl }}"/>
+        <updated>{{ post.date | dateToRfc3339 }}</updated>
+        <id>{{ absolutePostUrl }}</id>
+        <content xml:lang="{{ metadata.language }}" type="html">
+          {% if post.data.foto %}<figure><img src="https://naprogu.pl/obrazki/{{ post.data.foto }}" alt="{{ post.data.opis_foto }}">{% if post.data.info_o_foto %}<figcaption>Fot. {{ post.data.info_o_foto }}</figcaption>{% endif %}</figure>{% endif %}
+          {{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | safe }}
+        </content>
+      </entry>
+    {%- endif -%}
+  {%- endfor %}
+</feed>

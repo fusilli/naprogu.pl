@@ -7,7 +7,7 @@ opis_foto: Na ciemnej tafli wody unosi się kwiat o zielonej łodydze i kontrast
 info_o_foto: unsplash.com/@larm
 eleventyNavigation:
   key: Rytuał dla Ciebie
-  order: 3
+  order: 2
 ---
 W życiu każdej i każdego z nas, obok codziennych, podobnych do siebie doświadczeń, pojawiają się również momenty szczególne. Często towarzyszą one ważnym dla nas zmianom – narodzinom dziecka, dojrzewaniu, zawieraniu małżeństwa, pożegnaniu bliskich osób. Chcemy przygotować się do tych zmian fizycznie i psychicznie, a czasem także duchowo. Oswoić je, nadać im rys osobisty, włączyć w nie ważne dla nas osoby. Temu między innymi służą rytuały przejścia.
 

@@ -20,6 +20,15 @@ a, button { @apply text-czerwony; }
     }
   }
 }
+.tagi { @apply text-base border-t pt-10 !mt-12;
+  h2 { @apply inline }
+  ul { @apply pl-0 inline;
+    li { @apply list-none inline }
+    li:before {
+      content: "#";
+    }
+  }
+}
 cite { @apply block; }
 hr {
   @apply h-3 bg-repeat-x border-0 mt-16 mb-14;
@@ -66,6 +75,8 @@ hr {
 .tytul {
   @apply text-2xl text-czerwony mb-6;
 }
+.zajawka { @apply text-center }
+.zajawka .tytul { @apply max-w-[42ch] mx-auto }
 
 .przycisk {
   @apply h-full flex flex-col justify-center items-center text-center px-5 py-4 border-2 border-dashed hover:border-solid focus:border-solid border-czerwony no-underline;

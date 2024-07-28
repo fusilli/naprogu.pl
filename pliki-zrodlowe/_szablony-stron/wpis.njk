@@ -1,0 +1,28 @@
+---
+layout: kontener
+---
+<time class="block text-sm text-center mb-6">{{ date | polskadata }}</time>
+<h1 class="tytul text-center max-w-[42ch] mx-auto">{{ title }}</h1>
+{% if foto %}
+	<figure class="my-10">
+	<img src="/obrazki/{{ foto }}" alt="{{ opis_foto }}" width="696" height="696" class="mx-auto">
+	{% if info_o_foto %}
+    <figcaption class="text-xs text-center tracking-wider text-gray-400 mt-2 -mb-2">Fot. {{ info_o_foto }}</figcaption>
+  {% endif %}
+	</figure>
+{% endif %}
+<div class="tekst mx-auto">
+	{{ content | safe }}
+	{% if tags and tags.length > 1 %}
+		<div class="tagi">
+			<h2>Kategorie:</h2>
+			<ul>
+				{% for tag in tags %}
+					{% if tag != "blog" %}
+						<li><a href="/kategoria/{{ tag | slugify }}">{{ tag }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+		</div>
+	{% endif %}
+</div>

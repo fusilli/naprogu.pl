@@ -7,7 +7,7 @@ opis_foto: Na piasku, przy brzegu morza ułożony jest labirynt z kamieni. Osoba
 info_o_foto: unsplash.com/@ashleybatz
 eleventyNavigation:
   key: Czym są rytuały przejścia?
-  order: 2
+  order: 1
 ---
 Rytuały przejścia towarzyszyły nam niemal od zawsze. Były z ludźmi w najważniejszych momentach ich życia: przy narodzinach dziecka, wkraczaniu w dorosłość, zawieraniu małżeństwa, wkraczaniu do grup społecznych i zawodowych, a wreszcie przy śmierci.
 
