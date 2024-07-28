@@ -38,10 +38,6 @@ module.exports = function(eleventyConfig) {
     }).sort();
     return [...new Set(tagiBezBlog)];
   });
-
-  if (process.env.NODE_ENV == "production") {
-    eleventyConfig.addTransform("htmlmin", require("./funkcje/minify-html.js") );
-  }
   
   return  {
     dir: {
