@@ -1,11 +1,17 @@
 ---
 title: Spacer przez transcendencję – religijność a duchowość w rytuałach
 date: 2023-11-30
-seo: 
+seo: "Czym jest duchowość? Jak się ma do religijności? Czy możemy mówić o
+  rytuałach bez religii? "
 foto: spacer-przez-transcendencje-religijnosc-a-duchowosc-w-rytualach.jpg
-opis_foto: 
-info_o_foto: 
-tags: ["duchowość", "religijność", "spirituality", "rytuały", "rytuałyprzejścia", "duchowośćwrytuale", "połączenie", "połączeniezeświatem", "jedność", "więź", "jameshollis", "miłosz", "czesławmiłosz"]
+opis_foto: Grafika w stonowanych kolorach. Dom nad morzem, dookoła niego latają
+  ptaki. Całość otoczona ramką z motywami roślinnymi.
+info_o_foto: AI by Canva
+tags:
+  - duchowość
+  - religijność
+  - rytuały
+  - rytuałyprzejścia
 ---
 
 „Czym jest dla Ciebie duchowość?” – zapytała mnie kilka dni temu Ewa, której udzielałam wywiadu do pracy magisterskiej o prowadzonych przeze mnie rytuałach.
