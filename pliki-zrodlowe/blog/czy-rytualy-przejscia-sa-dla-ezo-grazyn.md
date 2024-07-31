@@ -1,13 +1,15 @@
 ---
-title: Czy rytuały przejścia są dla ezo-Grażyn?
+title: Czy rytuały przejścia są dla ezo-freaków?
 date: 2022-11-15
-seo: 
+seo: Rytuały przejścia nie są teatrem, estetyczną zabawą, ale nie są też wrotami
+  do wyższych stanów świadomości. Są o nas i dla nas, a dopóki pozostajemy w
+  nich sobą, dopóty będą działać tak, jak tego potrzebujemy.
 foto: czy-rytualy-przejscia-sa-dla-ezo-grazyn.jpg
-opis_foto: 
-info_o_foto: 
-tags: []
+opis_foto: 'Niebieskie tło z napisem: "Czy rytuały przejścia są dla ezo-freaków?"'
+info_o_foto: .
+tags:
+  - rytuałyprzejścia
 ---
-
 Ten post wziął się z rozmowy podsumowującej z parą, dla której miałam przyjemność prowadzić ślubny rytuał przejścia.
 
 „Fajnie, że dopasowałaś się do naszych potrzeb, bo jesteśmy tacy bardziej minimalistyczni i baliśmy się trochę, żeby nie było za dużo jakichś elementów uduchowionych” – powiedzieli.
@@ -34,4 +36,4 @@ rytuały są tak stare jak kultura i tak nieśmiertelne jak nasze myślenie symb
 
 to, jak będzie wyglądał nasz rytuał przejścia, zależy tylko od nas samych. Ktoś otworzy przestrzeń obrzędową kadzidłem i wodą, ktoś inny muzyką albo jedzeniem. Jedni będą chcieli usłyszeć w czasie celebracji ważną dla nich baśń lub opowieść mityczną, inni zdecydują się na fragment traktatu filozoficznego lub ulubiony wiersz. Moją rolą nie jest narzucanie gotowych rozwiązań, ale wsłuchanie się w Wasze potrzeby i wsparcie w wyborze tego, co najbardziej odpowiada Waszym wartościom i wrażliwości. W świecie obrzędów przejścia jest miejsce zarówno dla wyobraźni barokowej jak minimalistycznej.
 
-Podsumowując: rytuały świeckie nie są teatrem, estetyczną zabawą, ale nie są też wrotami do wyższych stanów świadomości. Są o nas i dla nas, a dopóki pozostajemy w nich sobą, dopóty będą działać tak, jak tego potrzebujemy.
+Podsumowując: rytuały przejścia nie są teatrem, estetyczną zabawą, ale nie są też wrotami do wyższych stanów świadomości. Są o nas i dla nas, a dopóki pozostajemy w nich sobą, dopóty będą działać tak, jak tego potrzebujemy.
