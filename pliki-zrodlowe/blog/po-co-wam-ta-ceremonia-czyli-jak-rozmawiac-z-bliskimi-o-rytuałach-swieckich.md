@@ -1,11 +1,20 @@
 ---
-title: „Po co Wam ta ceremonia?”, czyli jak rozmawiać z bliskimi o rytuałach świeckich?
+title: „Po co Wam ta ceremonia?”, czyli jak rozmawiać z bliskimi o rytuałach
+  świeckich?
 date: 2023-03-18
-seo: 
+seo: Krótki poradnik dla osób, które decydują się na ceremonię świecką i
+  zastanawiają się, jak rozmawiać o tym z rodziną i przyjaciółmi.
 foto: po-co-wam-ta-ceremonia-czyli-jak-rozmawiac-z-bliskimi-o-rytuałach-swieckich.jpg
-opis_foto: 
-info_o_foto: 
-tags: []
+opis_foto: 'Na niebieskim marmurkowym tle biały napis: "Jak rozmawiać z bliskimi
+  o ceremonii świeckiej?"'
+info_o_foto: .
+tags:
+  - rytuałyprzejścia
+  - ceremonieprzejścia
+  - obrzędy
+  - ceremonieświeckie
+  - świeckiślub
+  - świeckipogrzeb
 ---
 
 Zdarza się, że przygotowując rytuały świeckie dla siebie lub najbliższych, zapraszamy do udziału w nich osoby, które z różnych przyczyn są wobec takich ceremonii sceptyczne.
