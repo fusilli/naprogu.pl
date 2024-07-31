@@ -1,11 +1,19 @@
 ---
 title: Nie tylko skrzypce – czyli o muzyce w czasie pożegnań
 date: 2023-01-19
-seo: 
+seo: Jaka muzyka może pojawić się w czasie ceremonii pogrzebowej? Jaka jest rola
+  muzyki w trakcie pożegnań? Czy jest coś, czego nie wypada wówczas słuchać?
 foto: nie-tylko-skrzypce-czyli-o-muzyce-w-czasie-pozegnan.jpg
-opis_foto: 
-info_o_foto: 
-tags: []
+opis_foto: 'Niebieskie marmurkowe tło z białym napisem: "Jaka muzyka może
+  pojawić się na pogrzebie?"'
+info_o_foto: .
+tags:
+  - pogrzeb
+  - świeckipogrzeb
+  - ceremonieświeckie
+  - rytuałyprzejścia
+  - ceremonieprzejścia
+  - muzyka
 ---
 
 Powszechnie dostępne rytuały pogrzebowe przyzwyczaiły nas, że muzyka w czasie pożegnania może być albo czymś z kanonu religijnych pieśni żałobnych, albo neutralnym tłem wykonywanym przez trębacza lub skrzypaczkę.
