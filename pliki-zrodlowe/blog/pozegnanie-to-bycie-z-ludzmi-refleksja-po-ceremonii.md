@@ -1,11 +1,23 @@
 ---
 title: Pożegnanie to bycie z ludźmi – refleksja po ceremonii
 date: 2023-07-09
-seo: 
+seo: Pożegnania świeckie to znacznie więcej niż odczytanie mowy. To wsłuchiwanie
+  się w ludzi, ich historię i uczucia, które towarzyszą stracie. To uroczystości
+  przygotowywane z bliskością, uwagą i miłością. Refleksja celebrantki.
 foto: pozegnanie-to-bycie-z-ludzmi-refleksja-po-ceremonii.jpg
-opis_foto: 
-info_o_foto: 
-tags: []
+opis_foto: Otwarta dłoń na tle trawy. Na dłoni spoczywa niewielki bursztyn o
+  ciemnopomarańczowej barwie i wyraźnej fakturze.
+info_o_foto: fot. Monika Stasiak
+tags:
+  - pożegnanie
+  - pogrzeb
+  - świeckipogrzeb
+  - rytuałypożegnania
+  - rytuałyprzejścia
+  - obrzędyprzejścia
+  - żałoba
+  - śmierć
+  - celebrantka
 ---
 
 Czasem jest tak, że dostajesz telefon: bardzo trudna śmierć wśród twoich dalekich krewnych, wszyscy w rozsypce, dasz radę poprowadzić pożegnanie? Więc kolejnego dnia, nie wiedząc jeszcze prawie nic, pakujesz do auta wszystko, co może się przydać: dwa rodzaje świec, kadzidła, głośnik, kolorowe włóczki, koszyczek, stolik i jedziesz, żeby rozmawiać, wysłuchać, przytulać i szukać sposobów przeprowadzenia przez to, co wydaje się być nieprzeprowadzalne.
