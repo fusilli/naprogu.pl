@@ -312,6 +312,25 @@ opinie:
 
       Dziękuję. To był ogromny zaszczyt i wyróżnienie móc Wam towarzyszyć.”
     podpis: Uczestniczka pożegnania
+  - tekst: >-
+      Chciałabym podziękować Monice za przygotowanie pięknej i wzruszającej
+      uroczyśtości Pożegnania.
+
+
+      Monika wyróżnia się ogromną wrażliwością. Jest nastawiona na odbiór zarówno faktów, jak i emocji. Z usłyszanej historii potrafi utkać wspomnienie jak prządka przędąca nic życia. Uprząc i symbolicznie przeciąć, bo o to przecież w Pożegnaniu chodzi. Uroczystość przygotowana przez Monikę stawia osobę zmarłą w samym centrum. Wszystko, co dzieje się podczas ceremonii jest o zmarłej i wokół niej. Monika potrafi wydobyć drobne, prawie niezauważalne szczegóły i nadać im ogromną rangę.
+
+
+      Jej pomysłowości nie ogranicza nic. Zaczepiając swoją wyobraźnię na jednym słowie, krótkim wspomnieniu potrafi wyczarować magię.
+
+
+      Bo magia jest w Monice i wokół niej. Monika jest otwarta zarówno na świat zewnętrzny, jak i na ten głęboko schowany. Jej przenikliwe oczy zdają się dostrzegać rzeczy niewidoczne. Sprawia, że zasłona między światami zmienia się w lekką firankę i że nawzajem możemy zajrzeć do naszych światów.
+
+
+      Monika czuje. Dlatego znaki są obecne w jej ceremoniach. Widzi je i sprawia, że i my możemy je zobaczyć i odczuć.
+
+
+      W Monice jest coś z Wróżki, Mojry i Charona. Z całego serca polecam Monikę jako najczulszego Przewodnika w rytuałach przejścia.
+    podpis: Anna, córka Miry
 ---
 Nazywam się Monika Stasiak i z wykształcenia jestem antropolożką kultury, absolwentką Instytutu Etnologii i Antropologii Kulturowej na Uniwersytecie Łódzkim.
 
