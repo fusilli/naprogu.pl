@@ -1,11 +1,23 @@
 ---
 title: Dar tworzy więź – o przyjmowaniu i wzajemności w rytuałach dla Ziemi
 date: 2023-12-27
-seo: 
+seo: Refleksja o kolędowaniu i obrzędowej wymianie darów jako narzędziu
+  łączności ze światem ludzi i przyrody
 foto: dar-tworzy-wiez-o-przyjmowaniu-i-wzajemnosci-w-rytualach-dla-ziemi.jpg
-opis_foto: 
-info_o_foto: 
-tags: ["kolędowanie", "szczodrowanie", "szczodrzenie", "szczodracy", "kolęda", "obrzędy", "obrzędyzimowe", "święta", "obrzędyświąteczne", "rytuały", "tradycja", "kulturatradycyjna", "natura", "przyroda", "matkaziemia", "dar", "wymianadarów", "pieśńziemi", "marcelmauss"]
+opis_foto: "Wycinanka przedstawiająca pochód kolędniczy: anioła z gwiazdą,
+  turonia, króla, śmierć, diabła i psa"
+info_o_foto: Pochód kolędniczy
+tags:
+  - kolędowanie
+  - szczodrowanie
+  - obrzędy
+  - obrzędowość
+  - święta
+  - rytuałyroczne
+  - kulturatradycyjna
+  - przyroda
+  - zima
+  - słowianie
 ---
 Wczesnym wigilijnym popołudniem trochę nas w domu „nosiło”. Wieczór mieliśmy spędzić we troje (może w kilka osób więcej, jeśli liczyć przodków), więc nic nas nie poganiało. Chcieliśmy zażyć rzeki i wiatru. Żeby przekonać latorośl do spaceru, wpadliśmy na pomysł pójścia z życzeniami do pszczół i do Pilicy. A skoro życzenia, to powinny być także dary. Tylko jakie? Co właściwie możemy ofiarować naszym żywicielkom, żeby choć częściowo odzwierciedlało intencję, z którą przychodzimy? Czego może potrzebować rzeka?
 
