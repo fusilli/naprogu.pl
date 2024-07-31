@@ -8,7 +8,13 @@ foto: trzy-drzeea-5-.png
 opis_foto: Fresk przedstawiający Egipcjanki opłakujące śmierć królewskiego dostojnika
 info_o_foto: Opłakujące kobiety z Grobowca Ramose w tebańskiej Szajch Abd al Qurna.
 tags:
-  - śmierć obrzędy rytuałyprzejścia żałoba płacz tradycjepogrzebowe pogrzeb
+  - śmierć
+  - obrzędy
+  - rytuałyprzejścia
+  - żałoba
+  - płacz
+  - tradycjepogrzebowe
+  - pogrzeb
 ---
 „Jak klakierzy albo płaczki” – przeczytałam ostatnio komentarz w ramach jakiejś dyskusji odnoszący się do konwencjonalnego, wymuszonego społecznym oczekiwaniem albo mającego przynieść określone korzyści robienia pewnych rzeczy.
 
