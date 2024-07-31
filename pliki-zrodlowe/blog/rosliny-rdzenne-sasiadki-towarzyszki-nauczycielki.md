@@ -1,11 +1,18 @@
 ---
 title: Rośliny rdzenne – sąsiadki, towarzyszki, nauczycielki
 date: 2023-04-26
-seo: 
+seo: Roślinny rdzenne - te zakorzenione w krajobrazie, w ekosystemie, w
+  świadomości ludzkiej. Poszukiwaczki, pionierki, dawczynie. Znacznie więcej niż
+  to, co zwykliśmy określać jako chwasty.
 foto: rosliny-rdzenne-sasiadki-towarzyszki-nauczycielki.jpg
-opis_foto: 
-info_o_foto: 
-tags: []
+opis_foto: Fragment łąki z rosnącą na niej gęsto jasnotą fioletową.
+info_o_foto: Jasnota fioletowa, fot. Monika Stasiak
+tags:
+  - rośliny
+  - obrzędowość
+  - pożywienie
+  - rdzenność
+  - głębokaekologia
 ---
 
 Rośliny często są bohaterkami prowadzonych przeze mnie rytuałów, ceremonii, warsztatów. Siane, sadzone, zaplatane, rozsypywane, palone w formie kadzideł, odwiedzane. Trawy, pnącza, zioła, drzewa. Zwykle są właśnie bohaterkami, milczącymi współuczestniczkami, a nie tylko atrybutami czy scenografią. Ukochany dąb, który będzie świadkiem świadomego wkraczania w czas dorastania; siewka grabu wykopana łyżką w Puszczy Białowieskiej, by posadzić ją z okazji powitania małego człowieka w kręgu istot żywych; nasiona wysiewane w czasie pożegnania jako wyraz transformacji i życia, które nie przemija.
