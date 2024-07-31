@@ -1,11 +1,20 @@
 ---
-title: Po co nam powitanie dziecka? - parę słów o ceremoniach dla nowonarodzonych i ich rodziców
+title: Po co nam powitanie dziecka? - parę słów o ceremoniach dla
+  nowonarodzonych i ich rodziców
 date: 2022-11-26
-seo: 
+seo: Parę słów o rytuałach powitania dziecka w świecie - czemu służą, jaki jest
+  ich sens symboliczny dla dziecka i dla rodziców
 foto: po-co-nam-powitanie-dziecka-pare-slow-o-ceremoniach-dla-nowonarodzonych-i-ich-rodzicow.jpg
-opis_foto: 
-info_o_foto: 
-tags: []
+opis_foto: Śpiące niemowlę - spod lekkiej pieluszki wystają tylko dwie drobne
+  dziecięce stopy opierające się o dłoń rodzica.
+info_o_foto: fot. Canva
+tags:
+  - rytuałyprzejścia
+  - ceremonieprzejścia
+  - obrzędy
+  - ceremonieświeckie
+  - powitaniedziecka
+  - dziecko
 ---
 
 Kiedy jesteś w ciąży (a zwłaszcza w pierwszej), świat stoi przed Tobą otworem. O nadchodzącym macierzyństwie wiesz z poradników rodzicielskich całkiem sporo, radosne bobasy uśmiechają się do Ciebie z broszurek w przychodniach, a jednocześnie masz ciągle swobodę zarządzania sobą, swoim czasem i ciałem.
