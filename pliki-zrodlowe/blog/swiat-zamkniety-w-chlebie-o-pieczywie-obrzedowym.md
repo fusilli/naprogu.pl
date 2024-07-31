@@ -1,11 +1,21 @@
 ---
 title: Świat zamknięty w chlebie – o pieczywie obrzędowym
 date: 2024-01-06
-seo: 
+seo: Byśki, nowe latka i inne pieczywo obrzędowe czyli o tym, co pieczenie
+  chleba lub ciasta miało wspólnego ze stwarzaniem świata i magią obfitości
 foto: swiat-zamkniety-w-chlebie-o-pieczywie-obrzedowym.jpg
-opis_foto: 
-info_o_foto: 
-tags: ["nowyrok", "trzechkróli", "kolędowanie", "wróżba", "życzenia", "pieczywo", "pieczywoobrzędowe", "chleb", "byśki", "nowelatko", "pieczenie", "mikrokosmos", "obrzędy", "obrzędowość", "etnografia", "rytuały", "naprogu"]
+opis_foto: Blacha z piernikami przedstawiającymi kształty zwierząt, roślin i
+  ciał niebieskich
+info_o_foto: fot. Monika Stasiak
+tags:
+  - nowyrok
+  - trzechkróli
+  - kolędowanie
+  - życzenia
+  - pożywienieobrzędowe
+  - obrzędy
+  - etnografia
+  - rytuałyroczne
 ---
 
 Zaczęło się od pierników. A właściwie od mojej niechęci do ich przygotowywania. Zwykle tego nie robię, nie mam foremek w kształcie reniferów (ani w ogóle w żadnym kształcie), nie przepadam za ich smakiem, a ludzi, którzy produkują słodycze o smaku piernika uważam za sadystów. Na szczęście dotychczasowe placówki oświatowe mojego dziecka dobrze się w ten trend w naszym domu wpisują, bo w ramach kreatywnych zabaw przed Świętami urządzają z dziećmi wypiek i zdobienie pierników.
