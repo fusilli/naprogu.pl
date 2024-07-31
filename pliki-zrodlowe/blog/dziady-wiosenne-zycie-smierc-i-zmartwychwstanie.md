@@ -1,11 +1,22 @@
 ---
 title: Dziady Wiosenne – życie, śmierć i zmartwychwstanie
 date: 2023-04-10
-seo: 
+seo: Czym były dziady wiosenne i co się składało na ich świętowanie? Pisanki,
+  wizyty na grobach, dzielenie się jedzeniem z przodkami.
 foto: dziady-wiosenne-zycie-smierc-i-zmartwychwstanie.jpg
-opis_foto: 
-info_o_foto: 
-tags: []
+opis_foto: Fragment dekoracji na grobie z okazji dziadów wiosennych, gdzie na
+  mogile obok sztucznych kwiatów i igliwia spoczywa czerwone farbowane jajko i
+  kawałek ciasta.
+info_o_foto: .
+tags:
+  - rytuałyprzejścia
+  - ceremonieprzejścia
+  - dziady
+  - dziadywiosenne
+  - rytuałyroczne
+  - słowianie
+  - kulturatradycyjna
+  - etnografia
 ---
 
 „W drugie święto umarłych zwane radaunicą, a przypadające na wtorek po niedzieli przewodniej (po Wielkanocy), wyprawiają Białorusini śniadanie po rodzicielach, po nabożeństwie zaś żałobnem idą na mogiłki, tj. na groby swych krewnych, nakrywszy je białym obrusem, stawiają na nich przyniesioną z sobą wódkę i zakąski. (…) Ostatni zakąsek rozdają znajdującym się na cmentarzu żebrakom i zaczynają zawodzić. Następnie zostawiwszy na każdym grobie po czerwonym jajku dla nieboszczyków, opuszczają cmentarz i udają się do karczmy” (*)
