@@ -17,7 +17,8 @@ tags:
   - zboże
   - zioła
   - jedzenie
-  - magia kulturatradycyjna
+  - magia
+  - kulturatradycyjna
 ---
 „Po zebraniu wszystkich zbóż kłosistych robiono bukiet. Na Mazowszu i Podlasiu zwano go równianką, na Pomorzu – pępkiem. Był to snopeczek zrobiony ze zżętego zboża i przewiązany wstążką lub ozdobną taśmą, a każda z kobiet przynoszących ów pępek do dworu wiła go z innego zboża” – pisze Anna Zadrożyńska w „Światach zaświatach”, a wcześniej wspomina także, że kobiety  niosące bukieciki ze zbóż i kwiatów były częścią korowodu podążającego do dworu z dożynkowym wieńcem.
 
