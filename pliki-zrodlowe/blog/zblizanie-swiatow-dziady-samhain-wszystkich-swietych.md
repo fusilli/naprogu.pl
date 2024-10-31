@@ -7,7 +7,7 @@ seo: "Opowieść o śmierci i zmarłych jest stara jak świat i może pomieści�
   które tak dobrze sprzedają się w mediach. A także dlatego, że większe
   znaczenie niż nazwa ma dla nas sens, który za nią stoi."
 foto: img_20241029_115633-1-.jpg
-opis_foto: Praca o święcie Dziadów napisana przez dziecko.
+opis_foto: Praca o święcie Dziadów napisana przez ośmiolatka.
 info_o_foto: fot. Archiwum własne
 tags:
   - "#dziady"
