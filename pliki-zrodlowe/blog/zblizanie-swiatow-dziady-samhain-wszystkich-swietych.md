@@ -10,17 +10,17 @@ foto: img_20241029_115633-1-.jpg
 opis_foto: Praca o święcie Dziadów napisana przez ośmiolatka.
 info_o_foto: fot. Archiwum własne
 tags:
-  - "dziady"
-  - "świętozmarłych"
-  - "obrzędy"
-  - "folklor"
-  - "kulturatradycyjna"
-  - "śmierć"
-  - "strata"
-  - "żałoba"
-  - "pamięć"
-  - "rytuały"
-  - "rytuałyprzejścia"
+  - dziady
+  - świętozmarłych
+  - obrzędy
+  - folklor
+  - kulturatradycyjna
+  - śmierć
+  - strata
+  - żałoba
+  - pamięć
+  - rytuały
+  - rytuałyprzejścia
 ---
 Za oknami wczesny październikowy wieczór. Mgły ścielą się po polach. Poza przejeżdżającym sporadycznie samochodem nic nie zakłóca spokoju pogrążonej we śnie ziemi.
 
