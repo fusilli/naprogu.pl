@@ -1,5 +1,5 @@
 ---
-title: Nie tylko skrzypce – czyli o muzyce w czasie pożegnań
+title: Nie tylko skrzypce – czyli jaka muzyka na pogrzebach
 date: 2023-01-19
 seo: Jaka muzyka może pojawić się w czasie ceremonii pogrzebowej? Jaka jest rola
   muzyki w trakcie pożegnań? Czy jest coś, czego nie wypada wówczas słuchać?
