@@ -23,11 +23,11 @@ Właśnie przez tę prostotę i przystępność może części z czytających pr
 
 No, nie. Nie będę podawać tu ogromu przykładów z życia wziętych na temat tego, dlaczego praktykowanie tego, co moglibyśmy określić mianem duchowości naturalnej, jest na małej opoczyńskiej wsi dużym wyzwaniem. Dla nakreślenia kontekstu tylko pierwszy z brzegu przykład: ośmioletni T. opowiada, że w szkole rozmawiali o zwyczajach świątecznych w swoich domach.
 
-\- Zastanawiałem się, czy się zgłosić, ale w końcu się przełamałem, podniosłem rękę i powiedziałem, że my chodzimy na grób naszej kotki. –  
+\- Zastanawiałem się, czy się zgłosić, ale w końcu się przełamałem, podniosłem rękę i powiedziałem, że my chodzimy na grób naszej kotki.  
 
-\- I co na to pani? –  
+\- I co na to pani?
 
-\- Powiedziała: „Nie uznaję” i przeszła dalej. – 
+\- Powiedziała: „Nie uznaję” i przeszła dalej.
 
 Nie chcę, żeby się z tego zrobił żal-post o polskim szkolnictwie na prowincji. Świadomie wybraliśmy miejsce, w którym mieszkamy, ze wszystkimi tej decyzji zaletami i wadami. Chcę tylko pokazać, że nie ma miejsc, gdzie świętowanie po swojemu, poza mainstreamem przychodzi z łatwością. W mieście brakuje pięknych cichych miejsc (kiedy mieszkaliśmy w Łodzi, zdarzało mi się celebrować przesilenia i równonoce na terenie ogrodów działkowych), na wsi – czasami – otwartości na to, co inne. Dobry czas i miejsce na celebrowanie są wtedy, kiedy je poczujesz, a nie wtedy, kiedy parafrazując małą Mi, przyniesie nam informację o tym biała mewa z jedwabną wstążką na szyi, przy akompaniamencie orkiestry.
 
