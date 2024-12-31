@@ -37,3 +37,9 @@ Pieśni kolędnicze niosą w sobie nie tylko moc wypowiedzianych życzeń, lecz 
 Moje przesileniowe kolędy słałam więc ku rodzącemu się Słońcu, ku Ziemi, w której zimują nasiona i zwierzęta, ku wodom mojej ukochanej Pilicy, ku drzewom i trawom, i ptakom w wyraju, i pszczołom w ulach, i lisom w norach. I wierzcie lub nie (sama pewnie bym nie uwierzyła, gdyby mnie tam nie było), ale kiedy w minucie wschodu Słońca śpiewałam ostatnią z pieśni, nad moją głową przeleciały cztery żurawie. W zachwycie i chęci podzielenia się z nimi tym, co miałam w tym momencie najlepszego – słowem, krzyknęłam do nich: „Niech się darzy!”, a wówczas powietrze nad rzeką przeszył ich donośny klangor.
 
 Cykl zatoczył pełne koło. Koniec spotkał się z początkiem, a ja wróciłam do domu w poczuciu dobrze spełnionego obowiązku. Pomogłam światu zaistnieć. Tylko i aż rytualnie.
+
+
+
+\*﻿\**
+
+Teksty starych kolęd życzących i kreacyjnych znajdziecie między innymi tutaj: konopielka.net.pl/wp/koledy i tutaj: muzeumslowianskie.pl/wydawnictwa/bog-sie-szerzy/
