@@ -17,11 +17,19 @@
       <meta property="og:image" content="/obrazki/og-image.png"/>
     {% endif %}
     <link href="/style.css?v={{ teraz() }}" rel="stylesheet">
+    <link rel="stylesheet" href="/cookieconsent/cookieconsent.css">
     <link rel="icon" href="/favicon.ico" sizes="any">
     <link rel="icon" href="/icon.svg" type="image/svg+xml">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="manifest" href="/manifest.webmanifest">
     <meta name="generator" content="Eleventy">
+    <!-- Google Tag Manager -->
+    <script type="text/plain" data-category="analytics">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WKKVHBQ9');</script>
+    <!-- End Google Tag Manager -->
     {% if page.fileSlug == "strona-glowna" -%}
       <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     {%- endif %}
