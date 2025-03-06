@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cookieconsent/
+Disallow: /fonty/
+Sitemap: https://www.naprogu.pl/sitemap.xml
