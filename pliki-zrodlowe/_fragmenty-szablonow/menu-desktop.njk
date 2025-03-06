@@ -1,0 +1,10 @@
+<nav class="hidden xl:block kontener mt-8">
+	{{ collections.all | eleventyNavigation | eleventyNavigationToHtml({
+	listClass: "flex flex-wrap justify-center gap-x-8 gap-y-2 text-xl",
+	listItemClass: "",
+	anchorClass: "no-underline hover:underline underline-2 underline-offset-4 decoration-dashed",
+	activeAnchorClass: "",
+	activeKey: eleventyNavigation.key,
+	showExcerpt: false
+	}) | safe }}
+</nav>
