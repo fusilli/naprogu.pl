@@ -7,7 +7,8 @@ CookieConsent.run({
 			enabled: true,
 			readOnly: true
 		},
-		analytics: {}
+		analytics: {},
+		advertisement: {}
 	},
 
 	language: {
@@ -37,6 +38,11 @@ CookieConsent.run({
 							title: 'Wydajność i analityka',
 							description: 'Te pliki cookie zbierają informacje o tym, jak korzystasz z naszej witryny. Wszystkie dane są anonimizowane i nie mogą być użyte do Twojej identyfikacji.',
 							linkedCategory: 'analytics'
+						},
+						{
+							title: 'Reklamy',
+							description: 'Google wykorzystuje te pliki cookie do celów reklamowych, w tym do wyświetlania reklam, personalizowania oraz mierzenia ich skuteczności.',
+							linkedCategory: 'advertisement'
 						}
 					]
 				}
