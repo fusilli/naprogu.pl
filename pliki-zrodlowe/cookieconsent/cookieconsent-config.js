@@ -23,7 +23,7 @@ CookieConsent.run({
 					showPreferencesBtn: 'Ustawienia'
 				},
 				preferencesModal: {
-					title: 'Manage cookie preferences',
+					title: 'Zarządzaj preferencjami cookies',
 					acceptAllBtn: 'Zaakceptuj wszystkie',
 					acceptNecessaryBtn: 'Tylko niezbędne',
 					savePreferencesBtn: 'Zapisz',
@@ -50,3 +50,7 @@ CookieConsent.run({
 		}
 	}
 });
+
+if(!CookieConsent.validCookie('cc_cookie')){
+	CookieConsent.acceptCategory(['necessary']);
+}
