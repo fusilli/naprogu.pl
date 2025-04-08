@@ -1,9 +1,11 @@
 {% include "head.njk" %}
   <body class="text-lg sm:text-xl leading-relaxed text-black">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WKKVHBQ9"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    {% if meta.env == 'prod' -%}
+      <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WKKVHBQ9"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+    {% endif -%}
     {% include "header.njk" %}
     <main class="my-16">
     {{ content | safe }}

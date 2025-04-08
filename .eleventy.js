@@ -46,7 +46,8 @@ module.exports = function(eleventyConfig) {
       input: "pliki-zrodlowe",
       output: "wygenerowana-strona",
       layouts: "_szablony-stron",
-      includes: "_fragmenty-szablonow"
+      includes: "_fragmenty-szablonow",
+      data: "dane",
     },
     markdownTemplateEngine : "njk"
   };

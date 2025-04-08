@@ -3,11 +3,11 @@
   "scripts": {
     "build": "npm-run-all build:css build:html",
     "build:css": "npx tailwindcss  --postcss -i ./pliki-zrodlowe/_style-zrodlowe.css -o ./pliki-zrodlowe/style.css --minify",
-    "build:html": "NODE_ENV=production npx @11ty/eleventy",
+    "build:html": "ELEVENTY_ENV=prod npx @11ty/eleventy",
     "buildcss_watch": "npm-run-all build:css watch",
     "watch": "npm-run-all --parallel watch:css watch:html",
     "watch:css": "npx tailwindcss  --postcss -i ./pliki-zrodlowe/_style-zrodlowe.css -o ./pliki-zrodlowe/style.css --watch",
-    "watch:html": "npx @11ty/eleventy --serve",
+    "watch:html": "ELEVENTY_ENV=dev npx @11ty/eleventy --serve",
     "start": "npm run buildcss_watch"
   },
   "devDependencies": {
