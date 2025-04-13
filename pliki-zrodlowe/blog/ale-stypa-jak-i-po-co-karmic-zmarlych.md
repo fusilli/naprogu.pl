@@ -4,7 +4,7 @@ date: 2024-09-06T10:58:15.123Z
 seo: Czy stypa to tylko nudna konwencja, której musimy dopełnić? Jaki był sens
   tradycyjnych uczt pogrzebowych? Co na nich podawano? Co możemy czerpać z tych
   zwyczajów dla siebie dzisiaj?
-foto: kutia.png
+foto: kutia.jpg
 opis_foto: Stół zastawiony jedzeniem z okazji nabożeństwa dla zmarłych -
   panichidy. Są na nim bochny chleba z umocowanymi na nich woskowymi świecami,
   kutia, makowiec oraz butelki z winem.

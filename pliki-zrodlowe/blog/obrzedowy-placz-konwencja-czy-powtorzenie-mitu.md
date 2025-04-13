@@ -4,7 +4,7 @@ date: 2024-07-31T09:44:20.661Z
 seo: Czy płacz w trakcie uroczystości pogrzebowych to wyłącznie społeczna
   konwencja? Społeczne, kulturowe i metafizyczne funkcje opłakiwania i
   lamentacji.
-foto: trzy-drzeea-5-.png
+foto: trzy-drzeea-5-.jpg
 opis_foto: Fresk przedstawiający Egipcjanki opłakujące śmierć królewskiego dostojnika
 info_o_foto: Opłakujące kobiety z Grobowca Ramose w tebańskiej Szajch Abd al Qurna.
 tags:

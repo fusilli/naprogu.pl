@@ -9,7 +9,7 @@ seo: "Tekst opowiada o znaczeniu rytuałów pożegnania, które angażują zmys�
   rytuały oferują autentyczne, namacalne doświadczenie. Kluczowe frazy: rytuały
   pożegnania, cielesne doświadczenie żałoby, alternatywny pogrzeb, symbolika w
   obrzędach, wspólnota w żałobie."
-foto: na-progu-2025-02-24t231051.604.png
+foto: na-progu-2025-02-24t231051.604.jpg
 opis_foto: >+
   Na zdjęciu widać wnętrze niebieskiej, ceramicznej miski o nierównej, ręcznie
   wykonanej fakturze i głębokim kolorze z ciemniejszymi cieniowaniami. W środku

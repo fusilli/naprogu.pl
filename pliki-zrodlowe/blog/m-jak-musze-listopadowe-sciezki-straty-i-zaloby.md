@@ -4,7 +4,7 @@ date: 2024-11-13T13:30:41.191Z
 seo: Strata i żałoba rodzą często oczekiwania, którym często sprostać. Presja
   czasu, oceny ze strony innych osób, ogrom spraw, którymi trzeba się zająć. Jak
   sobie z tym radzić? Kiedy warto zamiast "muszę" powiedzieć sobie "mogę"?
-foto: trzy-drzewa-26-.png
+foto: trzy-drzewa-26-.jpg
 opis_foto: Na zdjęciu znajdują się widoczne w przybliżeniu pędy roślin po
   zakończonej wegetacji, na których osiadł przymrozek.
 info_o_foto: Przemijanie

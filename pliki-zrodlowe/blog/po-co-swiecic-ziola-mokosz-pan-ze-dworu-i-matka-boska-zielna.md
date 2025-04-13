@@ -3,7 +3,7 @@ title: Po co święcić zioła? - Mokosz, pan ze dworu i Matka Boska Zielna
 date: 2024-08-14T21:37:18.106Z
 seo: Tekst poświęcony związkom święta Matki Boskiej Zielnej z obrzędowością
   żniwną i dawnym, przedchrześcijańskim obrazem tego, jak mogły one wyglądać.
-foto: trzy-drzeea-7-.png
+foto: trzy-drzeea-7-.jpg
 opis_foto: Na grafice znajduje się pochodzący ze zbiorów Muzeum Etnograficznego
   w Krakowie rysunek przedstawiający Matkę Boską w otoczeniu kwiatów, trzymającą
   w rękach małego Jezusa i snop zbóż.

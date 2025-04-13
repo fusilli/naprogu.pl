@@ -4,7 +4,7 @@ date: 2024-12-20T13:40:08.190Z
 seo: Jak obchodzić Szczodre Gody? Jak włączać dawne zwyczaje wigilijne w nasze
   dzisiejsze świętowanie? O tradycji i współczesności, o przodkach, Słońcu i
   tym, za czego nie można kupić, ale można ofiarować.
-foto: gwiazda.png
+foto: gwiazda.jpg
 opis_foto: Na dole obrazka znajdują się narysowane kredą zimowe świerki. Nad
   nimi duża, wycięta z papieru żółto-biała gwiazda.
 info_o_foto: Canva

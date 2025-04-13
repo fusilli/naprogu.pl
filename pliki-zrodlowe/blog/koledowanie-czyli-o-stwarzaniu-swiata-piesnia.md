@@ -9,7 +9,7 @@ seo: W zimową noc, przy dźwiękach przesileniowych kolęd, wkraczamy w rytuał
   Kolędowanie, jako rytuał, odzwierciedla nasze poczucie odpowiedzialności za
   świat, który tworzymy. Pomaga światu zaistnieć i wrócić do początków, w
   których człowiek i natura przenikają się w jedno.
-foto: rzeka.png
+foto: rzeka.jpg
 opis_foto: Brzeg rzeki o wschodzie słońca. Lustro wody prześwituje zza
   puszystych pióropuszy rosnącej na brzegu trzciny.
 info_o_foto: Monika Stasiak

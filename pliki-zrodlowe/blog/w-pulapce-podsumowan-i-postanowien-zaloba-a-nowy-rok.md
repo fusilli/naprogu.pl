@@ -9,7 +9,7 @@ seo: Na koniec roku media społecznościowe pełne są podsumowań i planów, al
   które rozumieją naszą stratę. Ważne jest, by nie porównywać się do innych i
   dostosować swoje plany do aktualnych możliwości, dbając o siebie w tym
   procesie.
-foto: swieczka.png
+foto: swieczka.jpg
 opis_foto: Zapalona świeczka-lampion o miękkim, ciepłym świetle, stojąca
   pośrodku kremowego dzianinowego koca.
 info_o_foto: Canva

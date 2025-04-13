@@ -9,7 +9,7 @@ seo: Poznaj symbolikę i historię tradycyjnych ręczników obrzędowych z kultu
   rytuałach i współczesnych obrzędach. Jeśli pragniesz stworzyć własny ręcznik z
   symbolami, które towarzyszą w ważnych momentach, skontaktuj się i dołącz do
   tej wyjątkowej tradycji.
-foto: recznik.png
+foto: recznik.jpg
 opis_foto: Obraz przedstawia ręcznik dekoracyjny z białego materiału, zawieszony
   na gałęziach drzew w zimowym, zaśnieżonym lesie. Ręcznik ma tradycyjny haft w
   czerwonym kolorze, który tworzy geometryczny wzór składający się z rombów oraz

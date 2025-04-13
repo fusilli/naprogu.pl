@@ -4,7 +4,7 @@ title: Dlaczego rozmowa przed ceremonią pogrzebową jest tak ważna (i dlaczego
 date: 2025-04-10T15:39:33.826Z
 seo: Rozmowa z celebrantką przed ceremonią pogrzebową to nie formalność, lecz
   ważny krok w procesie żałoby. Dowiedz się, dlaczego warto dać jej czas.
-foto: rozmowa.png
+foto: rozmowa.jpg
 opis_foto: Dwie osoby siedzące naprzeciwko siebie przy drewnianym stole, każda
   trzyma w dłoniach jasny, ceramiczny kubek. Pośrodku stoi mały, czarny dzbanek.
   Atmosfera sugeruje spokojną, intymną rozmowę, być może o ważnych sprawach. W

@@ -7,7 +7,7 @@ seo: >-
   agendy, bez ocen – tylko szczere rozmowy przy kawie.
 
   Dowiedz się, czego możesz się spodziewać na tych niezwykłych wydarzeniach i jak znaleźć spotkanie w swojej okolicy lub online. Odkryj przestrzeń, gdzie śmierć spotyka się z życiem – zapraszamy do lektury!
-foto: kawa.png
+foto: kawa.jpg
 opis_foto: Zdjęcie przedstawia grupę osób siedzących przy drewnianym stole,
   które trzymają w dłoniach filiżanki z różnymi rodzajami kawy. Widoczne są
   wyłącznie ich ręce i kubki, w tym filiżanki w jasnych kolorach, takich jak
