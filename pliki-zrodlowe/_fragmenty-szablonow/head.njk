@@ -26,6 +26,7 @@
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="manifest" href="/manifest.webmanifest">
     <meta name="generator" content="Eleventy">
+    {% if page.url != "/" and title != "Archiwum kategorii" -%}{% include "breadcrumbs.njk" %}{% endif %}
     <script type="module" src="/cookieconsent/cookieconsent-config.js"></script>
     {% if meta.env == 'prod' -%}
       <!-- Google Tag Manager -->
