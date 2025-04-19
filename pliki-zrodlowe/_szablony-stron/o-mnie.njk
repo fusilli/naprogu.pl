@@ -6,9 +6,9 @@ layout: kontener
   <hr>
   <h2 class="tytul">Co mówią uczestnicy i uczestniczki rytuałów i warsztatów, które prowadziłam? <span id="opinie-gora">Przeczytajcie:</span></h2>
   <div class="md:grid grid-cols-3">
-    <div class="siema col-span-2">
+    <div id="slajder" class="siema col-span-2">
       {% for opinia in opinie %}
-        <div>
+        <div class="opinia-{{ loop.index0 }}">
           <blockquote class="tekst">
           {{ opinia.tekst | md | safe }}
           <cite>{{ opinia.podpis | safe }}</cite>
