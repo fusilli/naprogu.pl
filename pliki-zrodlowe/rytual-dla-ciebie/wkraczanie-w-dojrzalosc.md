@@ -2,7 +2,7 @@
 foto: inicjacja.jpg
 bg: top
 layout: rytualy
-title: Wkraczanie w dojrzałość
+title: Rytuał wkraczania w dojrzałość
 seo: Rytuały dojrzewania pomagają młodej osobie otworzyć się na własny rozwój
   emocjonalny i społeczny oraz budują świadomość i akceptację zmieniającego się
   ciała.

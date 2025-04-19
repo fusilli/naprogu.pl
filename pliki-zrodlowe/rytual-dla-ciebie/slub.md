@@ -1,6 +1,6 @@
 ---
 layout: rytualy
-title: Ślub
+title: Śluby – ceremonie ślubne świeckie
 seo: Ceremonie ślubne są symbolicznym połączeniem dwóch osób oraz ich światów
   wartości, bliskich i przyjaciół we wspólną całość.
 foto: slub2.jpg

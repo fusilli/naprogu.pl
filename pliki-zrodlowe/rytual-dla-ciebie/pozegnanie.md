@@ -1,6 +1,6 @@
 ---
 layout: rytualy
-title: Pożegnanie
+title: Pożegnanie – świeckie ceremonie pogrzebowe
 seo: Rytuały pożegnania służą ukojeniu bólu po utracie bliskich, wspomnieniu
   ważnych dla nas chwil z ich życia oraz udzieleniu bliskim wsparcia przez całą
   społeczność.

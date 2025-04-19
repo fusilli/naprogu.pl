@@ -1,6 +1,6 @@
 ---
 layout: rytualy
-title: Twój rytuał
+title: Rytuały przejścia – przygotuję Twój rytuał
 seo: Pomagam zaplanować i przeprowadzić indywidualny rytuał, służący zaznaczeniu
   i oswojeniu ważnych momentów w Twoim życiu.
 foto: twoj-rytual.jpg

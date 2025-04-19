@@ -1,6 +1,6 @@
 ---
 layout: rytualy
-title: Powitanie dziecka
+title: Rytuał powitania dziecka
 seo: Powitanie dziecka to rytuał, który pozwala rodzicom pełniej odnaleźć się w
   nowej roli oraz symbolicznie włączyć małego człowieka do społeczności.
 foto: powitanie-dziecka.jpg

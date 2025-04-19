@@ -1,6 +1,6 @@
 ---
 layout: warsztaty
-title: Hafty-opowieści
+title: Warsztaty – hafty-opowieści
 seo: Warsztaty haftów-opowieści to spotkanie z igłą i nicią, tradycyjną symboliką oraz historiami i marzeniami, które w nas mieszkają.
 foto: hafty-opowiesci.jpg
 opis_foto: Na zdjęciu znajduje się fragment białego płótna z geometrycznymi motywami w kolorach czarnym i czerwonym, wyhaftowanymi haftem krzyżykowym.
