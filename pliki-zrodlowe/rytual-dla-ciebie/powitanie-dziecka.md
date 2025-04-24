@@ -25,6 +25,6 @@ Zwykle pierwszą rozmowę odbywamy w formule online. Jeśli zdecydujecie się na
 
 W﻿ dniu ceremonii jestem z Wami przez cały czas wydarzenia, subtelnie czuwam nad jego przebiegiem  prowadzę Was i pozostałe osoby przez jego poszczególne części tak, żebyście mogli skupić się na tym, co dla Was najistotniejsze.
 
-K﻿oszt przygotowania i poprowadzenia przeze mnie ceremonii powitania dziecka wynosi od 750 zł do 1150 zł w zależności od odległości i stopnia rozbudowania wydarzenia.
+K﻿oszt przygotowania i poprowadzenia przeze mnie ceremonii powitania dziecka wynosi zazwyczaj od 1200 zł do 1600 zł w zależności od odległości i stopnia rozbudowania wydarzenia.
 
 Jeśli chcecie, żebym pomogła Wam zaplanować i przeprowadzić ceremonię powitania dla Waszego dziecka albo macie pytania jej dotyczące, [skontaktujcie się ze mną](/kontakt/).
