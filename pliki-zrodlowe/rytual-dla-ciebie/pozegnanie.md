@@ -12,19 +12,31 @@ date: 2022-03-04
 ---
 Na tle pozostałych momentów granicznych w naszym życiu, śmierć jest wydarzeniem szczególnym, bo nieodwracalnym. Tracimy osobę, która dotąd była częścią naszej codzienności; z którą łączą nas wspomnienia, uczucia, więzy krwi lub przyjaźni. Każdy z nas doświadcza śmierci i żałoby po stracie najbliższych we właściwy sobie sposób.
 
-Rolą świeckich ceremonii pogrzebowych jest indywidualne pożegnanie osoby zmarłej w zgodzie z jej systemem wartości oraz towarzyszenie bliskim w przeżyciu żałoby. Dobrze zaprojektowana ceremonia ma wspierać rodzinę i przyjaciół w tym procesie oraz pomóc w utrzymaniu trwałej emocjonalnej więzi z osobą, która odeszła. Każde pożegnanie jest inne, tak jak inne są żegnane osoby i ich relacja z najbliższymi.
+## Dlaczego warto zdecydować się na świecką ceremonię pogrzebową?
 
-Różna może być także forma pożegnań. Zwykle utożsamiamy je z ostatnią drogą, w której towarzyszymy zmarłej osobie w domu przedpogrzebowym lub kaplicy i na cmentarzu. Na pożegnanie może się jednak składać również czuwanie przy zmarłej osobie w domu w gronie najbliższych czy spotkanie poświęcone jej pamięci odbywające się w domu czy w przyrodzie. Możemy także podzielić ceremonię pożegnania na kilka części, z których każda będzie miała nieco inne znaczenie i będzie skierowana do innego grona osób.
+Rolą **świeckich ceremonii pogrzebowych** jest indywidualne pożegnanie osoby zmarłej w zgodzie z jej systemem wartości oraz towarzyszenie bliskim w przeżyciu żałoby. Dobrze zaprojektowana ceremonia i obrządek świecki mają wspierać rodzinę i przyjaciół w tym procesie oraz pomóc w utrzymaniu trwałej emocjonalnej więzi z osobą, która odeszła. Każde pożegnanie jest inne, tak jak inne są żegnane osoby i ich relacja z najbliższymi. 
+
+## Jak może wyglądać świecki obrządek pożegnania po śmierci?
+
+Różna może być także forma **pożegnań** **świeckich**. Zwykle utożsamiamy je z ostatnią drogą, w której towarzyszymy zmarłej osobie w domu przedpogrzebowym lub kaplicy i na cmentarzu. Na pożegnanie może się jednak składać również czuwanie przy zmarłej osobie w domu w gronie najbliższych czy spotkanie poświęcone jej pamięci odbywające się w domu, czy w przyrodzie. Możemy także podzielić ceremonię pożegnania na kilka części, z których każda będzie miała nieco inne znaczenie i będzie skierowana do innego grona osób.
+
+## Celebrantka świeckiej ceremonii pogrzebowej - kim jestem?
 
 Jestem celebrantką świeckich ceremonii pogrzebowych, absolwentką szkoleń: "Creating a Personal Farewell" (prowadzenie - Anja Franczak z Instytutu Dobrej Śmierci, Jan Moellers z domu pogrzebowego Memento Bestattungen) oraz (także prowadzonego przez Anję Franczak) szkolenia „Czułe pożegnanie – warsztaty opieki nad osobą zmarłą". Należę do Kolektywu Instytutu Dobrej Śmierci. Poza rytuałami pożegnania, prowadzę także kręgi wsparcia w żałobie oraz spotkania i warsztaty związane z edukacją funeralną.
 
-Każde z prowadzonych przez siebie pożegnań traktuję indywidualnie, wsłuchując się w Państwa potrzeby i historię, z którą do mnie przychodzicie. Tworzę wielowątkową opowieść o osobie, która odeszła, włączając do niej fragmenty wspomnień, ulubionych książek, wierszy czy piosenek. Wiem, jak ważną rolę odgrywa to, co niewerbalne, więc w czasie tworzenia pożegnań, zwracam uwagę na symboliczne gesty, działania, przedmioty czy utwory muzyczne, które się na nich pojawią.
+Każde z prowadzonych przez siebie pożegnań traktuję indywidualnie, wsłuchując się w Państwa potrzeby i historię, z którą do mnie przychodzicie. Tworzę wielowątkową opowieść o osobie, która odeszła, włączając do niej fragmenty wspomnień, ulubionych książek, wierszy czy piosenek. 
+
+## Jak wygląda przygotowanie do ceremonii pożegnania?
+
+Wiem, jak ważną rolę odgrywa to, co niewerbalne, więc w czasie tworzenia pożegnań, zwracam uwagę na symboliczne gesty, działania, przedmioty czy utwory muzyczne, które się na nich pojawią.
 
 * Przygotowanie ceremonii rozpoczynam od pogłębionej rozmowy z najbliższymi, która pozwoli mi lepiej poznać żegnaną osobę – jej historię, charakter, codzienne nawyki, relacje z innymi, ukochane miejsca, filmy czy potrawy. Wsłuchuję się w Państwa wspomnienia, opowieści, uczucia.
 * Na podstawie rozmowy, przygotowuję indywidualny scenariusz rytuału pożegnania, który następnie konsultuję z Państwem, uzupełniam i zmieniam, zgodnie z Waszymi sugestiami.
 * W trakcie rytuału pożegnania subtelnie towarzyszę Wam i czuwam nad przebiegiem ceremonii jako całości oraz nad najdrobniejszymi jej szczegółami. Przemawiam, ale także oddaję głos najbliższym, muzyce albo działaniom symbolicznym, które pełnią równie ważną rolę jak słowa. Jestem po to, by trzymać przestrzeń dla Waszych wspomnień i uczuć.
 
-Koszt przygotowania i poprowadzenia przeze mnie ceremonii różni się w zależności od formy współpracy, na którą się Państwo zdecydujecie:
+## Ile kosztuje świecka ceremonia pogrzebowa?
+
+Koszt przygotowania i poprowadzenia przeze mnie **ceremonii** **pożegnania** różni się w zależności od formy współpracy, na którą się Państwo zdecydujecie:
 
 1. **Klasyczna ceremonia pożegnania** – prowadzona jest zwykle na cmentarzu lub w domu przedpogrzebowym/kaplicy, ale w zależności od Państwa potrzeb może się także odbywać w parku, w domu czy w innym miejscu, które było ważne dla osoby zmarłej.
    Zarówno miejsce jak i formę ceremonii wybieramy wspólnie po pogłębionej rozmowie z najbliższymi. Całość opisuję w indywidualnym scenariuszu pożegnania, który wspólnie z Państwem modyfikujemy i dostosowujemy do Waszych oczekiwań. W czasie pożegnania prowadzę Państwa przez poszczególne etapy ceremonii, dostarczam też wszystkie przedmioty i atrybuty niezbędne do jej przeprowadzenia (materiały do części symbolicznej, głośnik, rzutnik itp.). Ogół działań składających się na wydarzenie, zamyka się w ciągu jednego dnia.
