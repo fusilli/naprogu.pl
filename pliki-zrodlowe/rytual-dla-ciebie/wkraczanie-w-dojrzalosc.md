@@ -16,9 +16,13 @@ Współcześnie także chcemy wesprzeć nasze dzieci w procesie dorastania. Zale
 
 Świeckie rytuały towarzyszące wkraczaniu w dojrzałość, stanowią z jednej strony nawiązanie do ceremonii tradycyjnych, z drugiej zaś – poszerzają je i przekraczają, dając przestrzeń na to, co indywidualne i osobiste.
 
+## Dlaczego warto zdecydować się na ceremonie dorastania?
+
 Rytuały dojrzałościowe pomagają naszym dzieciom budować świadomość i akceptację zmian, którym podlega ich ciało, emocje, życie społeczne. Ułatwiają wyjście z dzieciństwa i otworzenie się na własny rozwój. Dają wzrastającej osobie poczucie wsparcia ze strony bliskich – wspólnotę wiedzy, doświadczeń i uczuć.
 
-Pracę nad rytuałami dorastania zaczynam od spotkania z Wami, żebyśmy mogły i mogli porozmawiać, lepiej się poznać, opowiedzieć o potrzebach, granicach i możliwościach. Zależy mi na tym, aby poznać Was wszystkich – rodziców lub opiekunów oraz osobę, dla której przygotowujemy wspólnie ceremonię dojrzałościową. Przeprowadzenie rytuału może się odbywać jedynie przy zgodzie i akceptacji Waszego dziecka.
+## Ceremonie dojrzewania - jak wygląda przygotowanie do rytuału?
+
+Pracę nad **rytuałami dorastania** zaczynam od spotkania z Wami, żebyśmy mogły i mogli porozmawiać, lepiej się poznać, opowiedzieć o potrzebach, granicach i możliwościach. Zależy mi na tym, aby poznać Was wszystkich – rodziców lub opiekunów oraz osobę, dla której przygotowujemy wspólnie ceremonię dojrzałościową. Przeprowadzenie rytuału może się odbywać jedynie przy zgodzie i akceptacji Waszego dziecka.
 
 Na podstawie tego, co usłyszę od Was w trakcie spotkania, proponuję scenariusz ceremonii, nad którym będziemy wspólnie pracować, wzbogacając go o kolejne elementy oraz dokonując zmian tam, gdzie jest taka potrzeba.
 
