@@ -28,4 +28,4 @@ Na podstawie tego, co usłyszę od Was w trakcie spotkania, proponuję scenarius
 
 W czasie ceremonii czuwam subtelnie nad całością wydarzenia, przeprowadzam Was przez jego kolejne etapy oraz dbam o osoby znajdujące się w przestrzeni rytualnej. Towarzyszę Wam w tym ważnym momencie po to, żebyście mogły i mogli skupić się na tym, co dla Was ważne.
 
-Jeśli chcec się ze mną skontaktować i zapytać o rytuał dla Waszego dziecka, [zajrzyjcie do tej zakładki](https://www.naprogu.pl/kontakt/).[](/kontakt/)
+Jeśli chcecie się ze mną skontaktować i zapytać o rytuał dla Waszego dziecka, [zajrzyjcie do tej zakładki](https://www.naprogu.pl/kontakt/).[](/kontakt/)
