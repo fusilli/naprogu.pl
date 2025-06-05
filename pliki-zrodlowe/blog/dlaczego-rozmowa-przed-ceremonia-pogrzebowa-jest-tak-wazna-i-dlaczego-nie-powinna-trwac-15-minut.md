@@ -25,26 +25,18 @@ Z różnych powodów w przypadku pożegnań ten czas poświęcony rozmowie o zma
 
 W ciągu ostatnich kilku tygodni odbyłam kilka rozmów z Wami (część z nich zakończyła się współtworzeniem ceremonii, jedna nie). Opiszę je tutaj krótko, żeby pokazać, jak dużą rolę w kontekście ceremonii, ale też samego procesu żałoby, ma spotkanie celebrantki z bliskimi zmarłej osoby oraz atmosfera, w jakiej się odbywa. 
 
-
-
-Historia pierwsza – błyskawiczna
+## Historia pierwsza – błyskawiczna
 
 Dzwoni do mnie pani, która będzie żegnać teściową. Opowiadam o tym, jak pracuję: że umawiam się z bliskimi na rozmowę, która trwa około dwóch godzin i w trakcie której pytam o oczekiwania związane z pożegnaniem, o zmarłą osobę, jej życie, nawyki, pasje, wrażliwość, relacje z innymi. Dopiero w oparciu to, co usłyszę, przygotowuję propozycję przebiegu ceremonii, nad którą wspólnie pracujemy. Po paru chwilach klientka stwierdza, że nie znajdzie dwóch godzin na rozmowę. Liczyła, że mam jakieś gotowe skrypty, które wykorzystuję na ceremoniach.
 „Wiem, że są mistrzowie i mistrzynie ceremonii, którzy tak robią – mówię – Ja nie pracuję w ten sposób”.  Wyjaśniam także dlaczego. Żegnamy się w atmosferze życzliwości, ale nie będziemy współpracować. Rozumiem to. Zdarzają się różne sytuacje i różne oczekiwania. Dobrze, że są w branży pogrzebowej osoby, które odpowiadają na takie zapotrzebowanie.
 
-
-
-Historia druga – o zaufaniu i przestrzeni na emocje
+## Historia druga – o zaufaniu i przestrzeni na emocje
 
 Dzwoni pan, który będzie żegnał babcię i wspiera dziadka w przygotowaniach. Czasu do ceremonii jest niewiele, więc tym bardziej upewniam się, że mają gotowość na spotkanie. Mówię, że możemy się spotkać gdzieś w przestrzeni neutralnej, ale jeśli chcą porozmawiać w domu, z łatwiejszym dostępem do zdjęć czy pamiątek po babci, jest w tym duża wartość. Wahają się, ale ostatecznie umawiamy się u nich. Rozmawiamy przez dwie godziny, przy kawie i zapalonej świeczce, oglądamy fotografie, słuchamy muzyki, która będzie grana na pożegnaniu. Jest miejsce na nostalgię, humorystyczne anegdoty i na łzy; na ból i gniew; na gesty czułości i bliskości, które kultura zwykle każe chować mężczyznom za maską twardości i dawania sobie rady. Gdy rozmowa zbliża się powoli do końca, starszy pan mówi nieoczekiwanie: „Dziękuję za to, co pani już zrobiła, za to, że pani przyszła i wysłuchała”. Cała reszta przygotowań jest tylko pochodną tego spotkania: emocji i słów, które mogły płynąć bez pospieszania, oceniania i narzucania czegokolwiek.
 
-
-
-Historia trzecia – o wielowymiarowości
+## Historia trzecia – o wielowymiarowości
 
 Pożegnanie pana, o którym powiedzieć, że był wyrazistą postacią, to nic nie powiedzieć. W tle dużo barwnych opowieści, ale też ogrom trudnych, zawikłanych relacji i uczuć. Rozmawiam z dziećmi i z bratem zmarłego, a potem jeszcze z przyjaciółką i z pierwszą żoną. Z każdym kolejnym głosem, który wybrzmiewa, opowieść nabiera dodatkowych wymiarów, pozwala się czytać różnymi oczami, oświetlić z różnych stron. Scenariusz ceremonii tworzę więc z tej różnorodności, troszcząc się zarówno o uhonorowanie życia zmarłego, jak o uznanie kruchości, wielości i autentyczności uczuć, które się z nim wiązały.
-
-
 
 To są opowieści, których nie da się zebrać w ciągu dziesięciu czy trzydziestu minut. Potrzeba czasu, żeby między celebrantką a osobami doświadczającymi straty zbudować nić zaufania. Potrzeba czasu, by wyjść poza poziom ogólników („dobry człowiek”, „kochał zwierzęta”) i wejść na poziom mikro-historii, rodzinnych anegdot i powiedzonek, na poziom wzruszeń, których nie trzeba się wstydzić ani ukrywać. Czas jest także potrzebny, by zamiast zagadywać milczenie, gdy się pojawi – dać mu przestrzeń. Albo by w skupieniu przez parę minut słuchać płynącej z głośników „Ciszy”, wybranej przez męża wybrał na pożegnanie dla żony, z którą spędził ponad pół wieku.
 
