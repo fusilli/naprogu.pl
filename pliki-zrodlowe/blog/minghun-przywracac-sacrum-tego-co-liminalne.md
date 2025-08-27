@@ -21,7 +21,7 @@ tags:
 ---
 O filmie Jana P. Matuszyńskiego napisano już wiele. Jako spóźniona recenzentka mogłabym więc dorzucić do tej puli swoje trzy grosze, ale chcę się zamiast tego podzielić z Wami czymś, co przeniesie nas na grunt rodzimej kultury funeralnej.
 
-Na pierwszy rzut oka ceremonia zaślubin między umarłymi wydaje się być tak odległa od polskich obrzędów pogrzebowych jak tylko można. Przeszłość to jednak inna planeta, a wyprawy w nią (choćby te tekstualne, w oparciu o źródła historyczne i etnograficzne) mogą być równie niesamowite jak te w odległe regiony świata.
+Na pierwszy rzut oka ceremonia zaślubin między umarłymi wydaje się być tak odległa od polskich obrzędów pogrzebowych jak tylko można. Przeszłość to jednak inna planeta, a wyprawy w nią (choćby te tekstualne, w oparciu o źródła historyczne i etnograficzne) mogą być równie niesamowite jak podróże w odległe regiony świata.
 
 ## **Pierścień i wianki - wesele umarłego**
 
