@@ -7,6 +7,9 @@ seo: "Ślub humanistyczny i ślub cywilny to dwa odmienne sposoby celebrowania
 foto: ceremonia-slubna-swiecka.jpg
 opis_foto: Młoda para podczas ceremonii ślubnej świeckiej
 info_o_foto: Młoda para
+tags:
+  - ślub
+  - ceremonia
 ---
 Ślub humanistyczny i ślub cywilny to dwa odmienne sposoby celebrowania związku. Pierwszy ma charakter symboliczny i nie wywołuje skutków prawnych, drugi natomiast jest formalnym aktem małżeńskim uznawanym przez państwo. Coraz więcej par w Polsce decyduje się na ślub humanistyczny jako uzupełnienie lub alternatywę dla ceremonii urzędowej.
 
