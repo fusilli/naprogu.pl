@@ -18,9 +18,9 @@ W przeciwieństwie do ślubu cywilnego ślub humanistyczny nie wymaga żadnych f
 
 ## **Czego nie obejmuje ślub humanistyczny?**
 
-Warto zaznaczyć, że ślub humanistyczny nie rodzi skutków prawnych – para nie staje się małżeństwem w rozumieniu prawa polskiego. Uroczystość nie wymaga również gromadzenia dokumentów ani spełniania formalności urzędowych. Nie ma też charakteru religijnego i nie podlega żadnym przepisom kościelnym. To wydarzenie symboliczne, skoncentrowane na emocjach, głębokich przeżyciach i więziach międzyludzkich a nie na formalnych konsekwencjach.
+Warto zaznaczyć, że ślub humanistyczny nie rodzi skutków prawnych – para nie staje się małżeństwem w rozumieniu prawa polskiego. Uroczystość nie wymaga również gromadzenia dokumentów ani spełniania formalności urzędowych. Nie ma też charakteru religijnego i nie podlega żadnym przepisom kościelnym. To wydarzenie symboliczne, skoncentrowane na emocjach, głębokich przeżyciach i więziach międzyludzkich, a nie na formalnych konsekwencjach.
 
-**Ślub humanistyczny** może być połączony z cywilnym, kiedy urzędnik dokonuje formalnego aktu potwierdzenia zawarcia małżeństwa, natomiast celebrantka odpowiada za osobistą, rytualną stronę uroczystości. Taka uroczystość łączona, kiedy przedstawiciel USC udziela ślubu poza urzędem (np. w parku) wiąże się jednak z dodatkową opłatą i wymaga zgody kierownika USC. Pary, które chcą, by ich ślub miał także moc prawną, a nie tylko osobistą i symboliczną mogą także zorganizować dwa odrębne wydarzenia: formalny ślub w urzędzie oraz humanistyczny w wybranym wspólnie miejscu i czasie.
+**Ślub humanistyczny** może być połączony z cywilnym, kiedy urzędnik dokonuje formalnego aktu potwierdzenia zawarcia małżeństwa, natomiast celebrantka odpowiada za osobistą, rytualną stronę uroczystości. Taka uroczystość łączona, kiedy przedstawiciel USC udziela ślubu poza urzędem (np. w parku), wiąże się jednak z dodatkową opłatą i wymaga zgody kierownika USC. Pary, które chcą, by ich ślub miał także moc prawną, a nie tylko osobistą i symboliczną mogą także zorganizować dwa odrębne wydarzenia: formalny ślub w urzędzie oraz humanistyczny w wybranym wspólnie miejscu i czasie.
 
 ## **Czy ślub humanistyczny jest ważny?**
 
