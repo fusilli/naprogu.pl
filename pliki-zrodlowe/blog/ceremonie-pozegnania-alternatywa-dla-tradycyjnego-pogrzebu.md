@@ -1,6 +1,6 @@
 ---
 title: Ceremonie pożegnania – alternatywa dla tradycyjnego pogrzebu
-date: 2025-10-14T12:11:16.864Z
+date: 2024-04-16T12:11:16.864Z
 seo: "Świeckie ceremonie pożegnania, nazywane także pogrzebami humanistycznymi,
   stanowią alternatywę, w której centrum znajdują się: życie i wartości
   zmarłego."
