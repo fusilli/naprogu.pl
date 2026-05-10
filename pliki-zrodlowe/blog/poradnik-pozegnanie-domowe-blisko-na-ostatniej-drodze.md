@@ -8,4 +8,6 @@ info_o_foto: Poradnik
 tags:
   - poradnik
 ---
-P﻿rzed Państwem poradnik o pożegnaniach domowych. Zapraszamy do lektury.
+P﻿rzed Państwem poradnik o pożegnaniach domowych. Zapraszamy do lektury:
+
+[pliki-zrodlowe/obrazki/poradnik.pdf](pliki-zrodlowe/obrazki/poradnik.pdf)
