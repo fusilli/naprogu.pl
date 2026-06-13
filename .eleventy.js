@@ -9,6 +9,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addWatchTarget("./pliki-zrodlowe/style.css");
   eleventyConfig.addPassthroughCopy("./pliki-zrodlowe/style.css");
   eleventyConfig.addPassthroughCopy("./pliki-zrodlowe/obrazki");
+  eleventyConfig.addPassthroughCopy("./pliki-zrodlowe/pobierz");
   eleventyConfig.addPassthroughCopy("./pliki-zrodlowe/fonty");
   eleventyConfig.addPassthroughCopy("./pliki-zrodlowe/favicon.ico");
   eleventyConfig.addPassthroughCopy("./pliki-zrodlowe/icon-192.png");

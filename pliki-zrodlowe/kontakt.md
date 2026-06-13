@@ -6,7 +6,7 @@ seo: Nazywam się Monika Stasiak i prowadzę świeckie ceremonie przejścia. Je�
   mnie lub zadzwoń.
 eleventyNavigation:
   key: Kontakt
-  order: 6
+  order: 7
 ---
 Jeśli chcesz, bym pomogła Ci zaplanować i przeprowadzić rytuał przejścia, napisz do mnie lub zadzwoń.
 

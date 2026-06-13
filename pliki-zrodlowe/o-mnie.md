@@ -9,7 +9,7 @@ opis_foto: Portretowe zdjęcie, stojącej na tle zieleni kobiety, z rozpuszczony
 info_o_foto: Maciej Kronenberg
 eleventyNavigation:
   key: O mnie
-  order: 5
+  order: 6
 opinie:
   - tekst: >
       Kiedy na świat przychodzi dziecko, potrzebne są otwarte drzwi. Te w
