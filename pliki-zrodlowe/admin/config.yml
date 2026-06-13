@@ -83,6 +83,21 @@ collections:
               - { label: "Tytuł", name: "key", widget: "string" }
               - { label: "Kolejność", name: "order", widget: "number" }
           - { label: "Treść", name: "body", widget: "markdown" }
+      - label: "Pożegnania domowe – poradnik"
+        name: "pozegnania-domowe-poradnik"
+        file: "pliki-zrodlowe/pozegnania-domowe-poradnik.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "poradnik" }
+          - { label: "Tytuł", name: "title", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "text" }
+          - label: "Pozycja w menu…"
+            name: "eleventyNavigation"
+            widget: "object"
+            collapsed: true
+            fields: 
+              - { label: "Tytuł", name: "key", widget: "string" }
+              - { label: "Kolejność", name: "order", widget: "number" }
+          - { label: "Treść", name: "body", widget: "markdown" }
       - label: "O mnie"
         name: "o-mnie"
         file: "pliki-zrodlowe/o-mnie.md"
