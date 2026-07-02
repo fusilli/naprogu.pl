@@ -34,5 +34,6 @@ Dopiero jednak kiedy T. poprosił, byśmy odtąd zwracali się do niego nowym, c
 
 Stoję więc w pokorze i zadziwieniu nad procesem, który zainicjowaliśmy, a który potoczył się własnym życiem, zasilany szczodrze przez całą naszą społeczność. Rytuały są, żeby pomieścić cud zmiany w tym, co dające się uchwycić zmysłami. Są po to, by wracać ku wartościom, które konstytuują nas jako jednostki i wspólnoty. Są po to, by tworzyć więzi.
 
-(\*) Ursula K. Le Guin, Ziemiomorze (t. 1) Czarnoksiężnik z Archipelagu, tłum. Stanisław Barańczak, Prószyński Media, 2022.
-(\**) Clarissa Pinkola Estes, Biegnąca z wilkami, tłum. Agnieszka Cioch, Zysk i S-ka, Poznań 2001.
+(*) Ursula K. Le Guin, Ziemiomorze (t. 1) Czarnoksiężnik z Archipelagu, tłum. Stanisław Barańczak, Prószyński Media, 2022.
+
+(\*\*) Clarissa Pinkola Estes, Biegnąca z wilkami, tłum. Agnieszka Cioch, Zysk i S-ka, Poznań 2001.
