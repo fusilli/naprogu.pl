@@ -65,11 +65,11 @@ collections:
               - { label: "Tytuł", name: "key", widget: "string" }
               - { label: "Kolejność", name: "order", widget: "number" }
           - { label: "Treść", name: "body", widget: "markdown" }
-      - label: "Warsztaty przemiany"
-        name: "warsztaty-przemiany"
-        file: "pliki-zrodlowe/warsztaty-przemiany.md"
+      - label: "Edukacja i opowieści"
+        name: "edukacja-i-opowiesci"
+        file: "pliki-zrodlowe/edukacja-i-opowiesci.md"
         fields:
-          - { label: "Layout", name: "layout", widget: "hidden", default: "warsztaty" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "edukacja" }
           - { label: "Tytuł", name: "title", widget: "string" }
           - { label: "SEO", name: "seo", widget: "text" }
           - { label: "Foto", name: "foto", widget: "string" }
@@ -82,6 +82,83 @@ collections:
             fields: 
               - { label: "Tytuł", name: "key", widget: "string" }
               - { label: "Kolejność", name: "order", widget: "number" }
+          - { label: "Treść", name: "body", widget: "markdown" }
+      - label: "Kultura, obrzędy, folklor"
+        name: "kultura-obrzedy-folklor"
+        file: "pliki-zrodlowe/edukacja-i-opowiesci/kultura-obrzedy-folklor.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "edukacja" }
+          - { label: "Tytuł", name: "title", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "text" }
+          - { label: "Foto", name: "foto", widget: "string" }
+          - { label: "Opis foto", name: "opis_foto", widget: "text" }
+          - { label: "Info o foto", name: "info_o_foto", widget: "string" }
+          - { label: "Treść", name: "body", widget: "markdown" }
+      - label: "Wykłady"
+        name: "wyklady"
+        file: "pliki-zrodlowe/edukacja-i-opowiesci/kultura-obrzedy-folklor/wyklady.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "edukacja" }
+          - { label: "Tytuł", name: "title", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "text" }
+          - { label: "Foto", name: "foto", widget: "string" }
+          - { label: "Opis foto", name: "opis_foto", widget: "text" }
+          - { label: "Info o foto", name: "info_o_foto", widget: "string" }
+          - { label: "Treść", name: "body", widget: "markdown" }
+      - label: "Warsztaty"
+        name: "warsztaty"
+        file: "pliki-zrodlowe/edukacja-i-opowiesci/kultura-obrzedy-folklor/warsztaty.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "edukacja" }
+          - { label: "Tytuł", name: "title", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "text" }
+          - { label: "Foto", name: "foto", widget: "string" }
+          - { label: "Opis foto", name: "opis_foto", widget: "text" }
+          - { label: "Info o foto", name: "info_o_foto", widget: "string" }
+          - { label: "Treść", name: "body", widget: "markdown" }
+      - label: "Śmierć, żałoba, pożegnania"
+        name: "smierc-zaloba-pozegnania"
+        file: "pliki-zrodlowe/edukacja-i-opowiesci/smierc-zaloba-pozegnania.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "edukacja" }
+          - { label: "Tytuł", name: "title", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "text" }
+          - { label: "Foto", name: "foto", widget: "string" }
+          - { label: "Opis foto", name: "opis_foto", widget: "text" }
+          - { label: "Info o foto", name: "info_o_foto", widget: "string" }
+          - { label: "Treść", name: "body", widget: "markdown" }
+      - label: "Dla osób indywidualnych"
+        name: "dla-osob-indywidualnych"
+        file: "pliki-zrodlowe/edukacja-i-opowiesci/smierc-zaloba-pozegnania/dla-osob-indywidualnych.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "edukacja" }
+          - { label: "Tytuł", name: "title", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "text" }
+          - { label: "Foto", name: "foto", widget: "string" }
+          - { label: "Opis foto", name: "opis_foto", widget: "text" }
+          - { label: "Info o foto", name: "info_o_foto", widget: "string" }
+          - { label: "Treść", name: "body", widget: "markdown" }
+      - label: "Dla profesjonalistów"
+        name: "dla-profesjonalistow"
+        file: "pliki-zrodlowe/edukacja-i-opowiesci/smierc-zaloba-pozegnania/dla-profesjonalistow.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "edukacja" }
+          - { label: "Tytuł", name: "title", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "text" }
+          - { label: "Foto", name: "foto", widget: "string" }
+          - { label: "Opis foto", name: "opis_foto", widget: "text" }
+          - { label: "Info o foto", name: "info_o_foto", widget: "string" }
+          - { label: "Treść", name: "body", widget: "markdown" }
+      - label: "Baśnie i opowieści"
+        name: "basnie-i-opowiesci"
+        file: "pliki-zrodlowe/edukacja-i-opowiesci/basnie-i-opowiesci.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "edukacja" }
+          - { label: "Tytuł", name: "title", widget: "string" }
+          - { label: "SEO", name: "seo", widget: "text" }
+          - { label: "Foto", name: "foto", widget: "string" }
+          - { label: "Opis foto", name: "opis_foto", widget: "text" }
+          - { label: "Info o foto", name: "info_o_foto", widget: "string" }
           - { label: "Treść", name: "body", widget: "markdown" }
       - label: "Pożegnania domowe – poradnik"
         name: "pozegnania-domowe-poradnik"
@@ -149,17 +226,6 @@ collections:
       - { label: "Opis foto", name: "opis_foto", widget: "text" }
       - { label: "Info o foto", name: "info_o_foto", widget: "string" }
       - { label: "Data (odpowiada tylko za kolejność kafelków)", name: "date", widget: "datetime", date_format: "YYYY-MM-DD" }
-      - { label: "Treść", name: "body", widget: "markdown" }
-  - label: "Warsztaty"
-    name: "warsztaty"
-    folder: "pliki-zrodlowe/warsztaty-przemiany"
-    create: false
-    fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "rytualy" }
-      - { label: "Tytuł", name: "title", widget: "string" }
-      - { label: "SEO", name: "seo", widget: "text" }
-      - { label: "Foto", name: "foto", widget: "string" }
-      - { label: "Opis foto", name: "opis_foto", widget: "text" }
       - { label: "Treść", name: "body", widget: "markdown" }
   - label: "Blog"
     name: "blog"

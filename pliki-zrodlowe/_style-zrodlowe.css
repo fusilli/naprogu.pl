@@ -34,7 +34,9 @@ hr {
   @apply h-3 bg-repeat-x border-0 mt-16 mb-14;
   background-image: url("/obrazki/wezyk.svg");
 }
-
+details { @apply ml-5 }
+details summary { @apply text-czerwony cursor-pointer -ml-5; }
+details[open] summary { @apply mb-4; }
 .glowna-przyciski {
   a {
     @apply border-2 border-dashed hover:border-solid focus:border-solid border-czerwony no-underline px-4 pt-2 pb-3 md:hover:bg-czerwony md:focus:bg-czerwony place-items-center;
