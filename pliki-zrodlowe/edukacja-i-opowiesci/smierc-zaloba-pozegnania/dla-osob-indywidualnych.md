@@ -1,9 +1,14 @@
 ---
 layout: edukacja
 title: Dla osób indywidualnych
-seo: 
-foto: 
-opis_foto: 
+seo: Prowadzę warsztaty o żałobie i pożegnaniach dla osób, które szukają
+  wsparcia po stracie lub przygotowują się na odejście kogoś bliskiego.
+foto: indywidualni.jpg
+opis_foto: Zdjęcie pokazuje warsztaty o pożegnaniach, gdzie prowadząca zawija w
+  całun - lnianą tkaninę kobietę leżącą głową w stronę obiektywu. W tle, na
+  ścianie, wycięte ze sklejki duże drzewo, obok niego stoi jeszcze jedna osoba o
+  rozmytej twarzy i konturach.
+info_o_foto: Edyta Bielatowicz
 ---
 Być może jesteś osobą, która doświadczyła straty bliskich.
 Zastanawiasz się, jak z czułością towarzyszyć w żałobie swoim krewnym lub przyjaciołom.
