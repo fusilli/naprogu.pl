@@ -4,7 +4,7 @@ title: Dla profesjonalistów
 seo: Prowadzę szkolenia i mentoring dla zakładów pogrzebowych oraz instytucji
   opieki paliatywnej. Pokazuję, jak można z empatią i profesjonalizmem pracować
   z krewnymi zmarłej osoby.
-foto: necroexpo.jpg
+foto: hospicjum.jpg
 opis_foto: Fotografia przedstawia scenę z pogrzebu domowego stworzoną na
   potrzeby targów funeralnych. W lewym dolnym rogu zdjęcia stoi prowadząca z
   mikrofonem w ręku. Obok niej leży na łóżku w czerwonej sukience osoba
