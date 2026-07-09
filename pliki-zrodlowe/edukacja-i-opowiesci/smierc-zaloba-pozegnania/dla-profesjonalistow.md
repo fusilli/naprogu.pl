@@ -12,7 +12,7 @@ opis_foto: Fotografia przedstawia scenę z pogrzebu domowego stworzoną na
   prowadzącą i zmarłą osob grające rolę krewnych. Na drugim planie, w górnej
   części zdjęcia znajduje się na krzesełkach publiczność przyglądająca się temu,
   co się dzieje.
-info_o_foto: NecroExpo
+info_o_foto: Hospicjum w Tomaszowie Mazowieckim
 ---
 Towarzyszenie osobom po stracie nie musi być tylko realizacją procedur ani kwestią indywidualnej empatii. To praktyka, którą możemy wypracować, by odbiorcy naszych działań czuli się traktowani w sposób podmiotowy i indywidualny. Proponowane przeze mnie szkolenia i konsultacje dla instytucji opieki paliatywnej oraz zakładów pogrzebowych czerpią w tego przekonania, jednocześnie pokazując różne jego aspekty i obszary, w których może się przejawiać. Zachęcam do zapoznania się z propozycją.
 
