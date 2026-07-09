@@ -1,9 +1,14 @@
 ---
 layout: edukacja
 title: Baśnie i opowieści
-seo: 
-foto: 
-opis_foto: 
+seo: Tworzę i opowiadam baśnie zakorzenione w rodzimym folklorze. Opowiadam
+  zarówno dla kameralnych kręgowych grup jak dla dużych audytoriów.
+foto: bilibin6-1622817016.jpg
+opis_foto: Ilustracja przedstawia ubraną w jasną sukienkę i wartuch dziewczynę,
+  która idzie nocą przez las. Za plecami ma chatkę Baby Jagi, w ręku trzyma
+  nadzianą na patyk czaszkę o płonących oczodołach. Rysunek jest interpretacją
+  Iwana Bilibina do baśni o Wasylisie.
+info_o_foto: Iwan Bilibin
 ---
 Baśnie nie są czymś „tylko dla dzieci”. Są sposobem, w jaki opowiadamy sobie świat. Przeglądając się w historiach bohaterów i bohaterek, szukamy swojego w nim miejsca. Zadajemy sobie pytania o to, co nas porusza do głębi i co wiąże nas z otaczającą rzeczywistością. Siadamy zasłuchani w kręgu, czując, że łączą nas podobne tęsknoty, marzenia, rozterki.
 
