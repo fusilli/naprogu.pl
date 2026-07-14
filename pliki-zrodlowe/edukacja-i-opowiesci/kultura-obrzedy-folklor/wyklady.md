@@ -4,10 +4,8 @@ title: Wykłady
 seo: Wykłady o słowiańszczyźnie, kulturze tradycyjnej, dawnej obrzędowości i
   folklorze. Pomagam zrozumieć, jak działa kultura i co z tego, co dawne wpływa
   na nas dzisiaj.
-foto: img_20240823_162137.jpg
-opis_foto: Na zdjęciu młoda kobieta prowadzi wykład w dość ciemnej, wykładanej
-  drewnem sali. Fotografia pozwala uchwycić prowadzącą, jasny ekran oraz kilka
-  osób siedzących w pierwszym rzędzie.
+foto: pliki-zrodlowe/obrazki/fot_wygladzone.png
+opis_foto: pliki-zrodlowe/obrazki/fot_wygladzone.png
 info_o_foto: Maciek Kronenberg
 ---
 Opowiadając o kulturze tradycyjnej, zwyczajach i obrzędach, nie traktuję ich jako oderwanych od siebie ciekawostek, ale jako przejawy złożonego i zachwycającego obrazu świata, do którego możemy zajrzeć, gdy wiemy, jak go czytać. Dzielę się tym doświadczeniem ze słuchaczami i słuchaczkami w trakcie wykładów, gawęd, pogadanek. Poniżej wymieniam wybrane grupy zagadnień i tematy wykładów, o jakich mogę opowiedzieć.
