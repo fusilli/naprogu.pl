@@ -4,11 +4,14 @@ title: Dla profesjonalistów
 seo: Prowadzę szkolenia i mentoring dla zakładów pogrzebowych oraz instytucji
   opieki paliatywnej. Pokazuję, jak można z empatią i profesjonalizmem pracować
   z krewnymi zmarłej osoby.
-foto: img_0014.jpg
-opis_foto: Na fotografii znajduje się młoda kobieta z mikrofonem, ubrana w
-  zieloną spódnicę i czarną bluzką. Obok niej jasny ekran. Kobieta opowiada coś
-  przez mikrofon w stronę publiczności, podnosząc w górę prawą rękę.
-info_o_foto: Łucja Lange
+foto: necroexpo.jpg
+opis_foto: Na fotografii, w lewym dolnym rogu znajduje się młoda kobieta z
+  mikrofonem, stojąca przy zainscenizowanym na potrzeby szkolenia łóżku, na
+  którym leży inna kobieta w czerwonej sukience, a dookoła siedzą trzy inne
+  osoby. Zdjęcie jest inscenizacją pożegnania domowego zrobioną na potrzeby
+  targów branży funeralnej. W górnej części zdjęcia siedzi publiczność zwrócona
+  twarzami w stronę prowadzącej.
+info_o_foto: Necroexpo
 ---
 Towarzyszenie osobom po stracie nie musi być tylko realizacją procedur ani kwestią indywidualnej empatii. To praktyka, którą możemy wypracować, by odbiorcy naszych działań czuli się traktowani w sposób podmiotowy i indywidualny. Proponowane przeze mnie szkolenia i konsultacje dla instytucji opieki paliatywnej oraz zakładów pogrzebowych czerpią w tego przekonania, jednocześnie pokazując różne jego aspekty i obszary, w których może się przejawiać. Zachęcam do zapoznania się z propozycją.
 
