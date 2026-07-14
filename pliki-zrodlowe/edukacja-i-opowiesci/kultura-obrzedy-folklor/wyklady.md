@@ -4,7 +4,7 @@ title: Wykłady
 seo: Wykłady o słowiańszczyźnie, kulturze tradycyjnej, dawnej obrzędowości i
   folklorze. Pomagam zrozumieć, jak działa kultura i co z tego, co dawne wpływa
   na nas dzisiaj.
-foto: pliki-zrodlowe/obrazki/fot_wygladzone.png
+foto: fot_wygladzone.png
 opis_foto: Na fotografii znajduje się młoda kobieta z mikrofonem, ubrana w
   zieloną spódnicę i czarną bluzką. Obok niej jasny ekran. Kobieta opowiada coś
   przez mikrofon w stronę publiczności, podnosząc w górę prawą rękę.
