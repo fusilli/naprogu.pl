@@ -9,8 +9,7 @@ opis_foto: Na fotografii, w lewym dolnym rogu znajduje się młoda kobieta z
   mikrofonem, stojąca przy zainscenizowanym na potrzeby szkolenia łóżku, na
   którym leży inna kobieta w czerwonej sukience, a dookoła siedzą trzy inne
   osoby. Zdjęcie jest inscenizacją pożegnania domowego zrobioną na potrzeby
-  targów branży funeralnej. W górnej części zdjęcia siedzi publiczność zwrócona
-  twarzami w stronę prowadzącej.
+  targów branży funeralnej.
 info_o_foto: NecroExpo
 ---
 Towarzyszenie osobom po stracie nie musi być tylko realizacją procedur ani kwestią indywidualnej empatii. To praktyka, którą możemy wypracować, by odbiorcy naszych działań czuli się traktowani w sposób podmiotowy i indywidualny. Proponowane przeze mnie szkolenia i konsultacje dla instytucji opieki paliatywnej oraz zakładów pogrzebowych czerpią w tego przekonania, jednocześnie pokazując różne jego aspekty i obszary, w których może się przejawiać. Zachęcam do zapoznania się z propozycją.
