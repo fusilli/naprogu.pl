@@ -1,10 +1,12 @@
 ---
 layout: poradnik
 title: Pożegnania domowe – poradnik
-seo: 
+seo: "Pierwszy w Polsce poradnik o pożegnaniach domowych (pożegnaniach
+  prowadzonych przez społeczność) w wersji dla: odbiorców indywidualnych,
+  instytucji opieki paliatywnej i zakładów pogrzebowych."
 foto: pozegnanie-domowe.webp
 opis_foto: Pożegnanie domowe – okładka
-info_o_foto: 
+info_o_foto: null
 eleventyNavigation:
   key: Pożegnania domowe – poradnik
   order: 4
@@ -20,9 +22,9 @@ Choć autorką poradnika jestem ja, to publikacja powstała w ciągłej wymianie
 
 Poniżej znajdą Państwo
 
-- [poradnik dla odbiorców indywidualnych](/pobierz/pozegnanie-domowe-blisko-na-ostatniej-drodze.pdf) ([PDF](/pobierz/pozegnanie-domowe-blisko-na-ostatniej-drodze.pdf), [EPUB](/pobierz/pozegnanie-domowe-blisko-na-ostatniej-drodze.epub), [MOBI](/pobierz/pozegnanie-domowe-blisko-na-ostatniej-drodze.mobi)), czyli dla każdej i każdego z nas;
-- a także [przewodnik wdrożeniowy, który kieruję przede wszystkim do instytucji](/pobierz/blisko-na-ostatniej-drodze-przewodnik-wdrozeniowy-dla-instytucji-uslug-spolecznych.pdf) ([PDF](/pobierz/blisko-na-ostatniej-drodze-przewodnik-wdrozeniowy-dla-instytucji-uslug-spolecznych.pdf), [EPUB](/pobierz/blisko-na-ostatniej-drodze-przewodnik-wdrozeniowy-dla-instytucji-uslug-spolecznych.epub), [MOBI](/pobierz/blisko-na-ostatniej-drodze-przewodnik-wdrozeniowy-dla-instytucji-uslug-spolecznych.mobi)) związanych z opieką na ostatnim etapie życia: hospicjów, domów pomocy społecznej, zakładów opiekuńczo-leczniczych, szpitali. Wierzę, że nawet, gdy śmierć następuje w jednym z tych miejsc, można przy odrobinie zaangażowania stwarzać warunki do pożegnania „jak w domu”;
-- oraz [wskazówki dla domów pogrzebowych](/pobierz/blisko-na-ostatniej-drodze-wskazowki-dla-zakladow-pogrzebowych.pdf) ([PDF](/pobierz/blisko-na-ostatniej-drodze-wskazowki-dla-zakladow-pogrzebowych.pdf), [EPUB](/pobierz/blisko-na-ostatniej-drodze-wskazowki-dla-zakladow-pogrzebowych.epub), [MOBI](/pobierz/blisko-na-ostatniej-drodze-wskazowki-dla-zakladow-pogrzebowych.mobi)).
+* [poradnik dla odbiorców indywidualnych](/pobierz/pozegnanie-domowe-blisko-na-ostatniej-drodze.pdf) ([PDF](/pobierz/pozegnanie-domowe-blisko-na-ostatniej-drodze.pdf), [EPUB](/pobierz/pozegnanie-domowe-blisko-na-ostatniej-drodze.epub), [MOBI](/pobierz/pozegnanie-domowe-blisko-na-ostatniej-drodze.mobi)), czyli dla każdej i każdego z nas;
+* a także [przewodnik wdrożeniowy, który kieruję przede wszystkim do instytucji](/pobierz/blisko-na-ostatniej-drodze-przewodnik-wdrozeniowy-dla-instytucji-uslug-spolecznych.pdf) ([PDF](/pobierz/blisko-na-ostatniej-drodze-przewodnik-wdrozeniowy-dla-instytucji-uslug-spolecznych.pdf), [EPUB](/pobierz/blisko-na-ostatniej-drodze-przewodnik-wdrozeniowy-dla-instytucji-uslug-spolecznych.epub), [MOBI](/pobierz/blisko-na-ostatniej-drodze-przewodnik-wdrozeniowy-dla-instytucji-uslug-spolecznych.mobi)) związanych z opieką na ostatnim etapie życia: hospicjów, domów pomocy społecznej, zakładów opiekuńczo-leczniczych, szpitali. Wierzę, że nawet, gdy śmierć następuje w jednym z tych miejsc, można przy odrobinie zaangażowania stwarzać warunki do pożegnania „jak w domu”;
+* oraz [wskazówki dla domów pogrzebowych](/pobierz/blisko-na-ostatniej-drodze-wskazowki-dla-zakladow-pogrzebowych.pdf), które chcą zaoferować swoim odbiorcom pożegnania dostosowane do indywidualnych potrzeb i rytmu żałoby ([PDF](/pobierz/blisko-na-ostatniej-drodze-wskazowki-dla-zakladow-pogrzebowych.pdf), [EPUB](/pobierz/blisko-na-ostatniej-drodze-wskazowki-dla-zakladow-pogrzebowych.epub), [MOBI](/pobierz/blisko-na-ostatniej-drodze-wskazowki-dla-zakladow-pogrzebowych.mobi)).
 
 Poradnikowi towarzyszą trzy filmy instruktażowe pokazujące różne aspekty domowego pożegnania. Zapraszam do oglądania, lektury oraz do dzielenia się ze mną swoimi refleksjami:
 <a href="&#109;&#97;ilt&#111;&#58;rytua&#37;6Cy%&#52;0%6&#69;a%7&#48;%72ogu&#37;2&#69;&#37;&#55;&#48;&#108;">r&#121;&#116;ualy&#64;napr&#111;gu&#46;&#112;l</a>.
