@@ -1,10 +1,16 @@
 ---
 layout: edukacja
 title: Edukacja i opowieści
-seo: 
-foto: 
-opis_foto: 
-info_o_foto: 
+seo: Jestem antropolożką kultury. Poprzez wykłady, warsztaty, szkolenia i baśnie
+  opowiadam świat i nasze, ludzkie z nim relacje. Sięgam do tradycyjnych
+  wierzeń, folkloru i obrzędów, łącząc je ze współczesną wiedzą psychologiczną i
+  socjologiczną.
+foto: studnia.jpg
+opis_foto: Na zdjęciu znajduje się położona w trawie płytka studnia o niskiej
+  kamiennej cembrowinie - położonej tylko odrobinę powyżej poziomu gruntu. W
+  studni, około trzydziestu centymetrów poniżej krawędzi cembrowiny, jest ciemna
+  woda.
+info_o_foto: Canva
 eleventyNavigation:
   key: Edukacja i opowieści
   order: 3
