@@ -1,5 +1,5 @@
 ---
-layout: edukacja
+layout: smierc-zaloba-pozegnania
 title: Dla profesjonalistów
 seo: Prowadzę szkolenia i mentoring dla zakładów pogrzebowych oraz instytucji
   opieki paliatywnej. Pokazuję, jak można z empatią i profesjonalizmem pracować

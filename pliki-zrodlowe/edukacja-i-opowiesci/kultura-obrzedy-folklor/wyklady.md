@@ -1,5 +1,5 @@
 ---
-layout: edukacja
+layout: kultura-obrzedy-folklor
 title: Wykłady
 seo: Wykłady o słowiańszczyźnie, kulturze tradycyjnej, dawnej obrzędowości i
   folklorze. Pomagam zrozumieć, jak działa kultura i co z tego, co dawne wpływa

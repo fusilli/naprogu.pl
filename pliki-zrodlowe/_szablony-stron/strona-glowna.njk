@@ -23,7 +23,11 @@ layout: bazowy
     </a>
   </div>
   <div class="kontener mt-12">
+    <h2 class="tytul text-center mt-16"><a href="/rytual-dla-ciebie/">Rytuał dla Ciebie</a></h2>
     {% set strona = collections.rytualy %}
+    {% include "podstrony.njk" %}
+    <h2 class="tytul text-center mt-16"><a href="/edukacja-i-opowiesci/">Edukacja i&nbsp;opowieści</a></h2>
+    {% set strona = collections.edukacja %}
     {% include "podstrony.njk" %}
     <div class="md:grid grid-cols-3 gap-8 mt-16">
       <div class="col-start-1 col-span-1 mb-8 md:mb-0">

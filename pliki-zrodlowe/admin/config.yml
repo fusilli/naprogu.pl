@@ -87,18 +87,19 @@ collections:
         name: "kultura-obrzedy-folklor"
         file: "pliki-zrodlowe/edukacja-i-opowiesci/kultura-obrzedy-folklor.md"
         fields:
-          - { label: "Layout", name: "layout", widget: "hidden", default: "edukacja" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "kultura-obrzedy-folklor" }
           - { label: "Tytuł", name: "title", widget: "string" }
           - { label: "SEO", name: "seo", widget: "text" }
           - { label: "Foto", name: "foto", widget: "string" }
           - { label: "Opis foto", name: "opis_foto", widget: "text" }
           - { label: "Info o foto", name: "info_o_foto", widget: "string" }
+          - { label: "Data (odpowiada tylko za kolejność kafelków)", name: "date", widget: "datetime", date_format: "YYYY-MM-DD" }
           - { label: "Treść", name: "body", widget: "markdown" }
       - label: "Wykłady"
         name: "wyklady"
         file: "pliki-zrodlowe/edukacja-i-opowiesci/kultura-obrzedy-folklor/wyklady.md"
         fields:
-          - { label: "Layout", name: "layout", widget: "hidden", default: "edukacja" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "kultura-obrzedy-folklor" }
           - { label: "Tytuł", name: "title", widget: "string" }
           - { label: "SEO", name: "seo", widget: "text" }
           - { label: "Foto", name: "foto", widget: "string" }
@@ -109,7 +110,7 @@ collections:
         name: "warsztaty"
         file: "pliki-zrodlowe/edukacja-i-opowiesci/kultura-obrzedy-folklor/warsztaty.md"
         fields:
-          - { label: "Layout", name: "layout", widget: "hidden", default: "edukacja" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "kultura-obrzedy-folklor" }
           - { label: "Tytuł", name: "title", widget: "string" }
           - { label: "SEO", name: "seo", widget: "text" }
           - { label: "Foto", name: "foto", widget: "string" }
@@ -120,18 +121,19 @@ collections:
         name: "smierc-zaloba-pozegnania"
         file: "pliki-zrodlowe/edukacja-i-opowiesci/smierc-zaloba-pozegnania.md"
         fields:
-          - { label: "Layout", name: "layout", widget: "hidden", default: "edukacja" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "smierc-zaloba-pozegnania" }
           - { label: "Tytuł", name: "title", widget: "string" }
           - { label: "SEO", name: "seo", widget: "text" }
           - { label: "Foto", name: "foto", widget: "string" }
           - { label: "Opis foto", name: "opis_foto", widget: "text" }
           - { label: "Info o foto", name: "info_o_foto", widget: "string" }
+          - { label: "Data (odpowiada tylko za kolejność kafelków)", name: "date", widget: "datetime", date_format: "YYYY-MM-DD" }
           - { label: "Treść", name: "body", widget: "markdown" }
       - label: "Dla osób indywidualnych"
         name: "dla-osob-indywidualnych"
         file: "pliki-zrodlowe/edukacja-i-opowiesci/smierc-zaloba-pozegnania/dla-osob-indywidualnych.md"
         fields:
-          - { label: "Layout", name: "layout", widget: "hidden", default: "edukacja" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "smierc-zaloba-pozegnania" }
           - { label: "Tytuł", name: "title", widget: "string" }
           - { label: "SEO", name: "seo", widget: "text" }
           - { label: "Foto", name: "foto", widget: "string" }
@@ -142,7 +144,7 @@ collections:
         name: "dla-profesjonalistow"
         file: "pliki-zrodlowe/edukacja-i-opowiesci/smierc-zaloba-pozegnania/dla-profesjonalistow.md"
         fields:
-          - { label: "Layout", name: "layout", widget: "hidden", default: "edukacja" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "smierc-zaloba-pozegnania" }
           - { label: "Tytuł", name: "title", widget: "string" }
           - { label: "SEO", name: "seo", widget: "text" }
           - { label: "Foto", name: "foto", widget: "string" }
@@ -153,12 +155,13 @@ collections:
         name: "basnie-i-opowiesci"
         file: "pliki-zrodlowe/edukacja-i-opowiesci/basnie-i-opowiesci.md"
         fields:
-          - { label: "Layout", name: "layout", widget: "hidden", default: "edukacja" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "foto-i-tekst" }
           - { label: "Tytuł", name: "title", widget: "string" }
           - { label: "SEO", name: "seo", widget: "text" }
           - { label: "Foto", name: "foto", widget: "string" }
           - { label: "Opis foto", name: "opis_foto", widget: "text" }
           - { label: "Info o foto", name: "info_o_foto", widget: "string" }
+          - { label: "Data (odpowiada tylko za kolejność kafelków)", name: "date", widget: "datetime", date_format: "YYYY-MM-DD" }
           - { label: "Treść", name: "body", widget: "markdown" }
       - label: "Pożegnania domowe – poradnik"
         name: "pozegnania-domowe-poradnik"

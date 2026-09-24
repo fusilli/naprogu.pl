@@ -1,5 +1,5 @@
 ---
-layout: edukacja
+layout: smierc-zaloba-pozegnania
 title: Dla osób indywidualnych
 seo: Prowadzę warsztaty o żałobie i pożegnaniach dla osób, które szukają
   wsparcia po stracie lub przygotowują się na odejście kogoś bliskiego.

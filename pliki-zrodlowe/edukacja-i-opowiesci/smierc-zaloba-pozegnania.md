@@ -1,5 +1,5 @@
 ---
-layout: edukacja
+layout: smierc-zaloba-pozegnania
 title: Śmierć, żałoba, pożegnania
 seo: Prowadzę wykłady, szkolenia, warsztaty dotyczące śmierci, pożegnań,
   umierania. Pracuję zarówno z osobami undywidualnymi jak instytucjami i
@@ -10,6 +10,8 @@ opis_foto: 'Na zdjęciu, na tle szaroniebieskiej ścianki ze złotymi akcentami,
   biały stolik. Napis na ścianie głosi: "Polskie Stowarzyszenie Celebrantek i
   Celebrantów".'
 info_o_foto: Wojciech Bonk
+tags: edukacja
+date: 2026-06-02
 ---
 Choć śmierć jest końcem życia, wcale nie musi oznaczać końca relacji. W swoich szkoleniach, warsztatach i konsultacjach pokazuję, jak osoby dotknięte stratą i ich bliscy mogą podarować sobie czułe, niespieszne pożegnanie. Podpowiadam także instytucjom opieki paliatywnej oraz zakładom pogrzebowym, jak komunikować się z osobami w żałobie oraz dostosowywać swoją ofertę do potrzeb odbiorców.
 

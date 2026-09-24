@@ -1,5 +1,5 @@
 ---
-layout: edukacja
+layout: kultura-obrzedy-folklor
 title: Warsztaty
 seo: Prowadzę warsztaty z obszaru kultury tradycyjnej, rzemiosła i rękodzieła,
   obrzędowości, tworzenia i prowadzenia rytuałów przejścia oraz ceremonii

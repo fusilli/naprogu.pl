@@ -1,5 +1,5 @@
 ---
-layout: edukacja
+layout: kultura-obrzedy-folklor
 title: Kultura, obrzędy, folklor
 seo: Warsztaty i wykłady o kulturze tracycyjnej, folklorze, obrzędach,
   słowiańszczyźnie.
@@ -8,6 +8,8 @@ opis_foto: Na fotografii kuca przy blaszanej misie, w której płonie ofień, m�
   kobieta w granatowej spódnicy i jasnej chustce. Wokół niej stoją inne kobiety,
   twarzą zwrócone w stronę ognia.
 info_o_foto: MOK Olsztyn
+tags: edukacja
+date: 2026-06-01
 ---
 W swoich działaniach edukacyjnych nie prowadzę „szkoleń z obszaru kultury”. Zamiast tego pomagam zrozumieć, jak kultura odpowiada na najważniejsze pytania człowieka: o życie i śmierć, stałość i zmianę czy o więzi i zobowiązania, które łączą nas z samymi sobą, innymi ludźmi, światem przyrody.
 

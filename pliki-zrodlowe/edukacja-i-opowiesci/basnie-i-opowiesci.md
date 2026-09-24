@@ -1,5 +1,5 @@
 ---
-layout: edukacja
+layout: foto-i-tekst
 title: Baśnie i opowieści
 seo: Tworzę i opowiadam baśnie zakorzenione w rodzimym folklorze. Opowiadam
   zarówno dla kameralnych kręgowych grup jak dla dużych audytoriów.
@@ -9,6 +9,8 @@ opis_foto: Zdjęcie przedstawia młodą kobietę w granatowej spódnicy i jasnej
   Wokół niej w kręgu siedzi kilka innych kobiet, które zwrócone są twarzami na
   nią.
 info_o_foto: MOK Olsztyn
+tags: edukacja
+date: 2026-06-03
 ---
 Baśnie nie są czymś „tylko dla dzieci”. Są sposobem, w jaki opowiadamy sobie świat. Przeglądając się w historiach bohaterów i bohaterek, szukamy swojego w nim miejsca. Zadajemy sobie pytania o to, co nas porusza do głębi i co wiąże nas z otaczającą rzeczywistością. Siadamy zasłuchani w kręgu, czując, że łączą nas podobne tęsknoty, marzenia, rozterki.
 
