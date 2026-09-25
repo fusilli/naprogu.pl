@@ -19,7 +19,7 @@ tags:
   - ceremonieświeckie
   - żałoba
 ---
-Co jakiś czas rozmawiam ze znajomymi, którzy mówią: „Wiesz, uczestniczyłem w świeckim pogrzebie. Było tak sobie, ale ostatecznie lepsze to niż kościelny”. Stwierdziłam, że warto w końcu rozprawić się z tym mitem. Argumentacja stojąca za takim przekonaniem jest następująca: ksiądz prowadzi pożegnanie schematycznie, poświęca uwagę jedynie obrządkowi, nie skupiając się w ogóle na zmarłym i jego życiu, udziela banalnych rad i pocieszeń, które nie wspierają osób w żałobie, a jedynie pogłębiają ich ból. Czy rzeczywiście tak jest? Odpowiadam, dzieląc to zagadnienie na kilka wątków.
+Co jakiś czas rozmawiam ze znajomymi, którzy mówią: „Wiesz, uczestniczyłem w świeckim pogrzebie. Było tak sobie, ale ostatecznie lepsze to niż kościelny”. Stwierdziłam, że warto w końcu rozprawić się z tym mitem. Argumentacja stojąca za takim przekonaniem jest następująca: ksiądz prowadzi pożegnanie schematycznie, poświęca uwagę jedynie obrządkowi, nie skupiając się w ogóle na zmarłym i jego życiu, udziela banalnych rad i pocieszeń, które nie wspierają osób w żałobie, a jedynie pogłębiają ich ból. Czy rzeczywiście pogrzeb świecki zawsze cechuje się wysoką jakością przygotowania i prowadzenia, a religijny może być co najwyżej poprawny? I czy ostre rozróżnienie: świecki-wyznaniowy jest uzasadnione? Odpowiadam, dzieląc to zagadnienie na kilka wątków.
 
 ### Czy pogrzeb świecki zawsze jest udany?
 
