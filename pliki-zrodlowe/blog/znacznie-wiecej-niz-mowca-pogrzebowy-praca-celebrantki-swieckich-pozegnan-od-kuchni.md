@@ -55,4 +55,6 @@ Czy więc praca celebrantki pogrzebowej jest trudna? Bywa. Czy potrzeba do niej 
 
 A jednocześnie to praca, która przynosi ogrom pokory i wdzięczności: dla życia i śmierci, dla ludzi, których historie poznaję i tych, którzy mi je powierzają. Taka, w której mam szansę wyjść poza siebie, by stać się naczyniem dla potrzeb, emocji i opowieści innych osób, a kiedy do siebie wracam, niosę dalej cząstkę ich mądrości i doświadczenia. Taka, w której spotykam się z ludźmi w momencie ich największej kruchości i pomagam im z delikatnością przejść przez doświadczenie pożegnania tak, by z perspektywy czasu było tym, co wzmacnia i współtworzy opowieść o miłości i stracie.
 
+\-﻿------------------------------------------------
+
 Jeśli chcesz zaprosić mnie do przygotowania i poprowadzenia ceremonii pożegnania, [napisz lub zadzwoń](https://www.naprogu.pl/kontakt/).
